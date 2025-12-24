@@ -286,7 +286,8 @@ class S3ReconChunked:
                 return 'unknown'
                 
         except LocationParseError:
-            return 'private'
+            # URL parsing failed - likely malformed URL, treat as unknown
+            return 'unknown'
         except requests.exceptions.RequestException:
             return 'private'
     
