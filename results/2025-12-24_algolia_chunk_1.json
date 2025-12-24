@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "algolia",
+  "date": "2025-12-24",
+  "timestamp": "2025-12-24T16:38:04.344061",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
