@@ -13,6 +13,7 @@ from datetime import datetime
 import hashlib
 import gzip
 import struct
+from urllib3.exceptions import LocationParseError
 
 AWS_REGIONS = [
     'us-east-1', 'us-east-2', 'us-west-1', 'us-west-2',
@@ -258,6 +259,10 @@ class S3ReconChunked:
                 if self.verbose:
                     print(f"[!] Timeout: {url}")
                 continue
+            except LocationParseError as e:
+                if self.verbose:
+                    print(f"[!] LocationParseError: {url} -> {e}")
+                continue
             except requests.exceptions.RequestException as e:
                 if self.verbose:
                     print(f"[!] Error: {url} -> {type(e).__name__}")
@@ -280,6 +285,9 @@ class S3ReconChunked:
             else:
                 return 'unknown'
                 
+        except LocationParseError:
+            # URL parsing failed - likely malformed URL, treat as unknown
+            return 'unknown'
         except requests.exceptions.RequestException:
             return 'private'
     
