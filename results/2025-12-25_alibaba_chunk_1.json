@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "alibaba",
+  "date": "2025-12-25",
+  "timestamp": "2025-12-25T14:29:55.414810",
+  "results": {
+    "public": [
+      {
+        "url": "https://alibaba-poc.s3.us-east-1.amazonaws.com",
+        "bucket": "alibaba-poc",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-25T12:43:01.549641"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
