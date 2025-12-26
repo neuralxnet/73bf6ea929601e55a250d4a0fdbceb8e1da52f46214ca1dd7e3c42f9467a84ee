@@ -2,6 +2,14 @@
   "buckets": {
     "public": [
       {
+        "url": "https://alibaba-poc.s3.us-east-1.amazonaws.com",
+        "bucket": "alibaba-poc",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-25T12:43:01.549641"
+      },
+      {
         "url": "https://s3.us-east-2.amazonaws.com/yelp.wiki",
         "bucket": "yelp.wiki",
         "region": "us-east-2",
@@ -3186,14 +3194,6 @@
         "timestamp": "2025-12-26T01:26:15.656349+00:00"
       },
       {
-        "url": "https://alibaba-poc.s3.us-east-1.amazonaws.com",
-        "bucket": "alibaba-poc",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2025-12-26T01:26:15.721864+00:00"
-      },
-      {
         "url": "https://s3.ap-south-1.amazonaws.com/zerodha.trade",
         "bucket": "zerodha.trade",
         "region": "ap-south-1",
@@ -3300,8 +3300,10 @@
     ],
     "private": []
   },
-  "generated_at": "2025-12-26T01:26:16.187909+00:00",
-  "validated_at": "2025-12-26T01:26:16.187923+00:00",
+  "generated_at": "2025-12-26T01:57:50.063128+00:00",
+  "source_files": 5,
+  "domains_scanned": 4,
+  "total_chunks": 5,
   "file_index": 0,
   "total_files": 1,
   "stats": {
