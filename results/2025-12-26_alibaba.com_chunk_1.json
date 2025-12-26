@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "alibaba.com",
+  "date": "2025-12-26",
+  "timestamp": "2025-12-26T01:33:46.783394",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
