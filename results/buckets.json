@@ -2610,14 +2610,6 @@
         "timestamp": "2025-12-27T01:24:42.161929+00:00"
       },
       {
-        "url": "https://alipay-test.s3.ap-northeast-1.amazonaws.com",
-        "bucket": "alipay-test",
-        "region": "ap-northeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2025-12-27T01:24:42.166552+00:00"
-      },
-      {
         "url": "https://wordpress-base.s3.ap-northeast-1.amazonaws.com",
         "bucket": "wordpress-base",
         "region": "ap-northeast-1",
@@ -3288,22 +3280,38 @@
         "status": 200,
         "access": "public",
         "timestamp": "2025-12-27T01:24:44.235834+00:00"
+      },
+      {
+        "url": "https://alipay-test.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "alipay-test",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-27T10:17:57.487481"
+      },
+      {
+        "url": "https://alipay-map.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "alipay-map",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-27T10:24:06.846135"
       }
     ],
     "private": []
   },
-  "generated_at": "2025-12-27T01:55:42.514966+00:00",
-  "source_files": 5,
+  "generated_at": "2025-12-27T12:47:40.382529+00:00",
+  "source_files": 4,
   "domains_scanned": 4,
-  "total_chunks": 5,
+  "total_chunks": 4,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 411,
+    "public_buckets_in_file": 412,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 411,
-    "total_public_buckets": 411,
+    "total_buckets_in_file": 412,
+    "total_public_buckets": 412,
     "total_private_buckets": 0,
-    "total_buckets": 411
+    "total_buckets": 412
   }
 }
