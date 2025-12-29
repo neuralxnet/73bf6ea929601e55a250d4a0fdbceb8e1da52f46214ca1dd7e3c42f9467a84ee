@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "alphax",
+  "date": "2025-12-29",
+  "timestamp": "2025-12-29T14:29:05.508998",
+  "results": {
+    "public": [
+      {
+        "url": "https://alphax.s3.sa-east-1.amazonaws.com",
+        "bucket": "alphax",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-29T13:39:19.032348"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
