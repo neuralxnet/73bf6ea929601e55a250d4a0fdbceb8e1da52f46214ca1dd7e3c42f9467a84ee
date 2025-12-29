@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "allegrosandbox.pl",
+  "date": "2025-12-29",
+  "timestamp": "2025-12-29T10:33:38.346809",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
