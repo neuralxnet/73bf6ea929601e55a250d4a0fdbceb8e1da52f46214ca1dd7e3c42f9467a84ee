@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "amap",
   "date": "2025-12-29",
-  "timestamp": "2025-12-29T19:31:15.027609",
+  "timestamp": "2025-12-29T22:29:19.045873",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "eu-central-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2025-12-29T17:26:15.477029"
+        "timestamp": "2025-12-29T19:44:52.079020"
       },
       {
         "url": "https://amap-stable.s3.eu-central-1.amazonaws.com",
@@ -19,7 +19,7 @@
         "region": "eu-central-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2025-12-29T17:44:10.690945"
+        "timestamp": "2025-12-29T21:34:21.894038"
       }
     ],
     "private": []
