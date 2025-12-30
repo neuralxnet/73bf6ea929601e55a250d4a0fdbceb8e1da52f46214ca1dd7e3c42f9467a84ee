@@ -2,6 +2,30 @@
   "buckets": {
     "public": [
       {
+        "url": "https://alphax.s3.sa-east-1.amazonaws.com",
+        "bucket": "alphax",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-29T13:39:19.032348"
+      },
+      {
+        "url": "https://amap.s3.eu-central-1.amazonaws.com",
+        "bucket": "amap",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-29T19:44:52.079020"
+      },
+      {
+        "url": "https://amap-stable.s3.eu-central-1.amazonaws.com",
+        "bucket": "amap-stable",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-29T21:34:21.894038"
+      },
+      {
         "url": "https://zendesk-application.s3.us-east-1.amazonaws.com",
         "bucket": "zendesk-application",
         "region": "us-east-1",
@@ -2594,14 +2618,6 @@
         "timestamp": "2025-12-30T01:26:37.778225+00:00"
       },
       {
-        "url": "https://amap.s3.eu-central-1.amazonaws.com",
-        "bucket": "amap",
-        "region": "eu-central-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2025-12-30T01:26:37.826107+00:00"
-      },
-      {
         "url": "https://smilee-dev.s3.eu-west-3.amazonaws.com",
         "bucket": "smilee-dev",
         "region": "eu-west-3",
@@ -3250,14 +3266,6 @@
         "timestamp": "2025-12-30T01:26:39.919045+00:00"
       },
       {
-        "url": "https://alphax.s3.sa-east-1.amazonaws.com",
-        "bucket": "alphax",
-        "region": "sa-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2025-12-30T01:26:39.939654+00:00"
-      },
-      {
         "url": "https://vivov3.s3.ap-south-1.amazonaws.com",
         "bucket": "vivov3",
         "region": "ap-south-1",
@@ -3300,16 +3308,18 @@
     ],
     "private": []
   },
-  "generated_at": "2025-12-30T01:26:40.165642+00:00",
-  "validated_at": "2025-12-30T01:26:40.165658+00:00",
+  "generated_at": "2025-12-30T01:59:22.104734+00:00",
+  "source_files": 5,
+  "domains_scanned": 4,
+  "total_chunks": 5,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 412,
+    "public_buckets_in_file": 413,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 412,
-    "total_public_buckets": 412,
+    "total_buckets_in_file": 413,
+    "total_public_buckets": 413,
     "total_private_buckets": 0,
-    "total_buckets": 412
+    "total_buckets": 413
   }
 }
