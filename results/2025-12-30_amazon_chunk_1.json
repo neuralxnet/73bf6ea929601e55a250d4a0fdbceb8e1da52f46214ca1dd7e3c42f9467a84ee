@@ -1,0 +1,304 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon",
+  "date": "2025-12-30",
+  "timestamp": "2025-12-30T06:37:39.246556",
+  "results": {
+    "public": [
+      {
+        "url": "https://amazon-s3.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-s3",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:32:27.077089"
+      },
+      {
+        "url": "https://up-amazon.s3.us-west-1.amazonaws.com",
+        "bucket": "up-amazon",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:43:38.837064"
+      },
+      {
+        "url": "https://amazonproject.s3.eu-west-1.amazonaws.com",
+        "bucket": "amazonproject",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:44:18.448497"
+      },
+      {
+        "url": "https://amazonseo.s3.us-east-1.amazonaws.com",
+        "bucket": "amazonseo",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:45:38.389290"
+      },
+      {
+        "url": "https://amazonnewsletter.s3.eu-central-1.amazonaws.com",
+        "bucket": "amazonnewsletter",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:48:47.807610"
+      },
+      {
+        "url": "https://amazon-images1.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "amazon-images1",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:50:57.615910"
+      },
+      {
+        "url": "https://amazonbilder.s3.eu-central-1.amazonaws.com",
+        "bucket": "amazonbilder",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T03:53:38.007945"
+      },
+      {
+        "url": "https://amazonlink.s3.us-east-2.amazonaws.com",
+        "bucket": "amazonlink",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:00:11.684711"
+      },
+      {
+        "url": "https://amazon-emails.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-emails",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:01:07.598209"
+      },
+      {
+        "url": "https://amazonvideos.s3.us-east-1.amazonaws.com",
+        "bucket": "amazonvideos",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:05:06.123450"
+      },
+      {
+        "url": "https://s3.ap-northeast-1.amazonaws.com/amazon.photos",
+        "bucket": "amazon.photos",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:27:01.851149"
+      },
+      {
+        "url": "https://amazon-fonts.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-fonts",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:28:08.860126"
+      },
+      {
+        "url": "https://amazonservice.s3.us-east-2.amazonaws.com",
+        "bucket": "amazonservice",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:32:13.255637"
+      },
+      {
+        "url": "https://amazonjp.s3.us-west-2.amazonaws.com",
+        "bucket": "amazonjp",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:54:52.401703"
+      },
+      {
+        "url": "https://amazon-links.s3.eu-west-1.amazonaws.com",
+        "bucket": "amazon-links",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:58:31.978536"
+      },
+      {
+        "url": "https://amazonshow.s3.us-east-1.amazonaws.com",
+        "bucket": "amazonshow",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:58:42.375812"
+      },
+      {
+        "url": "https://amazon-cloud.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-cloud",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T04:59:14.018564"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/amazon.project",
+        "bucket": "amazon.project",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:00:04.868855"
+      },
+      {
+        "url": "https://amazon-report.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "amazon-report",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:02:59.065378"
+      },
+      {
+        "url": "https://amazon-business.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "amazon-business",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:05:00.493325"
+      },
+      {
+        "url": "https://example-amazon.s3.us-east-2.amazonaws.com",
+        "bucket": "example-amazon",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:05:33.106928"
+      },
+      {
+        "url": "https://a-amazon.s3.us-east-2.amazonaws.com",
+        "bucket": "a-amazon",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:10:58.659505"
+      },
+      {
+        "url": "https://amazon-phoenix.s3.us-west-1.amazonaws.com",
+        "bucket": "amazon-phoenix",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:11:02.084804"
+      },
+      {
+        "url": "https://amazon-product.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-product",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:18:54.631376"
+      },
+      {
+        "url": "https://demoamazon.s3.eu-west-1.amazonaws.com",
+        "bucket": "demoamazon",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:22:24.108840"
+      },
+      {
+        "url": "https://amazon-website.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-website",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:23:57.706042"
+      },
+      {
+        "url": "https://amazon-projects.s3.us-west-1.amazonaws.com",
+        "bucket": "amazon-projects",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:24:08.727809"
+      },
+      {
+        "url": "https://amazon-output.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-output",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:34:27.747108"
+      },
+      {
+        "url": "https://amazonfiles.s3.us-east-1.amazonaws.com",
+        "bucket": "amazonfiles",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:43:42.727390"
+      },
+      {
+        "url": "https://hiphopamazon.s3.us-west-1.amazonaws.com",
+        "bucket": "hiphopamazon",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:46:30.236293"
+      },
+      {
+        "url": "https://amazon-content.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-content",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:49:53.044822"
+      },
+      {
+        "url": "https://amazon-documentation.s3.us-east-2.amazonaws.com",
+        "bucket": "amazon-documentation",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:51:27.625085"
+      },
+      {
+        "url": "https://amazonb2b.s3.us-east-2.amazonaws.com",
+        "bucket": "amazonb2b",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T05:53:26.547803"
+      },
+      {
+        "url": "https://coachamazon.s3.eu-west-1.amazonaws.com",
+        "bucket": "coachamazon",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T06:01:15.241854"
+      },
+      {
+        "url": "https://amazon-de.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-de",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T06:18:29.972405"
+      },
+      {
+        "url": "https://amazon-resources.s3.us-west-2.amazonaws.com",
+        "bucket": "amazon-resources",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-30T06:35:00.357554"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 36,
+    "private_found": 0
+  }
+}
