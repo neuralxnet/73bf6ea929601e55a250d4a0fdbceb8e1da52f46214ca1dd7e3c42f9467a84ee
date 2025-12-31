@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon.co.uk",
+  "date": "2025-12-31",
+  "timestamp": "2025-12-31T02:25:01.809294",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
