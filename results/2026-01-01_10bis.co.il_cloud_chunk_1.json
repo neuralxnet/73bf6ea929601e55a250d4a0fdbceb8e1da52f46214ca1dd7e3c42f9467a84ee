@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "10bis",
+  "domain": "10bis.co.il",
   "date": "2026-01-01",
-  "timestamp": "2026-01-01T11:12:52.975197",
+  "timestamp": "2026-01-01T13:10:13.357671",
   "providers": [
     "azure",
     "linode",

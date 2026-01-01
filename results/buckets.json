@@ -2,14 +2,6 @@
   "buckets": {
     "public": [
       {
-        "url": "https://amazon-de.s3.us-east-1.amazonaws.com",
-        "bucket": "amazon-de",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-01T01:05:31.420906"
-      },
-      {
         "url": "https://wise123.s3.us-east-1.amazonaws.com",
         "bucket": "wise123",
         "region": "us-east-1",
@@ -3552,13 +3544,21 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-01T01:45:26.489457+00:00"
+      },
+      {
+        "url": "https://amazon-de.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-de",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-01T01:49:49.544650"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-01T02:10:01.956090+00:00",
+  "generated_at": "2026-01-01T12:51:27.591641+00:00",
   "source_files": 5,
-  "domains_scanned": 4,
+  "domains_scanned": 5,
   "total_chunks": 5,
   "file_index": 0,
   "total_files": 1,
