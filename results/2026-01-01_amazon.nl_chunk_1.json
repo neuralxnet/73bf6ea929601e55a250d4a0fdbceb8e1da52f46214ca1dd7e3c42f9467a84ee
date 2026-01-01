@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon.nl",
+  "date": "2026-01-01",
+  "timestamp": "2026-01-01T19:38:14.752243",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
