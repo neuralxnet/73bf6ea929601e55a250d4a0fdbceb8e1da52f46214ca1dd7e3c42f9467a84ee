@@ -1,28 +1,36 @@
-# S3 Bucket Mass Reconnaissance Tool
+# Cloud Storage Bucket Mass Reconnaissance Tool
 
-Enhanced S3 bucket discovery tool with intelligent permutation engine for comprehensive reconnaissance.
+Enhanced cloud storage bucket discovery tool with intelligent permutation engine for comprehensive reconnaissance across multiple cloud providers.
 
 ## Features
 
+- **Multi-Cloud Support**: Scan AWS S3, Azure Blob Storage, Linode Object Storage, IBM Cloud Object Storage, and DigitalOcean Spaces
 - **Enhanced Permutation Engine**: Generate intelligent bucket name variations with 4 levels of sophistication
 - **Targeted Domain Processing**: Process one domain at a time for reliable, conflict-free results
 - **Continuous Research Mode**: Automatically continues with higher permutation levels after base scan completes
 - **Memory-Safe Chunked Processing**: Process large wordlists efficiently without memory issues
 - **Stateful Resume**: Resume from interruptions with automatic state management
-- **Multi-Region Support**: Scan across all AWS regions simultaneously
+- **Multi-Region Support**: Scan across all regions for each cloud provider simultaneously
 - **Rate Limiting**: Control scan rate with domain-per-hour limits
 
 ## Quick Start
 
+### AWS S3 Buckets
 ```bash
-# Targeted scan (one domain at a time, recommended for reliable results)
 python3 .github/s3_recon_chunked.py base_wordlist.txt
 
-# Comprehensive scan with Level 3 permutations
 python3 .github/s3_recon_chunked.py base_wordlist.txt --permutation-level 3
 
-# Custom environment keywords
 python3 .github/s3_recon_chunked.py base_wordlist.txt --env-file list.txt
+```
+
+### Multi-Cloud Storage (Azure, Linode, IBM, DigitalOcean)
+```bash
+python3 .github/cloud_storage_recon_chunked.py base_wordlist.txt
+
+python3 .github/cloud_storage_recon_chunked.py base_wordlist.txt --providers azure linode
+
+python3 .github/cloud_storage_recon_chunked.py base_wordlist.txt --permutation-level 3
 ```
 
 ## Permutation Levels
@@ -109,6 +117,7 @@ python3 .github/s3_recon_chunked.py base_wordlist.txt \
 
 ## Documentation
 
+- [CLOUD_STORAGE_IMPLEMENTATION.md](CLOUD_STORAGE_IMPLEMENTATION.md) - Multi-cloud storage implementation details
 - [PERMUTATION_GUIDE.md](PERMUTATION_GUIDE.md) - Detailed permutation system documentation
 - [base_wordlist.txt](base_wordlist.txt) - Base company/organization names
 - [list.txt](list.txt) - Environment and keyword variations
