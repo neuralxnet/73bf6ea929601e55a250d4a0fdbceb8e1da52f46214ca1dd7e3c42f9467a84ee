@@ -1,0 +1,199 @@
+name: Cloud Storage Bucket Reconnaissance
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      chunk_size:
+        description: 'Words per chunk'
+        required: false
+        default: '1'
+      workers:
+        description: 'Concurrent workers'
+        required: false
+        default: '30'
+      domains_per_hour:
+        description: 'Domains to scan per hour (leave empty for all)'
+        required: false
+        default: '1'
+      permutation_level:
+        description: 'Permutation level (0=base, 1=basic, 2=enhanced, 3=comprehensive)'
+        required: false
+        default: '1'
+      providers:
+        description: 'Cloud providers to scan (space-separated: azure linode ibm digitalocean)'
+        required: false
+        default: 'azure linode ibm digitalocean'
+
+jobs:
+  cloud-storage-recon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Check for existing base_wordlist
+        id: check_wordlist
+        run: |
+          if [ -f "base_wordlist.txt" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            LINES=$(wc -l < base_wordlist.txt)
+            echo "lines=$LINES" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "lines=0" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Fetch bug bounty programs
+        run: |
+          python3 .github/fetch_bugbounty.py base_wordlist_new.txt
+      
+      - name: Compare and merge wordlists
+        run: |
+          if [ -f "base_wordlist.txt" ]; then
+            cat base_wordlist.txt base_wordlist_new.txt | sort -u > base_wordlist_merged.txt
+            mv base_wordlist_merged.txt base_wordlist.txt
+            rm base_wordlist_new.txt
+            echo "Merged with existing wordlist"
+          else
+            mv base_wordlist_new.txt base_wordlist.txt
+            echo "Created new wordlist"
+          fi
+          
+          TOTAL_WORDS=$(wc -l < base_wordlist.txt)
+          echo "Total words in base_wordlist.txt: $TOTAL_WORDS"
+      
+      - name: Create directories
+        run: |
+          mkdir -p results
+          mkdir -p state
+      
+      - name: Restore previous state
+        continue-on-error: true
+        run: |
+          git fetch origin main
+          git checkout origin/main -- state/ 2>/dev/null || true
+      
+      - name: Run Cloud Storage Reconnaissance
+        env:
+          CHUNK_SIZE: ${{ github.event.inputs.chunk_size || '1' }}
+          WORKERS: ${{ github.event.inputs.workers || '30' }}
+          DOMAINS_PER_HOUR: ${{ github.event.inputs.domains_per_hour || '1' }}
+          PERMUTATION_LEVEL: ${{ github.event.inputs.permutation_level || '1' }}
+          PROVIDERS: ${{ github.event.inputs.providers || 'azure linode ibm digitalocean' }}
+        run: |
+          python3 .github/cloud_storage_recon_chunked.py base_wordlist.txt \
+            -c $CHUNK_SIZE \
+            -w $WORKERS \
+            -t 8 \
+            --state-dir state \
+            --output-dir results \
+            --domains-per-hour $DOMAINS_PER_HOUR \
+            --permutation-level $PERMUTATION_LEVEL \
+            --providers $PROVIDERS \
+            -p
+      
+      - name: Commit and push results
+        run: |
+          git config user.name "Cloud Storage Recon Bot"
+          git config user.email "action@github.com"
+          
+          git add base_wordlist.txt results/ state/
+          
+          DATE=$(date +%Y-%m-%d_%H-%M-%S)
+          git diff --cached --quiet || git commit -m "Cloud Storage Recon $DATE"
+          
+          MAX_RETRIES=10
+          RETRY_DELAY=15
+          
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Push attempt $i of $MAX_RETRIES"
+            
+            if git push origin main; then
+              echo "Successfully pushed changes"
+              break
+            else
+              if [ $i -eq $MAX_RETRIES ]; then
+                echo "Failed to push after $MAX_RETRIES attempts"
+                exit 1
+              fi
+              
+              echo "Push failed, retrying in $RETRY_DELAY seconds..."
+              sleep $RETRY_DELAY
+              
+              echo "Fetching latest changes..."
+              git fetch origin main
+              
+              echo "Pulling latest changes with rebase..."
+              if git pull --rebase origin main; then
+                echo "Rebase successful"
+              else
+                echo "Rebase failed, attempting to resolve conflicts..."
+                
+                git rebase --abort 2>/dev/null || true
+                
+                git fetch origin main
+                
+                if git merge origin/main -m "Auto-merge from cloud storage recon workflow"; then
+                  echo "Merge successful"
+                else
+                  echo "Merge has conflicts, attempting auto-resolution..."
+                  
+                  git checkout --ours results/ 2>/dev/null || true
+                  git add results/ 2>/dev/null || true
+                  
+                  git checkout --ours state/ 2>/dev/null || true
+                  git add state/ 2>/dev/null || true
+                  
+                  if git status --porcelain | grep -qE "^[UAD][UAD] base_wordlist\.txt$"; then
+                    git checkout --theirs base_wordlist.txt 2>/dev/null || true
+                    git add base_wordlist.txt 2>/dev/null || true
+                  fi
+                  
+                  if [ -z "$(git status --porcelain | grep '^[UAD][UAD]')" ]; then
+                    echo "All conflicts resolved, committing merge"
+                    if git commit --no-edit 2>/dev/null; then
+                      echo "Merge committed successfully"
+                    elif git commit -m "Auto-resolve conflicts in Cloud Storage Recon workflow" 2>/dev/null; then
+                      echo "Merge committed with custom message"
+                    else
+                      echo "Error: Failed to commit merge"
+                    fi
+                  else
+                    echo "Warning: Some conflicts remain unresolved"
+                    git status --porcelain
+                  fi
+                fi
+              fi
+              
+              RETRY_DELAY=$((RETRY_DELAY + 5))
+            fi
+          done
+      
+      - name: Generate summary
+        run: |
+          echo "Cloud Storage Reconnaissance Summary" >> $GITHUB_STEP_SUMMARY
+          echo "Date: $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if command -v jq &> /dev/null; then
+            PUBLIC_COUNT=$(find results -name "*_cloud_chunk_*.json" -type f -exec jq -r '.stats.public_found // 0' {} \; 2>/dev/null | awk '{s+=$1} END {print s+0}')
+            PRIVATE_COUNT=$(find results -name "*_cloud_chunk_*.json" -type f -exec jq -r '.stats.private_found // 0' {} \; 2>/dev/null | awk '{s+=$1} END {print s+0}')
+            echo "Public Buckets: $PUBLIC_COUNT" >> $GITHUB_STEP_SUMMARY
+            echo "Private Buckets: $PRIVATE_COUNT" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Total cloud storage result files: $(find results -name "*_cloud_chunk_*.json" -type f | wc -l)" >> $GITHUB_STEP_SUMMARY
