@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon.de",
+  "date": "2026-01-01",
+  "timestamp": "2026-01-01T00:30:52.892361",
+  "results": {
+    "public": [
+      {
+        "url": "https://amazon-de.s3.us-east-1.amazonaws.com",
+        "bucket": "amazon-de",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2025-12-31T22:52:28.086388"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
