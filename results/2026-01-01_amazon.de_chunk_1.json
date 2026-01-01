@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "amazon.de",
   "date": "2026-01-01",
-  "timestamp": "2026-01-01T01:27:52.750243",
+  "timestamp": "2026-01-01T02:33:29.711092",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-01T01:05:31.420906"
+        "timestamp": "2026-01-01T01:49:49.544650"
       }
     ],
     "private": []
