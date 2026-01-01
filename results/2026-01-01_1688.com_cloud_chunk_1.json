@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "1688",
+  "domain": "1688.com",
   "date": "2026-01-01",
-  "timestamp": "2026-01-01T14:57:56.526847",
+  "timestamp": "2026-01-01T16:07:48.157192",
   "providers": [
     "azure",
     "linode",
