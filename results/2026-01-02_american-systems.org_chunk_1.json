@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "american-systems.org",
+  "date": "2026-01-02",
+  "timestamp": "2026-01-02T16:46:31.304935",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
