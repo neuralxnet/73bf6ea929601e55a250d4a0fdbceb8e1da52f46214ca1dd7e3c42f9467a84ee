@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "americanalliant",
+  "date": "2026-01-02",
+  "timestamp": "2026-01-02T22:26:02.774942",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
