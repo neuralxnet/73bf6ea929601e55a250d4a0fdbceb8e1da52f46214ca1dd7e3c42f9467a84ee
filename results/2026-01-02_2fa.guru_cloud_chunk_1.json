@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "2fa.guru",
+  "date": "2026-01-02",
+  "timestamp": "2026-01-02T07:07:27.179822",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
