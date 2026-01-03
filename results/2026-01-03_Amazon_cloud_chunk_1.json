@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Alibaba",
+  "domain": "Amazon",
   "date": "2026-01-03",
-  "timestamp": "2026-01-03T09:58:15.071430",
+  "timestamp": "2026-01-03T14:59:15.392452",
   "providers": [
     "azure",
     "linode",
@@ -12,19 +12,19 @@
   "results": {
     "public": [
       {
-        "url": "https://alibaba.s3.eu-de.cloud-object-storage.appdomain.cloud",
-        "bucket": "alibaba.s3",
-        "provider": "ibm",
-        "region": "eu-de",
+        "url": "https://amazons3.ams3.digitaloceanspaces.com",
+        "bucket": "amazons3",
+        "provider": "digitalocean",
+        "region": "ams3",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-03T09:16:08.587305"
+        "timestamp": "2026-01-03T14:48:07.953705"
       }
     ],
     "private": []
   },
   "stats": {
-    "total_checked": 570510,
+    "total_checked": 570390,
     "public_found": 1,
     "private_found": 0
   }
