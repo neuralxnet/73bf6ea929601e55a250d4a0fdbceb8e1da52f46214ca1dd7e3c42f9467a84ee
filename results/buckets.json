@@ -3544,22 +3544,31 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-03T01:23:45.122796+00:00"
+      },
+      {
+        "url": "https://alibaba.s3.eu-de.cloud-object-storage.appdomain.cloud",
+        "bucket": "alibaba.s3",
+        "provider": "ibm",
+        "region": "eu-de",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-03T09:16:08.587305"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-03T01:54:54.118899+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-03T12:48:20.139477+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 443,
+    "public_buckets_in_file": 444,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 443,
-    "total_public_buckets": 443,
+    "total_buckets_in_file": 444,
+    "total_public_buckets": 444,
     "total_private_buckets": 0,
-    "total_buckets": 443
+    "total_buckets": 444
   }
 }
