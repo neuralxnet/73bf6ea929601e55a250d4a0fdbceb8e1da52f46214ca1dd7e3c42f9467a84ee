@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "AlphaX",
-  "date": "2026-01-03",
-  "timestamp": "2026-01-03T13:07:15.902544",
+  "domain": "Avail Carsharing",
+  "date": "2026-01-04",
+  "timestamp": "2026-01-04T04:29:29.638401",
   "providers": [
     "azure",
     "linode",

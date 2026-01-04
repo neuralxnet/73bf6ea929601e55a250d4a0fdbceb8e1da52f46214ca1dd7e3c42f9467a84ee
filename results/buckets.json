@@ -2,6 +2,42 @@
   "buckets": {
     "public": [
       {
+        "url": "https://amazons3.ams3.digitaloceanspaces.com",
+        "bucket": "amazons3",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-03T14:48:07.953705"
+      },
+      {
+        "url": "https://applegazette.ams3.digitaloceanspaces.com",
+        "bucket": "applegazette",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-03T15:36:07.723618"
+      },
+      {
+        "url": "https://invisalign-aurora.nyc3.digitaloceanspaces.com",
+        "bucket": "invisalign-aurora",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-03T22:35:58.457616"
+      },
+      {
+        "url": "https://aurora-legal.nyc3.digitaloceanspaces.com",
+        "bucket": "aurora-legal",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-03T22:41:01.555447"
+      },
+      {
         "url": "https://zapiericons.s3.us-east-1.amazonaws.com",
         "bucket": "zapiericons",
         "region": "us-east-1",
@@ -3540,16 +3576,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-04T01:45:59.333006+00:00",
-  "validated_at": "2026-01-04T01:45:59.333020+00:00",
+  "generated_at": "2026-01-04T02:11:17.650878+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 442,
+    "public_buckets_in_file": 446,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 442,
-    "total_public_buckets": 442,
+    "total_buckets_in_file": 446,
+    "total_public_buckets": 446,
     "total_private_buckets": 0,
-    "total_buckets": 442
+    "total_buckets": 446
   }
 }
