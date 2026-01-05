@@ -3554,22 +3554,54 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-05T01:45:49.938248+00:00"
+      },
+      {
+        "url": "https://aol-frontend.s3.ap-south-1.amazonaws.com",
+        "bucket": "aol-frontend",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T05:14:23.752933"
+      },
+      {
+        "url": "https://aolmaster.s3.eu-west-1.amazonaws.com",
+        "bucket": "aolmaster",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T05:41:14.383544"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/aol.fb",
+        "bucket": "aol.fb",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T05:43:20.414509"
+      },
+      {
+        "url": "https://aol-bg.s3.eu-west-1.amazonaws.com",
+        "bucket": "aol-bg",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T07:45:30.870049"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-05T02:11:05.152536+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-05T12:55:43.667345+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 444,
+    "public_buckets_in_file": 448,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 444,
-    "total_public_buckets": 444,
+    "total_buckets_in_file": 448,
+    "total_public_buckets": 448,
     "total_private_buckets": 0,
-    "total_buckets": 444
+    "total_buckets": 448
   }
 }
