@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "BitStorage",
+  "date": "2026-01-05",
+  "timestamp": "2026-01-05T01:47:28.096567",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://cabitstorage.sfo2.digitaloceanspaces.com",
+        "bucket": "cabitstorage",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T01:42:00.758096"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
