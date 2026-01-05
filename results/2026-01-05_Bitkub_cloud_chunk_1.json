@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Bitexen",
+  "domain": "Bitkub",
   "date": "2026-01-05",
-  "timestamp": "2026-01-05T06:14:09.392211",
+  "timestamp": "2026-01-05T08:11:19.430738",
   "providers": [
     "azure",
     "linode",
