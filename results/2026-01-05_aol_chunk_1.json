@@ -1,0 +1,48 @@
+{
+  "chunk_id": 1,
+  "domain": "aol",
+  "date": "2026-01-05",
+  "timestamp": "2026-01-05T07:02:58.495945",
+  "results": {
+    "public": [
+      {
+        "url": "https://aol-frontend.s3.ap-south-1.amazonaws.com",
+        "bucket": "aol-frontend",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T03:58:01.209300"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/aol.fb",
+        "bucket": "aol.fb",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T04:08:55.779394"
+      },
+      {
+        "url": "https://aol-bg.s3.eu-west-1.amazonaws.com",
+        "bucket": "aol-bg",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T04:10:10.499798"
+      },
+      {
+        "url": "https://aolmaster.s3.eu-west-1.amazonaws.com",
+        "bucket": "aolmaster",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T05:07:13.611220"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 4,
+    "private_found": 0
+  }
+}
