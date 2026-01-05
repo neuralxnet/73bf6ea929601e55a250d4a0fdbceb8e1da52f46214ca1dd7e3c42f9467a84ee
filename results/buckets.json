@@ -2,6 +2,24 @@
   "buckets": {
     "public": [
       {
+        "url": "https://bimel.fra1.digitaloceanspaces.com",
+        "bucket": "bimel",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-04T12:56:08.346946"
+      },
+      {
+        "url": "https://cabitstorage.sfo2.digitaloceanspaces.com",
+        "bucket": "cabitstorage",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-05T01:42:00.758096"
+      },
+      {
         "url": "https://weddingalbum.s3.us-east-1.amazonaws.com",
         "bucket": "weddingalbum",
         "region": "us-east-1",
@@ -3540,16 +3558,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-05T01:45:49.944887+00:00",
-  "validated_at": "2026-01-05T01:45:49.944903+00:00",
+  "generated_at": "2026-01-05T02:11:05.152536+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 442,
+    "public_buckets_in_file": 444,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 442,
-    "total_public_buckets": 442,
+    "total_buckets_in_file": 444,
+    "total_public_buckets": 444,
     "total_private_buckets": 0,
-    "total_buckets": 442
+    "total_buckets": 444
   }
 }
