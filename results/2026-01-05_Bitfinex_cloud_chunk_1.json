@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "Bitfinex",
+  "date": "2026-01-05",
+  "timestamp": "2026-01-05T07:08:39.540409",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
