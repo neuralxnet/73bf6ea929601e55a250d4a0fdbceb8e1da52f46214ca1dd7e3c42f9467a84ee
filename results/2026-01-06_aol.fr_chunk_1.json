@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "aol.fr",
+  "date": "2026-01-06",
+  "timestamp": "2026-01-06T01:23:01.289346",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
