@@ -1,0 +1,152 @@
+{
+  "chunk_id": 1,
+  "domain": "apple",
+  "date": "2026-01-06",
+  "timestamp": "2026-01-06T14:24:26.422003",
+  "results": {
+    "public": [
+      {
+        "url": "https://applelearning.s3.us-east-2.amazonaws.com",
+        "bucket": "applelearning",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T11:18:56.686941"
+      },
+      {
+        "url": "https://appleprofiles.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "appleprofiles",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T12:12:18.932994"
+      },
+      {
+        "url": "https://apple-tmp.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "apple-tmp",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T12:14:39.440285"
+      },
+      {
+        "url": "https://applepodcast.s3.us-east-2.amazonaws.com",
+        "bucket": "applepodcast",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T12:24:23.129121"
+      },
+      {
+        "url": "https://appleitems.s3.eu-west-2.amazonaws.com",
+        "bucket": "appleitems",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T12:36:27.810878"
+      },
+      {
+        "url": "https://apple-review.s3.eu-west-1.amazonaws.com",
+        "bucket": "apple-review",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T13:12:24.328521"
+      },
+      {
+        "url": "https://apple-internal.s3.eu-west-1.amazonaws.com",
+        "bucket": "apple-internal",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T13:26:05.682840"
+      },
+      {
+        "url": "https://applers.s3.eu-west-1.amazonaws.com",
+        "bucket": "applers",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T13:26:21.621523"
+      },
+      {
+        "url": "https://loginapple.s3.sa-east-1.amazonaws.com",
+        "bucket": "loginapple",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T13:37:51.512330"
+      },
+      {
+        "url": "https://apple-market.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "apple-market",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T13:57:31.343933"
+      },
+      {
+        "url": "https://trade-apple.s3.us-east-1.amazonaws.com",
+        "bucket": "trade-apple",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:04:29.797911"
+      },
+      {
+        "url": "https://apple-s3.s3.us-west-1.amazonaws.com",
+        "bucket": "apple-s3",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:04:32.428754"
+      },
+      {
+        "url": "https://appletesting.s3.us-east-1.amazonaws.com",
+        "bucket": "appletesting",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:06:13.695009"
+      },
+      {
+        "url": "https://retroapple.s3.us-east-1.amazonaws.com",
+        "bucket": "retroapple",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:11:00.585226"
+      },
+      {
+        "url": "https://artapple.s3.us-east-1.amazonaws.com",
+        "bucket": "artapple",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:12:03.232248"
+      },
+      {
+        "url": "https://applecommercial.s3.us-west-1.amazonaws.com",
+        "bucket": "applecommercial",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:18:13.801253"
+      },
+      {
+        "url": "https://appletv.s3.us-east-1.amazonaws.com",
+        "bucket": "appletv",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-06T14:24:06.587898"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 17,
+    "private_found": 0
+  }
+}
