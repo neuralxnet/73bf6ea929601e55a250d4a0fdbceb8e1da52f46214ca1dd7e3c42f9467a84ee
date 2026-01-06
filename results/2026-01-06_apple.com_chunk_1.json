@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "apple.com",
+  "date": "2026-01-06",
+  "timestamp": "2026-01-06T18:06:09.740066",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
