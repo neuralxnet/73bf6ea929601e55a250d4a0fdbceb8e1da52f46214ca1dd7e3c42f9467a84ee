@@ -1,0 +1,32 @@
+{
+  "chunk_id": 1,
+  "domain": "arket",
+  "date": "2026-01-07",
+  "timestamp": "2026-01-07T08:23:23.752073",
+  "results": {
+    "public": [
+      {
+        "url": "https://charket.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "charket",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T05:49:46.012204"
+      },
+      {
+        "url": "https://smarket.s3.us-east-1.amazonaws.com",
+        "bucket": "smarket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T08:03:56.246454"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
