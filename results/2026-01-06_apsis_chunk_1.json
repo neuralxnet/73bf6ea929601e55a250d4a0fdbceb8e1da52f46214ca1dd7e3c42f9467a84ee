@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "apsis",
   "date": "2026-01-06",
-  "timestamp": "2026-01-06T20:32:15.410171",
+  "timestamp": "2026-01-06T22:20:48.860558",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-06T18:04:56.386132"
+        "timestamp": "2026-01-06T20:24:07.110896"
       },
       {
         "url": "https://apsis-products.s3.ap-south-1.amazonaws.com",
@@ -19,7 +19,7 @@
         "region": "ap-south-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-06T19:56:43.516974"
+        "timestamp": "2026-01-06T21:18:58.634814"
       }
     ],
     "private": []
