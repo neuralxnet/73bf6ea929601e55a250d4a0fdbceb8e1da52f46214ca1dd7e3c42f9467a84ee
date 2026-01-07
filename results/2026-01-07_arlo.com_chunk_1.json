@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "arlo.com",
+  "date": "2026-01-07",
+  "timestamp": "2026-01-07T17:29:10.233988",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
