@@ -5249,22 +5249,38 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-07T01:28:38.932236+00:00"
+      },
+      {
+        "url": "https://charket.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "charket",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T05:49:46.012204"
+      },
+      {
+        "url": "https://smarket.s3.us-east-1.amazonaws.com",
+        "bucket": "smarket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T08:03:56.246454"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-07T02:00:59.214916+00:00",
-  "source_files": 16,
-  "domains_scanned": 15,
-  "total_chunks": 16,
+  "generated_at": "2026-01-07T12:54:30.075362+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 656,
+    "public_buckets_in_file": 658,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 656,
-    "total_public_buckets": 656,
+    "total_buckets_in_file": 658,
+    "total_public_buckets": 658,
     "total_private_buckets": 0,
-    "total_buckets": 656
+    "total_buckets": 658
   }
 }
