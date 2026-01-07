@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Codefi",
+  "domain": "CoinGecko",
   "date": "2026-01-07",
-  "timestamp": "2026-01-07T05:32:17.842222",
+  "timestamp": "2026-01-07T07:09:24.324352",
   "providers": [
     "azure",
     "linode",
