@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "artist.link",
+  "date": "2026-01-08",
+  "timestamp": "2026-01-08T02:26:50.974410",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
