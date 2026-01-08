@@ -5328,22 +5328,31 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-08T01:29:11.838692+00:00"
+      },
+      {
+        "url": "https://dji.ams3.digitaloceanspaces.com",
+        "bucket": "dji",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-08T09:25:18.874383"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-08T02:01:15.693570+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-08T12:54:43.093127+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 666,
+    "public_buckets_in_file": 667,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 666,
-    "total_public_buckets": 666,
+    "total_buckets_in_file": 667,
+    "total_public_buckets": 667,
     "total_private_buckets": 0,
-    "total_buckets": 666
+    "total_buckets": 667
   }
 }
