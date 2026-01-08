@@ -2,6 +2,86 @@
   "buckets": {
     "public": [
       {
+        "url": "https://artist1.s3.eu-central-1.amazonaws.com",
+        "bucket": "artist1",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T19:31:04.856657"
+      },
+      {
+        "url": "https://artistdata.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "artistdata",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T19:46:07.447063"
+      },
+      {
+        "url": "https://artist-portfolio.s3.us-west-2.amazonaws.com",
+        "bucket": "artist-portfolio",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T19:48:37.795193"
+      },
+      {
+        "url": "https://artist8.s3.us-east-2.amazonaws.com",
+        "bucket": "artist8",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T20:10:37.566782"
+      },
+      {
+        "url": "https://artistworks.s3.us-east-1.amazonaws.com",
+        "bucket": "artistworks",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T20:57:57.184360"
+      },
+      {
+        "url": "https://artist-connect.s3.eu-north-1.amazonaws.com",
+        "bucket": "artist-connect",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T21:01:20.118511"
+      },
+      {
+        "url": "https://artistlane.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "artistlane",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T21:04:19.949802"
+      },
+      {
+        "url": "https://artist-series.s3.us-east-1.amazonaws.com",
+        "bucket": "artist-series",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T21:50:19.847915"
+      },
+      {
+        "url": "https://artist-bucket1.s3.us-east-1.amazonaws.com",
+        "bucket": "artist-bucket1",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T21:58:27.887942"
+      },
+      {
+        "url": "https://artistapps.s3.eu-central-1.amazonaws.com",
+        "bucket": "artistapps",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-07T22:19:56.237413"
+      },
+      {
         "url": "https://apple-s3.s3.us-west-1.amazonaws.com",
         "bucket": "apple-s3",
         "region": "us-west-1",
@@ -5252,16 +5332,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-08T01:29:11.844816+00:00",
-  "validated_at": "2026-01-08T01:29:11.844835+00:00",
+  "generated_at": "2026-01-08T02:01:15.693570+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 656,
+    "public_buckets_in_file": 666,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 656,
-    "total_public_buckets": 656,
+    "total_buckets_in_file": 666,
+    "total_public_buckets": 666,
     "total_private_buckets": 0,
-    "total_buckets": 656
+    "total_buckets": 666
   }
 }

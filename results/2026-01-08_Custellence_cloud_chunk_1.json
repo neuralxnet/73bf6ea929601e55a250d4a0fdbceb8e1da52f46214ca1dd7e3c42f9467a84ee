@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Coinstore",
-  "date": "2026-01-07",
-  "timestamp": "2026-01-07T16:03:12.612497",
+  "domain": "Custellence",
+  "date": "2026-01-08",
+  "timestamp": "2026-01-08T04:47:40.097494",
   "providers": [
     "azure",
     "linode",
