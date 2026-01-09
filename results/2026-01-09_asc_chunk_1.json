@@ -1,0 +1,104 @@
+{
+  "chunk_id": 1,
+  "domain": "asc",
+  "date": "2026-01-09",
+  "timestamp": "2026-01-09T06:45:52.741804",
+  "results": {
+    "public": [
+      {
+        "url": "https://ascc.s3.ap-south-1.amazonaws.com",
+        "bucket": "ascc",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T03:48:33.378027"
+      },
+      {
+        "url": "https://ascone.s3.us-west-1.amazonaws.com",
+        "bucket": "ascone",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T03:48:43.691649"
+      },
+      {
+        "url": "https://ascis.s3.us-west-2.amazonaws.com",
+        "bucket": "ascis",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T03:51:40.970428"
+      },
+      {
+        "url": "https://asc-log.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asc-log",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T04:01:08.267783"
+      },
+      {
+        "url": "https://ascweb.s3.eu-west-2.amazonaws.com",
+        "bucket": "ascweb",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T04:24:06.600063"
+      },
+      {
+        "url": "https://asc-source.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asc-source",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T04:33:56.431073"
+      },
+      {
+        "url": "https://asc-docs.s3.us-west-2.amazonaws.com",
+        "bucket": "asc-docs",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T04:53:09.489283"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/asc.media",
+        "bucket": "asc.media",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T05:27:20.250268"
+      },
+      {
+        "url": "https://ascwebsite.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "ascwebsite",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T05:36:37.222759"
+      },
+      {
+        "url": "https://asca.s3.us-east-1.amazonaws.com",
+        "bucket": "asca",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T05:40:08.686020"
+      },
+      {
+        "url": "https://basc.s3.us-east-1.amazonaws.com",
+        "bucket": "basc",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T06:38:40.440486"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 11,
+    "private_found": 0
+  }
+}
