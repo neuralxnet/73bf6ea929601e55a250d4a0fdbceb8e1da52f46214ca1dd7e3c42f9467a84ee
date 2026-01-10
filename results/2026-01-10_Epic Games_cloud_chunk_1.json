@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "EXMO",
-  "date": "2026-01-09",
-  "timestamp": "2026-01-09T19:01:32.110598",
+  "domain": "Epic Games",
+  "date": "2026-01-10",
+  "timestamp": "2026-01-10T03:30:39.530322",
   "providers": [
     "azure",
     "linode",
