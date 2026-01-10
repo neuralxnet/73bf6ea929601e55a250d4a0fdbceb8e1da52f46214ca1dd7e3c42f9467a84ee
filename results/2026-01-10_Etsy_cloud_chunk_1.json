@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Etsy",
+  "date": "2026-01-10",
+  "timestamp": "2026-01-10T05:15:26.692856",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://etsy.sgp1.digitaloceanspaces.com",
+        "bucket": "etsy",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T04:47:50.293808"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
