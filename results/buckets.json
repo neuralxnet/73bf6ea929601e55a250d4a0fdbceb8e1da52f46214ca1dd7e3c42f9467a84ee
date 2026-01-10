@@ -5371,22 +5371,31 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-10T01:26:14.477867+00:00"
+      },
+      {
+        "url": "https://etsy.sgp1.digitaloceanspaces.com",
+        "bucket": "etsy",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T04:47:50.293808"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-10T01:58:16.431028+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-01-10T12:48:29.450711+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 671,
+    "public_buckets_in_file": 672,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 671,
-    "total_public_buckets": 671,
+    "total_buckets_in_file": 672,
+    "total_public_buckets": 672,
     "total_private_buckets": 0,
-    "total_buckets": 671
+    "total_buckets": 672
   }
 }
