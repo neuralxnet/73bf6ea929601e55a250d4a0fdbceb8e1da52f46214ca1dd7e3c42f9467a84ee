@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "Elastic",
+  "date": "2026-01-09",
+  "timestamp": "2026-01-09T22:04:05.155530",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://elasticsync.syd1.digitaloceanspaces.com",
+        "bucket": "elasticsync",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T21:26:10.440590"
+      },
+      {
+        "url": "https://elasticws.fra1.digitaloceanspaces.com",
+        "bucket": "elasticws",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T21:31:11.933809"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
