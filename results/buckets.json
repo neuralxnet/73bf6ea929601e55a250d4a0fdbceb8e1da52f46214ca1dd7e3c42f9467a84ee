@@ -2,6 +2,33 @@
   "buckets": {
     "public": [
       {
+        "url": "https://elasticsync.syd1.digitaloceanspaces.com",
+        "bucket": "elasticsync",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T21:26:10.440590"
+      },
+      {
+        "url": "https://elasticws.fra1.digitaloceanspaces.com",
+        "bucket": "elasticws",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-09T21:31:11.933809"
+      },
+      {
+        "url": "https://teobot.nyc3.digitaloceanspaces.com",
+        "bucket": "teobot",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T00:58:28.534634"
+      },
+      {
         "url": "https://zapiericons.s3.us-east-1.amazonaws.com",
         "bucket": "zapiericons",
         "region": "us-east-1",
@@ -5348,16 +5375,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-10T01:26:14.484917+00:00",
-  "validated_at": "2026-01-10T01:26:14.484935+00:00",
+  "generated_at": "2026-01-10T01:58:16.431028+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 668,
+    "public_buckets_in_file": 671,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 668,
-    "total_public_buckets": 668,
+    "total_buckets_in_file": 671,
+    "total_public_buckets": 671,
     "total_private_buckets": 0,
-    "total_buckets": 668
+    "total_buckets": 671
   }
 }
