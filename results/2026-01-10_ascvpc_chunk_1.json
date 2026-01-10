@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "ascvpc",
+  "date": "2026-01-10",
+  "timestamp": "2026-01-10T07:36:20.581173",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
