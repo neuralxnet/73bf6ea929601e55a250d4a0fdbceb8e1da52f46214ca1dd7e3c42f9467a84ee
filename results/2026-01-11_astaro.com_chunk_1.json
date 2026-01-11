@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "astaro.com",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T22:18:26.579769",
+  "results": {
+    "public": [
+      {
+        "url": "https://ftp-astaro-com.s3.eu-west-1.amazonaws.com",
+        "bucket": "ftp-astaro-com",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-11T20:18:50.819115"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
