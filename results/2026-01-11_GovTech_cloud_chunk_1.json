@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "GovTech",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T19:02:08.407257",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
