@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "astaro.ch",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T16:36:57.252357",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
