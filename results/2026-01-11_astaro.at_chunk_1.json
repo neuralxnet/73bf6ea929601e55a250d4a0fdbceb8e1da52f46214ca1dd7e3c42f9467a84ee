@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "astaro.at",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T12:29:12.263424",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
