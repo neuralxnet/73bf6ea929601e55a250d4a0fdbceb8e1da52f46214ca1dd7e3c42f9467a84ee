@@ -2,136 +2,24 @@
   "chunk_id": 1,
   "domain": "asia",
   "date": "2026-01-10",
-  "timestamp": "2026-01-10T21:38:14.695842",
+  "timestamp": "2026-01-10T22:23:48.510244",
   "results": {
     "public": [
-      {
-        "url": "https://asia-dev.s3.eu-west-1.amazonaws.com",
-        "bucket": "asia-dev",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T18:58:51.377300"
-      },
-      {
-        "url": "https://asiahotel.s3.us-east-2.amazonaws.com",
-        "bucket": "asiahotel",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:07:54.321264"
-      },
-      {
-        "url": "https://ftasia.s3.ap-northeast-1.amazonaws.com",
-        "bucket": "ftasia",
-        "region": "ap-northeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:16:05.265769"
-      },
-      {
-        "url": "https://nova-asia.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "nova-asia",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:41:37.559745"
-      },
-      {
-        "url": "https://asiath.s3.eu-west-3.amazonaws.com",
-        "bucket": "asiath",
-        "region": "eu-west-3",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:45:22.684051"
-      },
-      {
-        "url": "https://asia-business.s3.us-east-1.amazonaws.com",
-        "bucket": "asia-business",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:49:50.037207"
-      },
-      {
-        "url": "https://asia-document.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "asia-document",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:53:13.936995"
-      },
-      {
-        "url": "https://asiasource.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "asiasource",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T19:57:12.832452"
-      },
-      {
-        "url": "https://s3.ap-southeast-1.amazonaws.com/asia.updates",
-        "bucket": "asia.updates",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T20:02:22.671220"
-      },
-      {
-        "url": "https://asiaguides.s3.us-west-2.amazonaws.com",
-        "bucket": "asiaguides",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T20:13:43.735913"
-      },
-      {
-        "url": "https://s3.ap-southeast-1.amazonaws.com/tab.asia",
-        "bucket": "tab.asia",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T20:44:27.544119"
-      },
       {
         "url": "https://asia-cdn.s3.ap-southeast-1.amazonaws.com",
         "bucket": "asia-cdn",
         "region": "ap-southeast-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-10T20:45:59.951608"
+        "timestamp": "2026-01-10T19:19:48.214577"
       },
       {
-        "url": "https://serviceasia.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "serviceasia",
-        "region": "ap-southeast-1",
+        "url": "https://asia-dev.s3.eu-west-1.amazonaws.com",
+        "bucket": "asia-dev",
+        "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-10T20:48:10.127323"
-      },
-      {
-        "url": "https://asiacore.s3.us-east-1.amazonaws.com",
-        "bucket": "asiacore",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T20:51:02.056848"
-      },
-      {
-        "url": "https://asiaimages.s3.us-east-1.amazonaws.com",
-        "bucket": "asiaimages",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T20:52:03.346205"
-      },
-      {
-        "url": "https://2017asia.s3.us-west-2.amazonaws.com",
-        "bucket": "2017asia",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-10T21:02:04.381030"
+        "timestamp": "2026-01-10T19:51:55.694366"
       },
       {
         "url": "https://ai-asia.s3.us-east-1.amazonaws.com",
@@ -139,7 +27,31 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-10T21:31:21.550707"
+        "timestamp": "2026-01-10T19:56:20.596430"
+      },
+      {
+        "url": "https://asiasource.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asiasource",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:03:03.998665"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/tab.asia",
+        "bucket": "tab.asia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:18:34.600540"
+      },
+      {
+        "url": "https://nova-asia.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "nova-asia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:26:14.284152"
       },
       {
         "url": "https://asia-01.s3.us-east-1.amazonaws.com",
@@ -147,7 +59,95 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-10T21:33:01.987847"
+        "timestamp": "2026-01-10T20:27:29.201372"
+      },
+      {
+        "url": "https://asia-business.s3.us-east-1.amazonaws.com",
+        "bucket": "asia-business",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:34:18.571793"
+      },
+      {
+        "url": "https://asiaguides.s3.us-west-2.amazonaws.com",
+        "bucket": "asiaguides",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:35:23.061564"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/asia.updates",
+        "bucket": "asia.updates",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:37:14.204804"
+      },
+      {
+        "url": "https://ftasia.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "ftasia",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:55:29.726806"
+      },
+      {
+        "url": "https://asiath.s3.eu-west-3.amazonaws.com",
+        "bucket": "asiath",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:03:41.277133"
+      },
+      {
+        "url": "https://asia-document.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asia-document",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:06:12.761216"
+      },
+      {
+        "url": "https://asiaimages.s3.us-east-1.amazonaws.com",
+        "bucket": "asiaimages",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:08:25.844427"
+      },
+      {
+        "url": "https://serviceasia.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "serviceasia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:38:54.629086"
+      },
+      {
+        "url": "https://asiahotel.s3.us-east-2.amazonaws.com",
+        "bucket": "asiahotel",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:42:20.911808"
+      },
+      {
+        "url": "https://2017asia.s3.us-west-2.amazonaws.com",
+        "bucket": "2017asia",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T22:02:28.539036"
+      },
+      {
+        "url": "https://asiacore.s3.us-east-1.amazonaws.com",
+        "bucket": "asiacore",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T22:05:42.542378"
       }
     ],
     "private": []
