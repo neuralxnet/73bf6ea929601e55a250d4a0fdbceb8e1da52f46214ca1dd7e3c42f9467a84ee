@@ -2,6 +2,150 @@
   "buckets": {
     "public": [
       {
+        "url": "https://asia-cdn.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asia-cdn",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T19:19:48.214577"
+      },
+      {
+        "url": "https://asia-dev.s3.eu-west-1.amazonaws.com",
+        "bucket": "asia-dev",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T19:51:55.694366"
+      },
+      {
+        "url": "https://ai-asia.s3.us-east-1.amazonaws.com",
+        "bucket": "ai-asia",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T19:56:20.596430"
+      },
+      {
+        "url": "https://asiasource.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asiasource",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:03:03.998665"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/tab.asia",
+        "bucket": "tab.asia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:18:34.600540"
+      },
+      {
+        "url": "https://nova-asia.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "nova-asia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:26:14.284152"
+      },
+      {
+        "url": "https://asia-01.s3.us-east-1.amazonaws.com",
+        "bucket": "asia-01",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:27:29.201372"
+      },
+      {
+        "url": "https://asia-business.s3.us-east-1.amazonaws.com",
+        "bucket": "asia-business",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:34:18.571793"
+      },
+      {
+        "url": "https://asiaguides.s3.us-west-2.amazonaws.com",
+        "bucket": "asiaguides",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:35:23.061564"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/asia.updates",
+        "bucket": "asia.updates",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:37:14.204804"
+      },
+      {
+        "url": "https://ftasia.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "ftasia",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T20:55:29.726806"
+      },
+      {
+        "url": "https://asiath.s3.eu-west-3.amazonaws.com",
+        "bucket": "asiath",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:03:41.277133"
+      },
+      {
+        "url": "https://asia-document.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "asia-document",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:06:12.761216"
+      },
+      {
+        "url": "https://asiaimages.s3.us-east-1.amazonaws.com",
+        "bucket": "asiaimages",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:08:25.844427"
+      },
+      {
+        "url": "https://serviceasia.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "serviceasia",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:38:54.629086"
+      },
+      {
+        "url": "https://asiahotel.s3.us-east-2.amazonaws.com",
+        "bucket": "asiahotel",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T21:42:20.911808"
+      },
+      {
+        "url": "https://2017asia.s3.us-west-2.amazonaws.com",
+        "bucket": "2017asia",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T22:02:28.539036"
+      },
+      {
+        "url": "https://asiacore.s3.us-east-1.amazonaws.com",
+        "bucket": "asiacore",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-10T22:05:42.542378"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/aliyun.be",
         "bucket": "aliyun.be",
         "region": "us-east-1",
@@ -2402,14 +2546,6 @@
         "timestamp": "2026-01-11T01:45:45.317110+00:00"
       },
       {
-        "url": "https://asia-dev.s3.eu-west-1.amazonaws.com",
-        "bucket": "asia-dev",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-11T01:45:45.319467+00:00"
-      },
-      {
         "url": "https://up-amazon.s3.us-west-1.amazonaws.com",
         "bucket": "up-amazon",
         "region": "us-west-1",
@@ -3784,14 +3920,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-11T01:45:48.258610+00:00"
-      },
-      {
-        "url": "https://asia-cdn.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "asia-cdn",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-11T01:45:48.278151+00:00"
       },
       {
         "url": "https://dashboard-app.s3.us-west-2.amazonaws.com",
@@ -5348,16 +5476,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-11T01:45:51.590613+00:00",
-  "validated_at": "2026-01-11T01:45:51.590633+00:00",
+  "generated_at": "2026-01-11T02:11:05.486623+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 668,
+    "public_buckets_in_file": 684,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 668,
-    "total_public_buckets": 668,
+    "total_buckets_in_file": 684,
+    "total_public_buckets": 684,
     "total_private_buckets": 0,
-    "total_buckets": 668
+    "total_buckets": 684
   }
 }
