@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "astrogaming.com",
+  "date": "2026-01-12",
+  "timestamp": "2026-01-12T21:36:16.326596",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
