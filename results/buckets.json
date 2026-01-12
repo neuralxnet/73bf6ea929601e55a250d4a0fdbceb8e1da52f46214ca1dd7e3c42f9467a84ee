@@ -2,6 +2,14 @@
   "buckets": {
     "public": [
       {
+        "url": "https://ftp-astaro-com.s3.eu-west-1.amazonaws.com",
+        "bucket": "ftp-astaro-com",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-11T20:18:50.819115"
+      },
+      {
         "url": "https://ai-asia.s3.us-east-1.amazonaws.com",
         "bucket": "ai-asia",
         "region": "us-east-1",
@@ -5468,16 +5476,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-12T01:42:58.022709+00:00",
-  "validated_at": "2026-01-12T01:42:58.022731+00:00",
+  "generated_at": "2026-01-12T02:07:17.783937+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 683,
+    "public_buckets_in_file": 684,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 683,
-    "total_public_buckets": 683,
+    "total_buckets_in_file": 684,
+    "total_public_buckets": 684,
     "total_private_buckets": 0,
-    "total_buckets": 683
+    "total_buckets": 684
   }
 }
