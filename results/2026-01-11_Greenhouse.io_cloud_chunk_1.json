@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "Greenhouse.io",
+  "date": "2026-01-11",
+  "timestamp": "2026-01-11T22:58:17.877144",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}

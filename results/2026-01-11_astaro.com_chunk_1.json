@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "astaro.com",
   "date": "2026-01-11",
-  "timestamp": "2026-01-11T20:44:14.206542",
+  "timestamp": "2026-01-11T22:18:26.579769",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-11T20:27:34.363407"
+        "timestamp": "2026-01-11T20:18:50.819115"
       }
     ],
     "private": []
