@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "H&M Group",
+  "domain": "Harvest",
   "date": "2026-01-12",
-  "timestamp": "2026-01-12T04:51:07.217532",
+  "timestamp": "2026-01-12T13:10:23.237463",
   "providers": [
     "azure",
     "linode",
