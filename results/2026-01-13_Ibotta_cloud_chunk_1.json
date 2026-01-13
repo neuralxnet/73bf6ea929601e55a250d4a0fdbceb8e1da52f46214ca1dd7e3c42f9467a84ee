@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "IOVLabs",
-  "date": "2026-01-12",
-  "timestamp": "2026-01-12T23:57:47.427383",
+  "domain": "Ibotta",
+  "date": "2026-01-13",
+  "timestamp": "2026-01-13T03:34:38.896246",
   "providers": [
     "azure",
     "linode",
