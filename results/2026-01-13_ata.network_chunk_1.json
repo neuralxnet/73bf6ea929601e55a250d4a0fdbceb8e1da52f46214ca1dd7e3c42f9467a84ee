@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "ata.network",
+  "date": "2026-01-13",
+  "timestamp": "2026-01-13T19:41:00.296432",
+  "results": {
+    "public": [
+      {
+        "url": "https://data-network.s3.eu-west-3.amazonaws.com",
+        "bucket": "data-network",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:46:01.275485"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
