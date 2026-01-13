@@ -1,0 +1,88 @@
+{
+  "chunk_id": 1,
+  "domain": "ata",
+  "date": "2026-01-13",
+  "timestamp": "2026-01-13T16:44:05.285551",
+  "results": {
+    "public": [
+      {
+        "url": "https://ata-pics.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-pics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T13:41:04.709022"
+      },
+      {
+        "url": "https://ata-logos.s3.us-east-2.amazonaws.com",
+        "bucket": "ata-logos",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T13:50:22.037780"
+      },
+      {
+        "url": "https://ata-test.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-test",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T14:24:24.653353"
+      },
+      {
+        "url": "https://atar.s3.eu-central-1.amazonaws.com",
+        "bucket": "atar",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T15:04:53.842019"
+      },
+      {
+        "url": "https://ata-uk.s3.eu-west-2.amazonaws.com",
+        "bucket": "ata-uk",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T15:10:59.381248"
+      },
+      {
+        "url": "https://ata-website.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-website",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T15:34:03.043446"
+      },
+      {
+        "url": "https://platformata.s3.eu-central-1.amazonaws.com",
+        "bucket": "platformata",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T15:59:14.656084"
+      },
+      {
+        "url": "https://ata-frontend.s3.us-west-2.amazonaws.com",
+        "bucket": "ata-frontend",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:29:50.104396"
+      },
+      {
+        "url": "https://wata.s3.us-east-2.amazonaws.com",
+        "bucket": "wata",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:30:51.660787"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 9,
+    "private_found": 0
+  }
+}
