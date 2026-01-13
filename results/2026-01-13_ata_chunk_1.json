@@ -2,40 +2,16 @@
   "chunk_id": 1,
   "domain": "ata",
   "date": "2026-01-13",
-  "timestamp": "2026-01-13T16:26:03.631627",
+  "timestamp": "2026-01-13T18:31:19.059320",
   "results": {
     "public": [
       {
-        "url": "https://ata-frontend.s3.us-west-2.amazonaws.com",
-        "bucket": "ata-frontend",
-        "region": "us-west-2",
+        "url": "https://ata-uk.s3.eu-west-2.amazonaws.com",
+        "bucket": "ata-uk",
+        "region": "eu-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-13T12:55:55.947447"
-      },
-      {
-        "url": "https://ata-website.s3.us-east-1.amazonaws.com",
-        "bucket": "ata-website",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-13T13:27:01.108911"
-      },
-      {
-        "url": "https://atar.s3.eu-central-1.amazonaws.com",
-        "bucket": "atar",
-        "region": "eu-central-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-13T13:45:52.505244"
-      },
-      {
-        "url": "https://ata-logos.s3.us-east-2.amazonaws.com",
-        "bucket": "ata-logos",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-13T13:53:47.889616"
+        "timestamp": "2026-01-13T16:02:24.833953"
       },
       {
         "url": "https://wata.s3.us-east-2.amazonaws.com",
@@ -43,23 +19,7 @@
         "region": "us-east-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-13T14:12:16.761299"
-      },
-      {
-        "url": "https://ata-uk.s3.eu-west-2.amazonaws.com",
-        "bucket": "ata-uk",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-13T14:46:50.711257"
-      },
-      {
-        "url": "https://ata-pics.s3.us-east-1.amazonaws.com",
-        "bucket": "ata-pics",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-13T15:07:42.010970"
+        "timestamp": "2026-01-13T16:10:32.362606"
       },
       {
         "url": "https://ata-test.s3.us-east-1.amazonaws.com",
@@ -67,7 +27,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-13T15:21:55.793586"
+        "timestamp": "2026-01-13T16:21:10.814231"
       },
       {
         "url": "https://platformata.s3.eu-central-1.amazonaws.com",
@@ -75,7 +35,47 @@
         "region": "eu-central-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-13T15:32:38.158307"
+        "timestamp": "2026-01-13T17:05:01.619831"
+      },
+      {
+        "url": "https://ata-pics.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-pics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T17:07:53.435328"
+      },
+      {
+        "url": "https://ata-frontend.s3.us-west-2.amazonaws.com",
+        "bucket": "ata-frontend",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T17:16:24.033683"
+      },
+      {
+        "url": "https://ata-website.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-website",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:10:18.929714"
+      },
+      {
+        "url": "https://atar.s3.eu-central-1.amazonaws.com",
+        "bucket": "atar",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:11:41.564016"
+      },
+      {
+        "url": "https://ata-logos.s3.us-east-2.amazonaws.com",
+        "bucket": "ata-logos",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:27:34.014204"
       }
     ],
     "private": []
