@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "atairbnb.com",
+  "date": "2026-01-14",
+  "timestamp": "2026-01-14T07:47:09.028237",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
