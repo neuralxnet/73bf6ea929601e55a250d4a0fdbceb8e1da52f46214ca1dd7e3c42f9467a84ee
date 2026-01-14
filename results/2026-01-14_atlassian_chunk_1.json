@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "atlassian",
+  "date": "2026-01-14",
+  "timestamp": "2026-01-14T18:30:27.598334",
+  "results": {
+    "public": [
+      {
+        "url": "https://atlassians.s3.us-east-2.amazonaws.com",
+        "bucket": "atlassians",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T16:14:07.915766"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
