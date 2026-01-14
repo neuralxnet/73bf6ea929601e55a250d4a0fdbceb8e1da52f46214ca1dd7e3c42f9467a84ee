@@ -2,6 +2,86 @@
   "buckets": {
     "public": [
       {
+        "url": "https://ata-uk.s3.eu-west-2.amazonaws.com",
+        "bucket": "ata-uk",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:02:24.833953"
+      },
+      {
+        "url": "https://wata.s3.us-east-2.amazonaws.com",
+        "bucket": "wata",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:10:32.362606"
+      },
+      {
+        "url": "https://ata-test.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-test",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T16:21:10.814231"
+      },
+      {
+        "url": "https://platformata.s3.eu-central-1.amazonaws.com",
+        "bucket": "platformata",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T17:05:01.619831"
+      },
+      {
+        "url": "https://ata-pics.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-pics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T17:07:53.435328"
+      },
+      {
+        "url": "https://ata-frontend.s3.us-west-2.amazonaws.com",
+        "bucket": "ata-frontend",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T17:16:24.033683"
+      },
+      {
+        "url": "https://ata-website.s3.us-east-1.amazonaws.com",
+        "bucket": "ata-website",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:10:18.929714"
+      },
+      {
+        "url": "https://atar.s3.eu-central-1.amazonaws.com",
+        "bucket": "atar",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:11:41.564016"
+      },
+      {
+        "url": "https://ata-logos.s3.us-east-2.amazonaws.com",
+        "bucket": "ata-logos",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T18:27:34.014204"
+      },
+      {
+        "url": "https://data-network.s3.eu-west-3.amazonaws.com",
+        "bucket": "data-network",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-13T20:06:24.719253"
+      },
+      {
         "url": "https://asiaimages.s3.us-east-1.amazonaws.com",
         "bucket": "asiaimages",
         "region": "us-east-1",
@@ -546,14 +626,6 @@
         "timestamp": "2026-01-14T01:41:24.043675+00:00"
       },
       {
-        "url": "https://ata-website.s3.us-east-1.amazonaws.com",
-        "bucket": "ata-website",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-14T01:41:24.066640+00:00"
-      },
-      {
         "url": "https://lbc-data.s3.us-east-1.amazonaws.com",
         "bucket": "lbc-data",
         "region": "us-east-1",
@@ -752,14 +824,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-14T01:41:24.472140+00:00"
-      },
-      {
-        "url": "https://ata-test.s3.us-east-1.amazonaws.com",
-        "bucket": "ata-test",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-14T01:41:24.498625+00:00"
       },
       {
         "url": "https://albumwise.s3.us-east-1.amazonaws.com",
@@ -2962,14 +3026,6 @@
         "timestamp": "2026-01-14T01:41:28.379580+00:00"
       },
       {
-        "url": "https://ata-uk.s3.eu-west-2.amazonaws.com",
-        "bucket": "ata-uk",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-14T01:41:28.381695+00:00"
-      },
-      {
         "url": "https://album-covers.s3.eu-west-2.amazonaws.com",
         "bucket": "album-covers",
         "region": "eu-west-2",
@@ -3272,14 +3328,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-14T01:41:28.907715+00:00"
-      },
-      {
-        "url": "https://data-network.s3.eu-west-3.amazonaws.com",
-        "bucket": "data-network",
-        "region": "eu-west-3",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-14T01:41:28.917000+00:00"
       },
       {
         "url": "https://apprefresh.s3.us-east-1.amazonaws.com",
@@ -5476,16 +5524,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-14T01:41:33.818446+00:00",
-  "validated_at": "2026-01-14T01:41:33.818465+00:00",
+  "generated_at": "2026-01-14T02:05:50.775761+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 684,
+    "public_buckets_in_file": 690,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 684,
-    "total_public_buckets": 684,
+    "total_buckets_in_file": 690,
+    "total_public_buckets": 690,
     "total_private_buckets": 0,
-    "total_buckets": 684
+    "total_buckets": 690
   }
 }
