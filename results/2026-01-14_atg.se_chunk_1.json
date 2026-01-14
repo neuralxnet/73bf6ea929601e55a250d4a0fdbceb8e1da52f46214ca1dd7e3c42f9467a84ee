@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "atg.se",
+  "date": "2026-01-14",
+  "timestamp": "2026-01-14T17:23:38.193529",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
