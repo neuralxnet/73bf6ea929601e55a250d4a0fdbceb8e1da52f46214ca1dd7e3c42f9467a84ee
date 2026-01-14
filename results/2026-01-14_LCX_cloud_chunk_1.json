@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Kuna Crypto Exchange",
+  "domain": "LCX",
   "date": "2026-01-14",
-  "timestamp": "2026-01-14T15:05:20.527582",
+  "timestamp": "2026-01-14T16:01:46.175666",
   "providers": [
     "azure",
     "linode",
