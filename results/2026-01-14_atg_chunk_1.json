@@ -1,0 +1,72 @@
+{
+  "chunk_id": 1,
+  "domain": "atg",
+  "date": "2026-01-14",
+  "timestamp": "2026-01-14T10:35:13.214167",
+  "results": {
+    "public": [
+      {
+        "url": "https://atg-ui.s3.us-east-2.amazonaws.com",
+        "bucket": "atg-ui",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T07:37:42.625945"
+      },
+      {
+        "url": "https://atg-testing.s3.eu-central-1.amazonaws.com",
+        "bucket": "atg-testing",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T08:35:35.816249"
+      },
+      {
+        "url": "https://atgpdfs.s3.eu-west-2.amazonaws.com",
+        "bucket": "atgpdfs",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T08:49:15.855832"
+      },
+      {
+        "url": "https://atgpub.s3.us-east-1.amazonaws.com",
+        "bucket": "atgpub",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T08:55:16.762040"
+      },
+      {
+        "url": "https://batg.s3.eu-west-2.amazonaws.com",
+        "bucket": "batg",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T09:06:20.023088"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/atg.dog",
+        "bucket": "atg.dog",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T10:02:43.595786"
+      },
+      {
+        "url": "https://atg-digital.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "atg-digital",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T10:16:45.206887"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 7,
+    "private_found": 0
+  }
+}
