@@ -2,6 +2,97 @@
   "buckets": {
     "public": [
       {
+        "url": "https://batg.s3.eu-west-2.amazonaws.com",
+        "bucket": "batg",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T10:47:32.953457"
+      },
+      {
+        "url": "https://atg-ui.s3.us-east-2.amazonaws.com",
+        "bucket": "atg-ui",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T10:55:31.266084"
+      },
+      {
+        "url": "https://atgpdfs.s3.eu-west-2.amazonaws.com",
+        "bucket": "atgpdfs",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T10:58:56.083334"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/atg.dog",
+        "bucket": "atg.dog",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T11:13:05.288549"
+      },
+      {
+        "url": "https://atgpub.s3.us-east-1.amazonaws.com",
+        "bucket": "atgpub",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T12:08:59.697569"
+      },
+      {
+        "url": "https://atg-digital.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "atg-digital",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T12:42:59.170725"
+      },
+      {
+        "url": "https://atg-testing.s3.eu-central-1.amazonaws.com",
+        "bucket": "atg-testing",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T13:21:44.070867"
+      },
+      {
+        "url": "https://linepe.fra1.digitaloceanspaces.com",
+        "bucket": "linepe",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T16:25:57.207902"
+      },
+      {
+        "url": "https://2nd-line.nyc3.digitaloceanspaces.com",
+        "bucket": "2nd-line",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T16:28:27.041955"
+      },
+      {
+        "url": "https://gainline.ams3.digitaloceanspaces.com",
+        "bucket": "gainline",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T16:46:31.876713"
+      },
+      {
+        "url": "https://atlassians.s3.us-east-2.amazonaws.com",
+        "bucket": "atlassians",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-14T19:02:45.862505"
+      },
+      {
         "url": "https://vivostream.s3.us-east-1.amazonaws.com",
         "bucket": "vivostream",
         "region": "us-east-1",
@@ -5338,28 +5429,12 @@
         "timestamp": "2026-01-15T01:27:30.549584+00:00"
       },
       {
-        "url": "https://atgpub.s3.us-east-1.amazonaws.com",
-        "bucket": "atgpub",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.691888+00:00"
-      },
-      {
         "url": "https://ciapp.s3.ap-southeast-2.amazonaws.com",
         "bucket": "ciapp",
         "region": "ap-southeast-2",
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:30.693515+00:00"
-      },
-      {
-        "url": "https://s3.us-east-1.amazonaws.com/atg.dog",
-        "bucket": "atg.dog",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.738655+00:00"
       },
       {
         "url": "https://ng-app.s3.ap-south-1.amazonaws.com",
@@ -5384,14 +5459,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:30.783118+00:00"
-      },
-      {
-        "url": "https://atg-ui.s3.us-east-2.amazonaws.com",
-        "bucket": "atg-ui",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.786157+00:00"
       },
       {
         "url": "https://logosapp.s3.ap-south-1.amazonaws.com",
@@ -5456,30 +5523,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:30.922330+00:00"
-      },
-      {
-        "url": "https://batg.s3.eu-west-2.amazonaws.com",
-        "bucket": "batg",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.928726+00:00"
-      },
-      {
-        "url": "https://atg-testing.s3.eu-central-1.amazonaws.com",
-        "bucket": "atg-testing",
-        "region": "eu-central-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.929962+00:00"
-      },
-      {
-        "url": "https://atgpdfs.s3.eu-west-2.amazonaws.com",
-        "bucket": "atgpdfs",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:30.953932+00:00"
       },
       {
         "url": "https://applibs.s3.ap-southeast-1.amazonaws.com",
@@ -5560,28 +5603,22 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:31.196665+00:00"
-      },
-      {
-        "url": "https://atg-digital.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "atg-digital",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:31.274713+00:00"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-15T01:27:31.280130+00:00",
-  "validated_at": "2026-01-15T01:27:31.280152+00:00",
+  "generated_at": "2026-01-15T02:00:35.145981+00:00",
+  "source_files": 18,
+  "domains_scanned": 17,
+  "total_chunks": 18,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 696,
+    "public_buckets_in_file": 700,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 696,
-    "total_public_buckets": 696,
+    "total_buckets_in_file": 700,
+    "total_public_buckets": 700,
     "total_private_buckets": 0,
-    "total_buckets": 696
+    "total_buckets": 700
   }
 }
