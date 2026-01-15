@@ -1005,14 +1005,6 @@
         "timestamp": "2026-01-15T01:27:19.842632+00:00"
       },
       {
-        "url": "https://s3-att.s3.us-east-1.amazonaws.com",
-        "bucket": "s3-att",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:19.864670+00:00"
-      },
-      {
         "url": "https://facebook.s3.us-east-1.amazonaws.com",
         "bucket": "facebook",
         "region": "us-east-1",
@@ -2971,14 +2963,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:24.451896+00:00"
-      },
-      {
-        "url": "https://att-resources.s3.eu-west-1.amazonaws.com",
-        "bucket": "att-resources",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-15T01:27:24.469790+00:00"
       },
       {
         "url": "https://vivo-dev.s3.eu-west-1.amazonaws.com",
@@ -5603,22 +5587,170 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-15T01:27:31.196665+00:00"
+      },
+      {
+        "url": "https://demolime.fra1.digitaloceanspaces.com",
+        "bucket": "demolime",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T03:09:28.857337"
+      },
+      {
+        "url": "https://slime.sfo2.digitaloceanspaces.com",
+        "bucket": "slime",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T03:31:20.425290"
+      },
+      {
+        "url": "https://lime-sandbox.fra1.digitaloceanspaces.com",
+        "bucket": "lime-sandbox",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T03:31:43.340523"
+      },
+      {
+        "url": "https://livestream.nyc3.digitaloceanspaces.com",
+        "bucket": "livestream",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T06:58:15.085244"
+      },
+      {
+        "url": "https://lp-att.s3.sa-east-1.amazonaws.com",
+        "bucket": "lp-att",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T09:44:26.758412"
+      },
+      {
+        "url": "https://layoutsatt.s3.us-east-2.amazonaws.com",
+        "bucket": "layoutsatt",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T09:54:00.344332"
+      },
+      {
+        "url": "https://att-tv.s3.us-east-1.amazonaws.com",
+        "bucket": "att-tv",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T09:57:16.412981"
+      },
+      {
+        "url": "https://att-button.s3.us-west-2.amazonaws.com",
+        "bucket": "att-button",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T10:05:11.066211"
+      },
+      {
+        "url": "https://covers-att.s3.us-east-2.amazonaws.com",
+        "bucket": "covers-att",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T10:36:08.576776"
+      },
+      {
+        "url": "https://att-gateway.s3.us-east-1.amazonaws.com",
+        "bucket": "att-gateway",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T10:36:53.984913"
+      },
+      {
+        "url": "https://hd-att.s3.eu-west-1.amazonaws.com",
+        "bucket": "hd-att",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T10:37:59.216553"
+      },
+      {
+        "url": "https://attfree.s3.us-east-1.amazonaws.com",
+        "bucket": "attfree",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T10:50:36.585489"
+      },
+      {
+        "url": "https://att-resources.s3.eu-west-1.amazonaws.com",
+        "bucket": "att-resources",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:11:34.757624"
+      },
+      {
+        "url": "https://att-image.s3.us-east-1.amazonaws.com",
+        "bucket": "att-image",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:23:05.887392"
+      },
+      {
+        "url": "https://att-internet.s3.us-east-1.amazonaws.com",
+        "bucket": "att-internet",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:28:44.338219"
+      },
+      {
+        "url": "https://s3-att.s3.us-east-1.amazonaws.com",
+        "bucket": "s3-att",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:36:57.995695"
+      },
+      {
+        "url": "https://s3.ap-northeast-1.amazonaws.com/att.dev",
+        "bucket": "att.dev",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:57:27.452920"
+      },
+      {
+        "url": "https://attfileserver.s3.us-east-1.amazonaws.com",
+        "bucket": "attfileserver",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T12:21:24.349850"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-15T02:00:35.145981+00:00",
-  "source_files": 18,
-  "domains_scanned": 17,
-  "total_chunks": 18,
+  "generated_at": "2026-01-15T12:54:37.868733+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 700,
+    "public_buckets_in_file": 716,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 700,
-    "total_public_buckets": 700,
+    "total_buckets_in_file": 716,
+    "total_public_buckets": 716,
     "total_private_buckets": 0,
-    "total_buckets": 700
+    "total_buckets": 716
   }
 }
