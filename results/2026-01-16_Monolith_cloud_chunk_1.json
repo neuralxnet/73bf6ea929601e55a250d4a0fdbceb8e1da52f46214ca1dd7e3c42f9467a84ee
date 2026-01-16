@@ -1,0 +1,49 @@
+{
+  "chunk_id": 1,
+  "domain": "Monolith",
+  "date": "2026-01-16",
+  "timestamp": "2026-01-16T19:04:13.913728",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://monolith.sfo2.digitaloceanspaces.com",
+        "bucket": "monolith",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:42:21.277713"
+      },
+      {
+        "url": "https://development-monolith.sgp1.digitaloceanspaces.com",
+        "bucket": "development-monolith",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:52:43.950200"
+      },
+      {
+        "url": "https://space-monolith.nyc3.digitaloceanspaces.com",
+        "bucket": "space-monolith",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:54:38.777902"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 3,
+    "private_found": 0
+  }
+}
