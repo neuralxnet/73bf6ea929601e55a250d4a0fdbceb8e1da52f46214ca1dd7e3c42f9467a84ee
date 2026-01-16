@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Magisto",
-  "date": "2026-01-15",
-  "timestamp": "2026-01-15T18:13:16.635693",
+  "domain": "McDelivery",
+  "date": "2026-01-16",
+  "timestamp": "2026-01-16T04:47:47.273373",
   "providers": [
     "azure",
     "linode",

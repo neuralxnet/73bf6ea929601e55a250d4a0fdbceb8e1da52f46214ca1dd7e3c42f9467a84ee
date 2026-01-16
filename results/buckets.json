@@ -2,6 +2,136 @@
   "buckets": {
     "public": [
       {
+        "url": "https://covers-att.s3.us-east-2.amazonaws.com",
+        "bucket": "covers-att",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:44:56.381500"
+      },
+      {
+        "url": "https://layoutsatt.s3.us-east-2.amazonaws.com",
+        "bucket": "layoutsatt",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:48:44.834529"
+      },
+      {
+        "url": "https://attfree.s3.us-east-1.amazonaws.com",
+        "bucket": "attfree",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T11:50:42.420444"
+      },
+      {
+        "url": "https://att-image.s3.us-east-1.amazonaws.com",
+        "bucket": "att-image",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T12:03:07.605797"
+      },
+      {
+        "url": "https://att-resources.s3.eu-west-1.amazonaws.com",
+        "bucket": "att-resources",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T12:04:58.221520"
+      },
+      {
+        "url": "https://att-button.s3.us-west-2.amazonaws.com",
+        "bucket": "att-button",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T12:54:58.686236"
+      },
+      {
+        "url": "https://att-tv.s3.us-east-1.amazonaws.com",
+        "bucket": "att-tv",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T12:59:20.028965"
+      },
+      {
+        "url": "https://lp-att.s3.sa-east-1.amazonaws.com",
+        "bucket": "lp-att",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T13:29:47.042423"
+      },
+      {
+        "url": "https://att-gateway.s3.us-east-1.amazonaws.com",
+        "bucket": "att-gateway",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T13:40:18.552913"
+      },
+      {
+        "url": "https://att-internet.s3.us-east-1.amazonaws.com",
+        "bucket": "att-internet",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T14:05:24.519758"
+      },
+      {
+        "url": "https://s3-att.s3.us-east-1.amazonaws.com",
+        "bucket": "s3-att",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T14:24:28.172542"
+      },
+      {
+        "url": "https://attfileserver.s3.us-east-1.amazonaws.com",
+        "bucket": "attfileserver",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T14:33:47.851139"
+      },
+      {
+        "url": "https://hd-att.s3.eu-west-1.amazonaws.com",
+        "bucket": "hd-att",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T14:48:27.899924"
+      },
+      {
+        "url": "https://s3.ap-northeast-1.amazonaws.com/att.dev",
+        "bucket": "att.dev",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T14:59:19.389580"
+      },
+      {
+        "url": "https://magento-catalog.fra1.digitaloceanspaces.com",
+        "bucket": "magento-catalog",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T16:31:53.175908"
+      },
+      {
+        "url": "https://make.ams3.digitaloceanspaces.com",
+        "bucket": "make",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-15T19:25:58.354693"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/atg.dog",
         "bucket": "atg.dog",
         "region": "us-east-1",
@@ -5378,36 +5508,12 @@
         "timestamp": "2026-01-16T01:39:02.125576+00:00"
       },
       {
-        "url": "https://layoutsatt.s3.us-east-2.amazonaws.com",
-        "bucket": "layoutsatt",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.172378+00:00"
-      },
-      {
         "url": "https://aol-frontend.s3.ap-south-1.amazonaws.com",
         "bucket": "aol-frontend",
         "region": "ap-south-1",
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-16T01:39:02.188048+00:00"
-      },
-      {
-        "url": "https://att-tv.s3.us-east-1.amazonaws.com",
-        "bucket": "att-tv",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.201045+00:00"
-      },
-      {
-        "url": "https://covers-att.s3.us-east-2.amazonaws.com",
-        "bucket": "covers-att",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.213183+00:00"
       },
       {
         "url": "https://ng-app.s3.ap-south-1.amazonaws.com",
@@ -5442,22 +5548,6 @@
         "timestamp": "2026-01-16T01:39:02.256057+00:00"
       },
       {
-        "url": "https://att-gateway.s3.us-east-1.amazonaws.com",
-        "bucket": "att-gateway",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.303277+00:00"
-      },
-      {
-        "url": "https://att-button.s3.us-west-2.amazonaws.com",
-        "bucket": "att-button",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.304965+00:00"
-      },
-      {
         "url": "https://logosapp.s3.ap-south-1.amazonaws.com",
         "bucket": "logosapp",
         "region": "ap-south-1",
@@ -5490,28 +5580,12 @@
         "timestamp": "2026-01-16T01:39:02.333522+00:00"
       },
       {
-        "url": "https://attfree.s3.us-east-1.amazonaws.com",
-        "bucket": "attfree",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.353057+00:00"
-      },
-      {
         "url": "https://appuploads.s3.ap-southeast-1.amazonaws.com",
         "bucket": "appuploads",
         "region": "ap-southeast-1",
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-16T01:39:02.354070+00:00"
-      },
-      {
-        "url": "https://att-image.s3.us-east-1.amazonaws.com",
-        "bucket": "att-image",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.367567+00:00"
       },
       {
         "url": "https://radio-app.s3.ap-south-1.amazonaws.com",
@@ -5522,36 +5596,12 @@
         "timestamp": "2026-01-16T01:39:02.380876+00:00"
       },
       {
-        "url": "https://att-internet.s3.us-east-1.amazonaws.com",
-        "bucket": "att-internet",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.388827+00:00"
-      },
-      {
         "url": "https://agentapp.s3.ap-southeast-1.amazonaws.com",
         "bucket": "agentapp",
         "region": "ap-southeast-1",
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-16T01:39:02.406134+00:00"
-      },
-      {
-        "url": "https://attfileserver.s3.us-east-1.amazonaws.com",
-        "bucket": "attfileserver",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.409987+00:00"
-      },
-      {
-        "url": "https://s3-att.s3.us-east-1.amazonaws.com",
-        "bucket": "s3-att",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.411128+00:00"
       },
       {
         "url": "https://applibs.s3.ap-southeast-1.amazonaws.com",
@@ -5586,36 +5636,12 @@
         "timestamp": "2026-01-16T01:39:02.518616+00:00"
       },
       {
-        "url": "https://lp-att.s3.sa-east-1.amazonaws.com",
-        "bucket": "lp-att",
-        "region": "sa-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.519998+00:00"
-      },
-      {
-        "url": "https://hd-att.s3.eu-west-1.amazonaws.com",
-        "bucket": "hd-att",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.524333+00:00"
-      },
-      {
         "url": "https://app-media1.s3.ap-south-1.amazonaws.com",
         "bucket": "app-media1",
         "region": "ap-south-1",
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-16T01:39:02.539778+00:00"
-      },
-      {
-        "url": "https://att-resources.s3.eu-west-1.amazonaws.com",
-        "bucket": "att-resources",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.552224+00:00"
       },
       {
         "url": "https://ascc.s3.ap-south-1.amazonaws.com",
@@ -5664,28 +5690,22 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-16T01:39:02.723065+00:00"
-      },
-      {
-        "url": "https://s3.ap-northeast-1.amazonaws.com/att.dev",
-        "bucket": "att.dev",
-        "region": "ap-northeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-16T01:39:02.750608+00:00"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-16T01:39:02.756328+00:00",
-  "validated_at": "2026-01-16T01:39:02.756341+00:00",
+  "generated_at": "2026-01-16T02:04:07.499480+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 709,
+    "public_buckets_in_file": 711,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 709,
-    "total_public_buckets": 709,
+    "total_buckets_in_file": 711,
+    "total_public_buckets": 711,
     "total_private_buckets": 0,
-    "total_buckets": 709
+    "total_buckets": 711
   }
 }
