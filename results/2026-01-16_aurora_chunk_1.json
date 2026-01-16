@@ -1,0 +1,224 @@
+{
+  "chunk_id": 1,
+  "domain": "aurora",
+  "date": "2026-01-16",
+  "timestamp": "2026-01-16T07:46:57.210392",
+  "results": {
+    "public": [
+      {
+        "url": "https://aurora-fe.s3.us-east-1.amazonaws.com",
+        "bucket": "aurora-fe",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T04:47:41.663040"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/aurora.co",
+        "bucket": "aurora.co",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T04:51:15.176463"
+      },
+      {
+        "url": "https://lib-aurora.s3.eu-west-1.amazonaws.com",
+        "bucket": "lib-aurora",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T04:52:36.632771"
+      },
+      {
+        "url": "https://aurora-ms.s3.eu-west-1.amazonaws.com",
+        "bucket": "aurora-ms",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T04:54:42.557115"
+      },
+      {
+        "url": "https://auroraco.s3.us-east-1.amazonaws.com",
+        "bucket": "auroraco",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:06:14.776765"
+      },
+      {
+        "url": "https://uploads-aurora.s3.us-east-1.amazonaws.com",
+        "bucket": "uploads-aurora",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:07:32.645837"
+      },
+      {
+        "url": "https://auroraar.s3.us-east-1.amazonaws.com",
+        "bucket": "auroraar",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:12:40.138571"
+      },
+      {
+        "url": "https://auroraimages.s3.us-east-2.amazonaws.com",
+        "bucket": "auroraimages",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:12:51.379655"
+      },
+      {
+        "url": "https://aurora-docs.s3.eu-central-1.amazonaws.com",
+        "bucket": "aurora-docs",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:36:05.825910"
+      },
+      {
+        "url": "https://aurora-media.s3.eu-central-1.amazonaws.com",
+        "bucket": "aurora-media",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:37:05.980138"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/aurora.il",
+        "bucket": "aurora.il",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:42:34.636369"
+      },
+      {
+        "url": "https://aurora-public.s3.us-west-2.amazonaws.com",
+        "bucket": "aurora-public",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T05:44:38.438708"
+      },
+      {
+        "url": "https://aurora-content.s3.us-west-1.amazonaws.com",
+        "bucket": "aurora-content",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:10:27.314953"
+      },
+      {
+        "url": "https://aurora-v2.s3.us-east-1.amazonaws.com",
+        "bucket": "aurora-v2",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:19:54.622228"
+      },
+      {
+        "url": "https://aurora-models.s3.us-east-2.amazonaws.com",
+        "bucket": "aurora-models",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:25:06.529905"
+      },
+      {
+        "url": "https://aurora-brokerage.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "aurora-brokerage",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:36:54.349761"
+      },
+      {
+        "url": "https://auroracrm.s3.us-east-2.amazonaws.com",
+        "bucket": "auroracrm",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:41:46.347455"
+      },
+      {
+        "url": "https://project-aurora.s3.us-west-2.amazonaws.com",
+        "bucket": "project-aurora",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:43:35.839082"
+      },
+      {
+        "url": "https://aurora-2019.s3.us-west-1.amazonaws.com",
+        "bucket": "aurora-2019",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:45:23.450494"
+      },
+      {
+        "url": "https://aurora-nova.s3.us-east-2.amazonaws.com",
+        "bucket": "aurora-nova",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:46:32.354096"
+      },
+      {
+        "url": "https://aurora-se.s3.us-east-1.amazonaws.com",
+        "bucket": "aurora-se",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T06:53:42.617270"
+      },
+      {
+        "url": "https://auroracl.s3.us-east-1.amazonaws.com",
+        "bucket": "auroracl",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T07:22:46.179766"
+      },
+      {
+        "url": "https://s3.eu-central-1.amazonaws.com/demo.aurora",
+        "bucket": "demo.aurora",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T07:23:47.870268"
+      },
+      {
+        "url": "https://aurora-local.s3.us-east-1.amazonaws.com",
+        "bucket": "aurora-local",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T07:36:13.075385"
+      },
+      {
+        "url": "https://my-aurora.s3.us-east-1.amazonaws.com",
+        "bucket": "my-aurora",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T07:42:56.141827"
+      },
+      {
+        "url": "https://aurora-intranet.s3.eu-west-1.amazonaws.com",
+        "bucket": "aurora-intranet",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T07:46:49.738573"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 26,
+    "private_found": 0
+  }
+}
