@@ -1,0 +1,328 @@
+{
+  "chunk_id": 1,
+  "domain": "auto",
+  "date": "2026-01-16",
+  "timestamp": "2026-01-16T20:29:49.169201",
+  "results": {
+    "public": [
+      {
+        "url": "https://autosquare.s3.ap-south-1.amazonaws.com",
+        "bucket": "autosquare",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:24:04.223104"
+      },
+      {
+        "url": "https://auto-exchange.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "auto-exchange",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:26:50.819234"
+      },
+      {
+        "url": "https://autoid.s3.us-west-1.amazonaws.com",
+        "bucket": "autoid",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:28:35.849303"
+      },
+      {
+        "url": "https://autoservices.s3.us-east-2.amazonaws.com",
+        "bucket": "autoservices",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:30:55.466127"
+      },
+      {
+        "url": "https://autokit.s3.eu-west-2.amazonaws.com",
+        "bucket": "autokit",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:36:04.421242"
+      },
+      {
+        "url": "https://autoupload.s3.us-east-1.amazonaws.com",
+        "bucket": "autoupload",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:40:51.835737"
+      },
+      {
+        "url": "https://auto-review.s3.eu-west-1.amazonaws.com",
+        "bucket": "auto-review",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:42:03.853845"
+      },
+      {
+        "url": "https://auto-portal.s3.us-east-2.amazonaws.com",
+        "bucket": "auto-portal",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T17:56:26.480228"
+      },
+      {
+        "url": "https://awsauto.s3.us-east-1.amazonaws.com",
+        "bucket": "awsauto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:01:40.746112"
+      },
+      {
+        "url": "https://autoaffiliate.s3.us-east-2.amazonaws.com",
+        "bucket": "autoaffiliate",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:02:53.760356"
+      },
+      {
+        "url": "https://autotest.s3.us-east-1.amazonaws.com",
+        "bucket": "autotest",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:05:01.925187"
+      },
+      {
+        "url": "https://ec2auto.s3.us-west-1.amazonaws.com",
+        "bucket": "ec2auto",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:06:28.961089"
+      },
+      {
+        "url": "https://deploy-auto.s3.us-east-1.amazonaws.com",
+        "bucket": "deploy-auto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:06:40.373361"
+      },
+      {
+        "url": "https://autoru.s3.eu-central-1.amazonaws.com",
+        "bucket": "autoru",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:13:19.528660"
+      },
+      {
+        "url": "https://auto-media.s3.eu-west-1.amazonaws.com",
+        "bucket": "auto-media",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:14:47.118523"
+      },
+      {
+        "url": "https://autopt.s3.eu-central-1.amazonaws.com",
+        "bucket": "autopt",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:20:11.126982"
+      },
+      {
+        "url": "https://autoslots.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "autoslots",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:24:17.376728"
+      },
+      {
+        "url": "https://ecomauto.s3.us-west-1.amazonaws.com",
+        "bucket": "ecomauto",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:48:34.262978"
+      },
+      {
+        "url": "https://auto-dist.s3.eu-west-2.amazonaws.com",
+        "bucket": "auto-dist",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:50:26.180463"
+      },
+      {
+        "url": "https://teste-auto.s3.us-east-1.amazonaws.com",
+        "bucket": "teste-auto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T18:51:17.065722"
+      },
+      {
+        "url": "https://transfer-auto.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "transfer-auto",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:10:47.944984"
+      },
+      {
+        "url": "https://autosocial.s3.us-east-1.amazonaws.com",
+        "bucket": "autosocial",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:11:46.886236"
+      },
+      {
+        "url": "https://autologin.s3.eu-west-1.amazonaws.com",
+        "bucket": "autologin",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:24:04.195101"
+      },
+      {
+        "url": "https://auto-checkout.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "auto-checkout",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:26:10.177518"
+      },
+      {
+        "url": "https://auto6.s3.us-east-1.amazonaws.com",
+        "bucket": "auto6",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:26:53.683327"
+      },
+      {
+        "url": "https://cloudauto.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "cloudauto",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:28:44.874916"
+      },
+      {
+        "url": "https://auto-events.s3.us-east-2.amazonaws.com",
+        "bucket": "auto-events",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:28:47.706918"
+      },
+      {
+        "url": "https://autocoding.s3.us-east-1.amazonaws.com",
+        "bucket": "autocoding",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:32:36.185177"
+      },
+      {
+        "url": "https://autopro.s3.ap-south-1.amazonaws.com",
+        "bucket": "autopro",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:33:09.186377"
+      },
+      {
+        "url": "https://autowebinar.s3.ca-central-1.amazonaws.com",
+        "bucket": "autowebinar",
+        "region": "ca-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:38:28.521883"
+      },
+      {
+        "url": "https://autobook.s3.eu-west-2.amazonaws.com",
+        "bucket": "autobook",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:46:18.623394"
+      },
+      {
+        "url": "https://s3.eu-west-2.amazonaws.com/auto.works",
+        "bucket": "auto.works",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:47:02.052839"
+      },
+      {
+        "url": "https://express-auto.s3.us-east-1.amazonaws.com",
+        "bucket": "express-auto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T19:49:52.841882"
+      },
+      {
+        "url": "https://autof.s3.us-east-1.amazonaws.com",
+        "bucket": "autof",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:07:26.353188"
+      },
+      {
+        "url": "https://auto-4.s3.us-east-1.amazonaws.com",
+        "bucket": "auto-4",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:15:30.099416"
+      },
+      {
+        "url": "https://fxauto.s3.us-east-1.amazonaws.com",
+        "bucket": "fxauto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:15:45.712210"
+      },
+      {
+        "url": "https://autoaction.s3.us-east-1.amazonaws.com",
+        "bucket": "autoaction",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:17:08.969471"
+      },
+      {
+        "url": "https://devauto.s3.us-east-1.amazonaws.com",
+        "bucket": "devauto",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:17:56.678543"
+      },
+      {
+        "url": "https://auto-screenshots.s3.us-west-2.amazonaws.com",
+        "bucket": "auto-screenshots",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-16T20:22:39.260355"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 39,
+    "private_found": 0
+  }
+}
