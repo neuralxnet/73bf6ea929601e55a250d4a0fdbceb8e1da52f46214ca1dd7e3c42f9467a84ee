@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "McDelivery",
+  "date": "2026-01-16",
+  "timestamp": "2026-01-16T04:47:47.273373",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
