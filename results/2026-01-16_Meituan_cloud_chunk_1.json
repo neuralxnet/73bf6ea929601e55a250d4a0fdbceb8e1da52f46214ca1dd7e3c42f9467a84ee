@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "McDelivery",
+  "domain": "Meituan",
   "date": "2026-01-16",
-  "timestamp": "2026-01-16T05:28:33.303817",
+  "timestamp": "2026-01-16T06:07:28.450573",
   "providers": [
     "azure",
     "linode",

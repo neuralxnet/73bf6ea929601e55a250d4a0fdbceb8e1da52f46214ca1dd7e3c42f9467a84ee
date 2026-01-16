@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "McDelivery",
+  "domain": "MercadoLibre",
   "date": "2026-01-16",
-  "timestamp": "2026-01-16T05:28:33.303817",
+  "timestamp": "2026-01-16T07:07:29.150929",
   "providers": [
     "azure",
     "linode",
