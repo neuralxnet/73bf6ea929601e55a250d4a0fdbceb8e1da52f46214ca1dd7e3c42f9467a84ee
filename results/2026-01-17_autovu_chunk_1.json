@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "autovu",
+  "date": "2026-01-17",
+  "timestamp": "2026-01-17T13:26:35.699762",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
