@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "autotask.net",
+  "date": "2026-01-17",
+  "timestamp": "2026-01-17T11:29:37.314444",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
