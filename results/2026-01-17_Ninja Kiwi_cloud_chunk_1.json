@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "Ninja Kiwi",
+  "date": "2026-01-17",
+  "timestamp": "2026-01-17T13:11:19.317970",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
