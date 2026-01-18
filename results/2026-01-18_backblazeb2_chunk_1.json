@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "backblazeb2",
+  "date": "2026-01-18",
+  "timestamp": "2026-01-18T23:23:21.752217",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
