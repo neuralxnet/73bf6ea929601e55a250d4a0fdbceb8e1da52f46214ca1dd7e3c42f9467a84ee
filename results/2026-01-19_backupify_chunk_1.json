@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "backupify",
+  "date": "2026-01-19",
+  "timestamp": "2026-01-19T23:28:41.065721",
+  "results": {
+    "public": [
+      {
+        "url": "https://wpbackupify.s3.us-west-2.amazonaws.com",
+        "bucket": "wpbackupify",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-19T22:03:12.685669"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
