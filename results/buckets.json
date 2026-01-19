@@ -2,6 +2,15 @@
   "buckets": {
     "public": [
       {
+        "url": "https://ownclouddata.ams3.digitaloceanspaces.com",
+        "bucket": "ownclouddata",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-18T19:52:12.963048"
+      },
+      {
         "url": "https://ecomauto.s3.us-west-1.amazonaws.com",
         "bucket": "ecomauto",
         "region": "us-west-1",
@@ -6148,16 +6157,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-19T01:43:36.144189+00:00",
-  "validated_at": "2026-01-19T01:43:36.144204+00:00",
+  "generated_at": "2026-01-19T02:07:49.747731+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 768,
+    "public_buckets_in_file": 769,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 768,
-    "total_public_buckets": 768,
+    "total_buckets_in_file": 769,
+    "total_public_buckets": 769,
     "total_private_buckets": 0,
-    "total_buckets": 768
+    "total_buckets": 769
   }
 }
