@@ -2,6 +2,14 @@
   "buckets": {
     "public": [
       {
+        "url": "https://wpbackupify.s3.us-west-2.amazonaws.com",
+        "bucket": "wpbackupify",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-19T22:08:57.000620"
+      },
+      {
         "url": "https://ec2auto.s3.us-west-1.amazonaws.com",
         "bucket": "ec2auto",
         "region": "us-west-1",
@@ -6180,16 +6188,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-20T01:28:42.487957+00:00",
-  "validated_at": "2026-01-20T01:28:42.487970+00:00",
+  "generated_at": "2026-01-20T02:02:34.671675+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 772,
+    "public_buckets_in_file": 773,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 772,
-    "total_public_buckets": 772,
+    "total_buckets_in_file": 773,
+    "total_public_buckets": 773,
     "total_private_buckets": 0,
-    "total_buckets": 772
+    "total_buckets": 773
   }
 }
