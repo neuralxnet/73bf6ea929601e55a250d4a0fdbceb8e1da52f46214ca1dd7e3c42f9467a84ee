@@ -7,7 +7,7 @@
         "region": "us-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-19T22:08:57.000620"
+        "timestamp": "2026-01-20T01:00:49.128073"
       },
       {
         "url": "https://ec2auto.s3.us-west-1.amazonaws.com",
@@ -6188,10 +6188,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-20T02:02:34.671675+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-20T12:59:24.380196+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
