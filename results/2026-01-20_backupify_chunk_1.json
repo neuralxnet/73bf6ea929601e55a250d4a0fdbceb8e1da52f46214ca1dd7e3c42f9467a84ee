@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "backupify",
   "date": "2026-01-20",
-  "timestamp": "2026-01-20T00:23:04.670901",
+  "timestamp": "2026-01-20T02:28:27.649093",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-19T22:08:57.000620"
+        "timestamp": "2026-01-20T01:00:49.128073"
       }
     ],
     "private": []
