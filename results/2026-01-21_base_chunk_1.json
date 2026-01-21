@@ -1,0 +1,224 @@
+{
+  "chunk_id": 1,
+  "domain": "base",
+  "date": "2026-01-21",
+  "timestamp": "2026-01-21T17:36:54.081943",
+  "results": {
+    "public": [
+      {
+        "url": "https://edbase.s3.eu-central-1.amazonaws.com",
+        "bucket": "edbase",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:38:46.738732"
+      },
+      {
+        "url": "https://basebox.s3.eu-central-1.amazonaws.com",
+        "bucket": "basebox",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:43:30.345152"
+      },
+      {
+        "url": "https://rebase.s3.us-west-1.amazonaws.com",
+        "bucket": "rebase",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:45:24.296154"
+      },
+      {
+        "url": "https://netbase.s3.us-east-1.amazonaws.com",
+        "bucket": "netbase",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:52:45.930118"
+      },
+      {
+        "url": "https://base-industrial.s3.us-west-1.amazonaws.com",
+        "bucket": "base-industrial",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:53:41.982572"
+      },
+      {
+        "url": "https://base-meta.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "base-meta",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T14:56:02.725418"
+      },
+      {
+        "url": "https://sportsbase.s3.us-east-1.amazonaws.com",
+        "bucket": "sportsbase",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T15:05:39.201653"
+      },
+      {
+        "url": "https://base-maps.s3.us-west-2.amazonaws.com",
+        "bucket": "base-maps",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T15:12:23.613830"
+      },
+      {
+        "url": "https://genebase.s3.us-west-2.amazonaws.com",
+        "bucket": "genebase",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T15:13:17.691740"
+      },
+      {
+        "url": "https://basetemplate.s3.sa-east-1.amazonaws.com",
+        "bucket": "basetemplate",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T15:25:39.159756"
+      },
+      {
+        "url": "https://base1.s3.us-east-1.amazonaws.com",
+        "bucket": "base1",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T15:53:32.889684"
+      },
+      {
+        "url": "https://marketing-base.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "marketing-base",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:00:24.031116"
+      },
+      {
+        "url": "https://rulesbase.s3.eu-west-2.amazonaws.com",
+        "bucket": "rulesbase",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:14:50.889719"
+      },
+      {
+        "url": "https://basecontainer.s3.us-east-1.amazonaws.com",
+        "bucket": "basecontainer",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:17:40.612358"
+      },
+      {
+        "url": "https://base-ccartoday.s3.us-west-1.amazonaws.com",
+        "bucket": "base-ccartoday",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:26:47.283434"
+      },
+      {
+        "url": "https://base3.s3.us-west-2.amazonaws.com",
+        "bucket": "base3",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:30:02.940727"
+      },
+      {
+        "url": "https://basebase.s3.us-east-2.amazonaws.com",
+        "bucket": "basebase",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:31:26.351232"
+      },
+      {
+        "url": "https://scriptbase.s3.us-east-1.amazonaws.com",
+        "bucket": "scriptbase",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:31:51.515031"
+      },
+      {
+        "url": "https://wagtailbase.s3.us-east-2.amazonaws.com",
+        "bucket": "wagtailbase",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:34:51.627028"
+      },
+      {
+        "url": "https://latestbase.s3.us-east-1.amazonaws.com",
+        "bucket": "latestbase",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:41:19.224261"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/django_base",
+        "bucket": "django_base",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T16:59:02.708845"
+      },
+      {
+        "url": "https://baselearning.s3.eu-central-1.amazonaws.com",
+        "bucket": "baselearning",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T17:01:48.682383"
+      },
+      {
+        "url": "https://cbase.s3.us-east-2.amazonaws.com",
+        "bucket": "cbase",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T17:12:28.464188"
+      },
+      {
+        "url": "https://tokyobase.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "tokyobase",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T17:17:07.827902"
+      },
+      {
+        "url": "https://baseec2.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "baseec2",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T17:25:28.126655"
+      },
+      {
+        "url": "https://cloud-base.s3.us-east-1.amazonaws.com",
+        "bucket": "cloud-base",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-21T17:26:26.181714"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 26,
+    "private_found": 0
+  }
+}
