@@ -1,0 +1,64 @@
+{
+  "chunk_id": 1,
+  "domain": "bentley",
+  "date": "2026-01-22",
+  "timestamp": "2026-01-22T21:39:30.624965",
+  "results": {
+    "public": [
+      {
+        "url": "https://bentleydownloads.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleydownloads",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:15:27.935401"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/bentley.blog",
+        "bucket": "bentley.blog",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:21:07.125290"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/bentley.link",
+        "bucket": "bentley.link",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T20:03:40.993055"
+      },
+      {
+        "url": "https://bentleylegacy.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleylegacy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T20:13:53.790446"
+      },
+      {
+        "url": "https://bentleyimages2.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleyimages2",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T21:09:52.377034"
+      },
+      {
+        "url": "https://bentleymodels.s3.us-east-2.amazonaws.com",
+        "bucket": "bentleymodels",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T21:26:12.965488"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 6,
+    "private_found": 0
+  }
+}
