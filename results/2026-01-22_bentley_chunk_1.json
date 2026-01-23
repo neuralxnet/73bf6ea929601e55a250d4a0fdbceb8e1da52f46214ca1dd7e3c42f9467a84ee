@@ -2,40 +2,16 @@
   "chunk_id": 1,
   "domain": "bentley",
   "date": "2026-01-22",
-  "timestamp": "2026-01-22T20:35:52.589886",
+  "timestamp": "2026-01-22T22:27:47.235099",
   "results": {
     "public": [
-      {
-        "url": "https://bentleylegacy.s3.us-east-1.amazonaws.com",
-        "bucket": "bentleylegacy",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-22T17:31:37.445424"
-      },
-      {
-        "url": "https://s3.us-east-1.amazonaws.com/bentley.blog",
-        "bucket": "bentley.blog",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-22T17:46:52.378559"
-      },
       {
         "url": "https://bentleyimages2.s3.us-east-1.amazonaws.com",
         "bucket": "bentleyimages2",
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-22T18:15:47.192121"
-      },
-      {
-        "url": "https://s3.us-west-2.amazonaws.com/bentley.link",
-        "bucket": "bentley.link",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-22T19:14:27.428004"
+        "timestamp": "2026-01-22T19:48:46.238696"
       },
       {
         "url": "https://bentleydownloads.s3.us-east-1.amazonaws.com",
@@ -43,7 +19,31 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-22T19:47:09.150740"
+        "timestamp": "2026-01-22T19:48:50.012469"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/bentley.link",
+        "bucket": "bentley.link",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:49:40.808024"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/bentley.blog",
+        "bucket": "bentley.blog",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:51:26.970213"
+      },
+      {
+        "url": "https://bentleylegacy.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleylegacy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:56:52.160112"
       },
       {
         "url": "https://bentleymodels.s3.us-east-2.amazonaws.com",
@@ -51,7 +51,7 @@
         "region": "us-east-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-22T20:32:00.012232"
+        "timestamp": "2026-01-22T20:09:05.348717"
       }
     ],
     "private": []
