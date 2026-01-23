@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "betfair",
   "date": "2026-01-23",
-  "timestamp": "2026-01-23T13:30:46.759940",
+  "timestamp": "2026-01-23T14:26:20.444538",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "eu-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-23T12:32:17.511747"
+        "timestamp": "2026-01-23T13:06:20.618595"
       }
     ],
     "private": []
