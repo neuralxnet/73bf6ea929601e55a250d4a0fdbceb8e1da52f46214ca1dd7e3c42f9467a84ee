@@ -6451,22 +6451,58 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-23T01:28:50.343698+00:00"
+      },
+      {
+        "url": "https://soraretest.fra1.digitaloceanspaces.com",
+        "bucket": "soraretest",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T06:58:00.687010"
+      },
+      {
+        "url": "https://spacex1.nyc3.digitaloceanspaces.com",
+        "bucket": "spacex1",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T08:50:54.977075"
+      },
+      {
+        "url": "https://spokeo-reviews.sgp1.digitaloceanspaces.com",
+        "bucket": "spokeo-reviews",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T10:54:29.811046"
+      },
+      {
+        "url": "https://spotify.s3.us-south.cloud-object-storage.appdomain.cloud",
+        "bucket": "spotify.s3",
+        "provider": "ibm",
+        "region": "us-south",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T11:19:42.221885"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-23T02:02:06.438734+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-23T12:56:17.317126+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 806,
+    "public_buckets_in_file": 810,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 806,
-    "total_public_buckets": 806,
+    "total_buckets_in_file": 810,
+    "total_public_buckets": 810,
     "total_private_buckets": 0,
-    "total_buckets": 806
+    "total_buckets": 810
   }
 }
