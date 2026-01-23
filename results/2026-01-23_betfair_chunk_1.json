@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "betfair",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T13:13:44.448001",
+  "results": {
+    "public": [
+      {
+        "url": "https://s3.eu-west-2.amazonaws.com/betfair.club",
+        "bucket": "betfair.club",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T10:14:07.322178"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
