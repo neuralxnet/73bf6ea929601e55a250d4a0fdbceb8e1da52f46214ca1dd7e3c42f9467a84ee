@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Sophos",
+  "domain": "Square",
   "date": "2026-01-23",
-  "timestamp": "2026-01-23T06:09:35.156169",
+  "timestamp": "2026-01-23T13:17:07.291607",
   "providers": [
     "azure",
     "linode",
@@ -14,7 +14,7 @@
     "private": []
   },
   "stats": {
-    "total_checked": 570510,
+    "total_checked": 570390,
     "public_found": 0,
     "private_found": 0
   }
