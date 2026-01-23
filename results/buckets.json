@@ -2,6 +2,81 @@
   "buckets": {
     "public": [
       {
+        "url": "https://simple.ams3.digitaloceanspaces.com",
+        "bucket": "simple",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T16:31:13.921401"
+      },
+      {
+        "url": "https://simplepos.sfo2.digitaloceanspaces.com",
+        "bucket": "simplepos",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T16:55:56.497050"
+      },
+      {
+        "url": "https://slackphotos.ams3.digitaloceanspaces.com",
+        "bucket": "slackphotos",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T18:48:06.065090"
+      },
+      {
+        "url": "https://bentleyimages2.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleyimages2",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:48:46.238696"
+      },
+      {
+        "url": "https://bentleydownloads.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleydownloads",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:48:50.012469"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/bentley.link",
+        "bucket": "bentley.link",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:49:40.808024"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/bentley.blog",
+        "bucket": "bentley.blog",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:51:26.970213"
+      },
+      {
+        "url": "https://bentleylegacy.s3.us-east-1.amazonaws.com",
+        "bucket": "bentleylegacy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T19:56:52.160112"
+      },
+      {
+        "url": "https://bentleymodels.s3.us-east-2.amazonaws.com",
+        "bucket": "bentleymodels",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-22T20:09:05.348717"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/django_base",
         "bucket": "django_base",
         "region": "us-east-1",
@@ -6380,16 +6455,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-23T01:28:50.349357+00:00",
-  "validated_at": "2026-01-23T01:28:50.349376+00:00",
+  "generated_at": "2026-01-23T02:02:06.438734+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 797,
+    "public_buckets_in_file": 806,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 797,
-    "total_public_buckets": 797,
+    "total_buckets_in_file": 806,
+    "total_public_buckets": 806,
     "total_private_buckets": 0,
-    "total_buckets": 797
+    "total_buckets": 806
   }
 }
