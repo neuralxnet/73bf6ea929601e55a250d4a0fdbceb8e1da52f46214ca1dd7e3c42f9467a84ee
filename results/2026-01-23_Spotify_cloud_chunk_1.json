@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Spotify",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T11:57:10.702131",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://spotify.s3.us-south.cloud-object-storage.appdomain.cloud",
+        "bucket": "spotify.s3",
+        "provider": "ibm",
+        "region": "us-south",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T11:19:42.221885"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
