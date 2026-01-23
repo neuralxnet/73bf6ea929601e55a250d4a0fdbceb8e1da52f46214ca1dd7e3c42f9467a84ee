@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Sorare",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T07:06:07.114030",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://soraretest.fra1.digitaloceanspaces.com",
+        "bucket": "soraretest",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T06:58:00.687010"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
