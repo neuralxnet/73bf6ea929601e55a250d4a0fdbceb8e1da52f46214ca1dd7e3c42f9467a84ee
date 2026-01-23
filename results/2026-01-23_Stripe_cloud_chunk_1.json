@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Stripe",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T19:05:30.001941",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://stripe.fra1.digitaloceanspaces.com",
+        "bucket": "stripe",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T18:48:19.264744"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
