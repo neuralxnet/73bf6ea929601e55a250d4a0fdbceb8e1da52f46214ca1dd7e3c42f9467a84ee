@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Superbet",
-  "date": "2026-01-23",
-  "timestamp": "2026-01-23T22:03:26.965751",
+  "domain": "Swapcard",
+  "date": "2026-01-24",
+  "timestamp": "2026-01-24T00:00:05.657977",
   "providers": [
     "azure",
     "linode",
