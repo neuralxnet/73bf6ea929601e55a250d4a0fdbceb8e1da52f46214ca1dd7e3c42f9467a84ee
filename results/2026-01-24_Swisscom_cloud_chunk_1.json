@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Statuspage",
-  "date": "2026-01-23",
-  "timestamp": "2026-01-23T17:06:01.658440",
+  "domain": "Swisscom",
+  "date": "2026-01-24",
+  "timestamp": "2026-01-24T04:39:09.388689",
   "providers": [
     "azure",
     "linode",
