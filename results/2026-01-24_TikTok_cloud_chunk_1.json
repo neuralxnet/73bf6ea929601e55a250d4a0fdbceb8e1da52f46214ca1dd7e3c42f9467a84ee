@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "TikTok",
+  "date": "2026-01-24",
+  "timestamp": "2026-01-24T21:54:58.362451",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://image-tiktok.nyc3.digitaloceanspaces.com",
+        "bucket": "image-tiktok",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T21:42:10.244047"
+      },
+      {
+        "url": "https://tiktokvideos.syd1.digitaloceanspaces.com",
+        "bucket": "tiktokvideos",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T21:50:15.281566"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
