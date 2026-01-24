@@ -2,6 +2,31 @@
   "buckets": {
     "public": [
       {
+        "url": "https://uat-betfair.s3.eu-west-1.amazonaws.com",
+        "bucket": "uat-betfair",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T12:50:01.610486"
+      },
+      {
+        "url": "https://s3.eu-west-2.amazonaws.com/betfair.club",
+        "bucket": "betfair.club",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T14:26:04.975137"
+      },
+      {
+        "url": "https://stripe.fra1.digitaloceanspaces.com",
+        "bucket": "stripe",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-23T18:48:19.264744"
+      },
+      {
         "url": "https://base-ccartoday.s3.us-west-1.amazonaws.com",
         "bucket": "base-ccartoday",
         "region": "us-west-1",
@@ -6428,16 +6453,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-24T01:27:07.057616+00:00",
-  "validated_at": "2026-01-24T01:27:07.057636+00:00",
+  "generated_at": "2026-01-24T01:58:37.270828+00:00",
+  "source_files": 15,
+  "domains_scanned": 15,
+  "total_chunks": 15,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 803,
+    "public_buckets_in_file": 806,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 803,
-    "total_public_buckets": 803,
+    "total_buckets_in_file": 806,
+    "total_public_buckets": 806,
     "total_private_buckets": 0,
-    "total_buckets": 803
+    "total_buckets": 806
   }
 }
