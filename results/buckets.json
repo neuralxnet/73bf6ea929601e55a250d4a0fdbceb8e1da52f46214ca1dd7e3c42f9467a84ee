@@ -2,6 +2,168 @@
   "buckets": {
     "public": [
       {
+        "url": "https://bigint.s3.eu-west-1.amazonaws.com",
+        "bucket": "bigint",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T15:20:37.745409"
+      },
+      {
+        "url": "https://bigread.s3.us-east-1.amazonaws.com",
+        "bucket": "bigread",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T15:43:40.501313"
+      },
+      {
+        "url": "https://big-app.s3.us-east-1.amazonaws.com",
+        "bucket": "big-app",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:01:28.698192"
+      },
+      {
+        "url": "https://big2.s3.us-east-1.amazonaws.com",
+        "bucket": "big2",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:05:16.447083"
+      },
+      {
+        "url": "https://bigfilestorage.s3.us-east-1.amazonaws.com",
+        "bucket": "bigfilestorage",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:13:15.288265"
+      },
+      {
+        "url": "https://bigfinder.s3.ap-south-1.amazonaws.com",
+        "bucket": "bigfinder",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:16:22.944906"
+      },
+      {
+        "url": "https://bigstories.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "bigstories",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:23:41.345929"
+      },
+      {
+        "url": "https://bigcourse.s3.us-east-1.amazonaws.com",
+        "bucket": "bigcourse",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:29:10.255151"
+      },
+      {
+        "url": "https://bigboard.s3.us-east-1.amazonaws.com",
+        "bucket": "bigboard",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T16:49:51.562153"
+      },
+      {
+        "url": "https://bigwatch.s3.us-west-2.amazonaws.com",
+        "bucket": "bigwatch",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:26:38.298791"
+      },
+      {
+        "url": "https://big-commerce.s3.us-east-2.amazonaws.com",
+        "bucket": "big-commerce",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:28:34.158833"
+      },
+      {
+        "url": "https://xbig.s3.eu-west-1.amazonaws.com",
+        "bucket": "xbig",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:39:55.063394"
+      },
+      {
+        "url": "https://bigbuzz.s3.us-east-1.amazonaws.com",
+        "bucket": "bigbuzz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:46:26.250706"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/banner_big",
+        "bucket": "banner_big",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:47:18.792288"
+      },
+      {
+        "url": "https://bigdeals.s3.us-east-1.amazonaws.com",
+        "bucket": "bigdeals",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T17:51:35.383467"
+      },
+      {
+        "url": "https://bigbase.s3.us-east-1.amazonaws.com",
+        "bucket": "bigbase",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T18:02:57.135297"
+      },
+      {
+        "url": "https://big-bear.s3.us-west-1.amazonaws.com",
+        "bucket": "big-bear",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T18:25:47.931549"
+      },
+      {
+        "url": "https://image-tiktok.nyc3.digitaloceanspaces.com",
+        "bucket": "image-tiktok",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T21:42:10.244047"
+      },
+      {
+        "url": "https://tiktokvideos.syd1.digitaloceanspaces.com",
+        "bucket": "tiktokvideos",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T21:50:15.281566"
+      },
+      {
+        "url": "https://bigonedelivery.s3.eu-central-1.amazonaws.com",
+        "bucket": "bigonedelivery",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T00:06:23.438863"
+      },
+      {
         "url": "https://netbase.s3.us-east-1.amazonaws.com",
         "bucket": "netbase",
         "region": "us-east-1",
@@ -6444,16 +6606,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-25T01:47:34.583717+00:00",
-  "validated_at": "2026-01-25T01:47:34.583731+00:00",
+  "generated_at": "2026-01-25T02:13:52.602636+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 805,
+    "public_buckets_in_file": 825,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 805,
-    "total_public_buckets": 805,
+    "total_buckets_in_file": 825,
+    "total_public_buckets": 825,
     "total_private_buckets": 0,
-    "total_buckets": 805
+    "total_buckets": 825
   }
 }
