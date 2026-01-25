@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bigtop40.com",
+  "date": "2026-01-25",
+  "timestamp": "2026-01-25T14:18:15.046628",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
