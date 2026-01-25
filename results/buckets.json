@@ -161,7 +161,7 @@
         "region": "eu-central-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-25T00:06:23.438863"
+        "timestamp": "2026-01-25T00:44:25.182688"
       },
       {
         "url": "https://netbase.s3.us-east-1.amazonaws.com",
@@ -6606,10 +6606,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-25T02:13:52.602636+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-01-25T12:51:31.164843+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
