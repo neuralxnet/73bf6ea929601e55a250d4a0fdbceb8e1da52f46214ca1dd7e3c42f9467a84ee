@@ -1,0 +1,112 @@
+{
+  "chunk_id": 1,
+  "domain": "bike",
+  "date": "2026-01-25",
+  "timestamp": "2026-01-25T18:23:11.388757",
+  "results": {
+    "public": [
+      {
+        "url": "https://biketour.s3.us-east-1.amazonaws.com",
+        "bucket": "biketour",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T15:31:37.059710"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/moto.bike",
+        "bucket": "moto.bike",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T15:45:54.252340"
+      },
+      {
+        "url": "https://bikelab.s3.us-east-1.amazonaws.com",
+        "bucket": "bikelab",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T15:52:01.191836"
+      },
+      {
+        "url": "https://bebike.s3.eu-central-1.amazonaws.com",
+        "bucket": "bebike",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T15:56:40.486512"
+      },
+      {
+        "url": "https://solidbike.s3.eu-west-2.amazonaws.com",
+        "bucket": "solidbike",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T16:12:30.576026"
+      },
+      {
+        "url": "https://bikes.s3.us-east-1.amazonaws.com",
+        "bucket": "bikes",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T16:16:00.474004"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/bike.reviews",
+        "bucket": "bike.reviews",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T16:46:52.374882"
+      },
+      {
+        "url": "https://bikestrong.s3.eu-west-2.amazonaws.com",
+        "bucket": "bikestrong",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T16:50:56.786147"
+      },
+      {
+        "url": "https://bike-world.s3.eu-central-1.amazonaws.com",
+        "bucket": "bike-world",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T17:20:58.944421"
+      },
+      {
+        "url": "https://bike-pics.s3.us-east-1.amazonaws.com",
+        "bucket": "bike-pics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T18:00:11.721909"
+      },
+      {
+        "url": "https://bike-insurance.s3.us-east-1.amazonaws.com",
+        "bucket": "bike-insurance",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T18:02:01.518007"
+      },
+      {
+        "url": "https://bike-trip.s3.us-east-1.amazonaws.com",
+        "bucket": "bike-trip",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T18:13:42.991782"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 12,
+    "private_found": 0
+  }
+}
