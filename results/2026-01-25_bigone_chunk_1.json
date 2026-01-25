@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "bigone",
+  "date": "2026-01-25",
+  "timestamp": "2026-01-25T00:23:11.593220",
+  "results": {
+    "public": [
+      {
+        "url": "https://bigonedelivery.s3.eu-central-1.amazonaws.com",
+        "bucket": "bigonedelivery",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-24T23:30:06.856543"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
