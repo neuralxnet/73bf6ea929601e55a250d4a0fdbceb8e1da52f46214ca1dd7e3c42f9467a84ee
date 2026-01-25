@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Twilio",
+  "date": "2026-01-25",
+  "timestamp": "2026-01-25T15:58:45.241536",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://twilio-media.sfo2.digitaloceanspaces.com",
+        "bucket": "twilio-media",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-25T15:31:25.779521"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
