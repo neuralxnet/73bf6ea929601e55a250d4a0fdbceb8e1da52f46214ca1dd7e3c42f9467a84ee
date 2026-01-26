@@ -6698,22 +6698,38 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-26T01:47:22.279796+00:00"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/binance.data",
+        "bucket": "binance.data",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-26T10:54:13.174820"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
+        "bucket": "binance.quotes",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-26T12:04:44.462359"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-26T02:12:24.001864+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-01-26T12:57:32.484804+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 837,
+    "public_buckets_in_file": 839,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 837,
-    "total_public_buckets": 837,
+    "total_buckets_in_file": 839,
+    "total_public_buckets": 839,
     "total_private_buckets": 0,
-    "total_buckets": 837
+    "total_buckets": 839
   }
 }
