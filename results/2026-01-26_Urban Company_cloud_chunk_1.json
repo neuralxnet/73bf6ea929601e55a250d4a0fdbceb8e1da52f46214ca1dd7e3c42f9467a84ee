@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Upstox",
+  "domain": "Urban Company",
   "date": "2026-01-26",
-  "timestamp": "2026-01-26T11:03:50.036878",
+  "timestamp": "2026-01-26T13:15:08.569603",
   "providers": [
     "azure",
     "linode",

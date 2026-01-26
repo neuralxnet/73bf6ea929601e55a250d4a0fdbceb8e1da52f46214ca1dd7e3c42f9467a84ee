@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "binance",
   "date": "2026-01-26",
-  "timestamp": "2026-01-26T12:44:50.572657",
+  "timestamp": "2026-01-26T14:25:03.249231",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-26T10:54:13.174820"
+        "timestamp": "2026-01-26T11:37:05.954242"
       },
       {
         "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
@@ -19,7 +19,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-26T12:04:44.462359"
+        "timestamp": "2026-01-26T12:56:42.207605"
       }
     ],
     "private": []
