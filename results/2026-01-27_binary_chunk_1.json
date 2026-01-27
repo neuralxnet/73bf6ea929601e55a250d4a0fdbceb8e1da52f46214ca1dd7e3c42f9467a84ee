@@ -2,48 +2,16 @@
   "chunk_id": 1,
   "domain": "binary",
   "date": "2026-01-27",
-  "timestamp": "2026-01-27T16:53:13.276303",
+  "timestamp": "2026-01-27T18:37:24.885047",
   "results": {
     "public": [
       {
-        "url": "https://binary-archive.s3.eu-west-1.amazonaws.com",
-        "bucket": "binary-archive",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T14:00:49.365385"
-      },
-      {
-        "url": "https://site-binary.s3.us-east-1.amazonaws.com",
-        "bucket": "site-binary",
+        "url": "https://binary-cache.s3.us-east-1.amazonaws.com",
+        "bucket": "binary-cache",
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T14:19:20.365618"
-      },
-      {
-        "url": "https://binary-web.s3.us-east-1.amazonaws.com",
-        "bucket": "binary-web",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T14:19:40.748322"
-      },
-      {
-        "url": "https://binary-uploads.s3.us-west-1.amazonaws.com",
-        "bucket": "binary-uploads",
-        "region": "us-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T14:36:02.343056"
-      },
-      {
-        "url": "https://binaryresources.s3.us-east-1.amazonaws.com",
-        "bucket": "binaryresources",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T14:42:18.207772"
+        "timestamp": "2026-01-27T15:33:12.959654"
       },
       {
         "url": "https://binarybusiness.s3.us-east-2.amazonaws.com",
@@ -51,31 +19,7 @@
         "region": "us-east-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T15:00:16.518156"
-      },
-      {
-        "url": "https://binary-store.s3.us-west-2.amazonaws.com",
-        "bucket": "binary-store",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T15:35:53.059123"
-      },
-      {
-        "url": "https://s3.us-west-2.amazonaws.com/binary.testing",
-        "bucket": "binary.testing",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T15:48:45.893509"
-      },
-      {
-        "url": "https://binary-cache.s3.us-east-1.amazonaws.com",
-        "bucket": "binary-cache",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T16:13:20.124171"
+        "timestamp": "2026-01-27T15:46:01.136734"
       },
       {
         "url": "https://binaryresearch.s3.us-east-2.amazonaws.com",
@@ -83,7 +27,55 @@
         "region": "us-east-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T16:30:34.323623"
+        "timestamp": "2026-01-27T15:46:31.739350"
+      },
+      {
+        "url": "https://binary-uploads.s3.us-west-1.amazonaws.com",
+        "bucket": "binary-uploads",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T16:19:59.015701"
+      },
+      {
+        "url": "https://binaryresources.s3.us-east-1.amazonaws.com",
+        "bucket": "binaryresources",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T16:51:51.058592"
+      },
+      {
+        "url": "https://site-binary.s3.us-east-1.amazonaws.com",
+        "bucket": "site-binary",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T17:11:07.131467"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/binary.testing",
+        "bucket": "binary.testing",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:00:12.801364"
+      },
+      {
+        "url": "https://binary-archive.s3.eu-west-1.amazonaws.com",
+        "bucket": "binary-archive",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:09:18.789569"
+      },
+      {
+        "url": "https://binary-store.s3.us-west-2.amazonaws.com",
+        "bucket": "binary-store",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:09:24.121407"
       },
       {
         "url": "https://sharebinary.s3.eu-central-1.amazonaws.com",
@@ -91,7 +83,15 @@
         "region": "eu-central-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T16:44:21.752081"
+        "timestamp": "2026-01-27T18:24:18.245414"
+      },
+      {
+        "url": "https://binary-web.s3.us-east-1.amazonaws.com",
+        "bucket": "binary-web",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:30:32.646826"
       }
     ],
     "private": []
