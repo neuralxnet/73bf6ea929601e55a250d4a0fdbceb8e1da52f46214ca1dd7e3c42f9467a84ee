@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "WEB.DE",
+  "date": "2026-01-27",
+  "timestamp": "2026-01-27T03:52:19.818603",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
