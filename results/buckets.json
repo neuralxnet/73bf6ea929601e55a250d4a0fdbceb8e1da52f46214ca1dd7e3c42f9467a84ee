@@ -2,6 +2,22 @@
   "buckets": {
     "public": [
       {
+        "url": "https://s3.us-east-1.amazonaws.com/binance.data",
+        "bucket": "binance.data",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-26T11:37:05.954242"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
+        "bucket": "binance.quotes",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-26T12:56:42.207605"
+      },
+      {
         "url": "https://big-bear.s3.us-west-1.amazonaws.com",
         "bucket": "big-bear",
         "region": "us-west-1",
@@ -6498,22 +6514,6 @@
         "timestamp": "2026-01-27T01:44:42.929491+00:00"
       },
       {
-        "url": "https://s3.us-east-1.amazonaws.com/binance.data",
-        "bucket": "binance.data",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T01:44:42.978986+00:00"
-      },
-      {
-        "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
-        "bucket": "binance.quotes",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T01:44:42.981401+00:00"
-      },
-      {
         "url": "https://vfsbucket.s3.ap-south-1.amazonaws.com",
         "bucket": "vfsbucket",
         "region": "ap-south-1",
@@ -6684,8 +6684,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-27T01:44:43.408702+00:00",
-  "validated_at": "2026-01-27T01:44:43.408720+00:00",
+  "generated_at": "2026-01-27T02:09:09.752128+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
