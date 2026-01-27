@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "Wickr",
+  "date": "2026-01-27",
+  "timestamp": "2026-01-27T12:00:39.968408",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
