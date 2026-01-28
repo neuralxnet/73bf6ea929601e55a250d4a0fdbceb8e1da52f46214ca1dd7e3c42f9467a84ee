@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "Zapier",
+  "date": "2026-01-28",
+  "timestamp": "2026-01-28T03:56:06.794900",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://zapier-icons.nyc3.digitaloceanspaces.com",
+        "bucket": "zapier-icons",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T03:27:52.497827"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
