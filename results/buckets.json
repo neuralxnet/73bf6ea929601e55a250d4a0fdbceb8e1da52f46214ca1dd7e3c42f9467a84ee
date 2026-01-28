@@ -2,6 +2,228 @@
   "buckets": {
     "public": [
       {
+        "url": "https://wisely.nyc3.digitaloceanspaces.com",
+        "bucket": "wisely",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T12:47:54.536878"
+      },
+      {
+        "url": "https://wise-site.fra1.digitaloceanspaces.com",
+        "bucket": "wise-site",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T12:48:34.889814"
+      },
+      {
+        "url": "https://wise-cdn.sgp1.digitaloceanspaces.com",
+        "bucket": "wise-cdn",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T12:53:57.325358"
+      },
+      {
+        "url": "https://binary-cache.s3.us-east-1.amazonaws.com",
+        "bucket": "binary-cache",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T15:33:12.959654"
+      },
+      {
+        "url": "https://dext.ams3.digitaloceanspaces.com",
+        "bucket": "dext",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T15:40:38.297517"
+      },
+      {
+        "url": "https://next.ams3.digitaloceanspaces.com",
+        "bucket": "next",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T15:41:44.854707"
+      },
+      {
+        "url": "https://binarybusiness.s3.us-east-2.amazonaws.com",
+        "bucket": "binarybusiness",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T15:46:01.136734"
+      },
+      {
+        "url": "https://binaryresearch.s3.us-east-2.amazonaws.com",
+        "bucket": "binaryresearch",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T15:46:31.739350"
+      },
+      {
+        "url": "https://binary-uploads.s3.us-west-1.amazonaws.com",
+        "bucket": "binary-uploads",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T16:19:59.015701"
+      },
+      {
+        "url": "https://xiaomi.fra1.digitaloceanspaces.com",
+        "bucket": "xiaomi",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T16:37:19.619469"
+      },
+      {
+        "url": "https://binaryresources.s3.us-east-1.amazonaws.com",
+        "bucket": "binaryresources",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T16:51:51.058592"
+      },
+      {
+        "url": "https://site-binary.s3.us-east-1.amazonaws.com",
+        "bucket": "site-binary",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T17:11:07.131467"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/binary.testing",
+        "bucket": "binary.testing",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:00:12.801364"
+      },
+      {
+        "url": "https://binary-archive.s3.eu-west-1.amazonaws.com",
+        "bucket": "binary-archive",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:09:18.789569"
+      },
+      {
+        "url": "https://binary-store.s3.us-west-2.amazonaws.com",
+        "bucket": "binary-store",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:09:24.121407"
+      },
+      {
+        "url": "https://sharebinary.s3.eu-central-1.amazonaws.com",
+        "bucket": "sharebinary",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:24:18.245414"
+      },
+      {
+        "url": "https://binary-web.s3.us-east-1.amazonaws.com",
+        "bucket": "binary-web",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T18:30:32.646826"
+      },
+      {
+        "url": "https://bingo-online.s3.us-east-1.amazonaws.com",
+        "bucket": "bingo-online",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T22:32:05.767974"
+      },
+      {
+        "url": "https://s3.eu-west-2.amazonaws.com/bingo.sites",
+        "bucket": "bingo.sites",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T22:48:16.197515"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/bingo.host",
+        "bucket": "bingo.host",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T23:15:43.464251"
+      },
+      {
+        "url": "https://bingovideo.s3.eu-west-1.amazonaws.com",
+        "bucket": "bingovideo",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T23:28:52.897649"
+      },
+      {
+        "url": "https://ebingo.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "ebingo",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T00:41:58.768956"
+      },
+      {
+        "url": "https://bingodev.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "bingodev",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T00:45:44.525370"
+      },
+      {
+        "url": "https://bingo-screenshots.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "bingo-screenshots",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:02:48.880476"
+      },
+      {
+        "url": "https://bingo-drive.s3.us-east-1.amazonaws.com",
+        "bucket": "bingo-drive",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:05:39.999639"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/robot.bingo",
+        "bucket": "robot.bingo",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:21:28.953222"
+      },
+      {
+        "url": "https://bingoapp.s3.us-east-2.amazonaws.com",
+        "bucket": "bingoapp",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:22:04.886051"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
         "bucket": "binance.quotes",
         "region": "us-east-1",
@@ -794,14 +1016,6 @@
         "timestamp": "2026-01-28T01:41:00.406839+00:00"
       },
       {
-        "url": "https://binary-web.s3.us-east-1.amazonaws.com",
-        "bucket": "binary-web",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T01:41:00.407448+00:00"
-      },
-      {
         "url": "https://zapier-logos.s3.us-east-1.amazonaws.com",
         "bucket": "zapier-logos",
         "region": "us-east-1",
@@ -1432,14 +1646,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-28T01:41:01.499721+00:00"
-      },
-      {
-        "url": "https://site-binary.s3.us-east-1.amazonaws.com",
-        "bucket": "site-binary",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T01:41:01.506611+00:00"
       },
       {
         "url": "https://alexairbnb.s3.us-east-1.amazonaws.com",
@@ -2928,14 +3134,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-28T01:41:04.238569+00:00"
-      },
-      {
-        "url": "https://binary-uploads.s3.us-west-1.amazonaws.com",
-        "bucket": "binary-uploads",
-        "region": "us-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T01:41:04.241298+00:00"
       },
       {
         "url": "https://cloud-live.s3.us-west-2.amazonaws.com",
@@ -6684,16 +6882,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-28T01:41:12.203405+00:00",
-  "validated_at": "2026-01-28T01:41:12.203426+00:00",
+  "generated_at": "2026-01-28T02:05:09.026144+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 835,
+    "public_buckets_in_file": 859,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 835,
-    "total_public_buckets": 835,
+    "total_buckets_in_file": 859,
+    "total_public_buckets": 859,
     "total_private_buckets": 0,
-    "total_buckets": 835
+    "total_buckets": 859
   }
 }
