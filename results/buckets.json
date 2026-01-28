@@ -144,28 +144,12 @@
         "timestamp": "2026-01-27T18:30:32.646826"
       },
       {
-        "url": "https://bingo-online.s3.us-east-1.amazonaws.com",
-        "bucket": "bingo-online",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T22:32:05.767974"
-      },
-      {
-        "url": "https://s3.eu-west-2.amazonaws.com/bingo.sites",
-        "bucket": "bingo.sites",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-27T22:48:16.197515"
-      },
-      {
         "url": "https://s3.us-east-1.amazonaws.com/bingo.host",
         "bucket": "bingo.host",
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T23:15:43.464251"
+        "timestamp": "2026-01-27T23:23:06.414366"
       },
       {
         "url": "https://bingovideo.s3.eu-west-1.amazonaws.com",
@@ -173,39 +157,15 @@
         "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T23:28:52.897649"
+        "timestamp": "2026-01-27T23:34:07.525238"
       },
       {
-        "url": "https://ebingo.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "ebingo",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T00:41:58.768956"
-      },
-      {
-        "url": "https://bingodev.s3.ap-northeast-1.amazonaws.com",
-        "bucket": "bingodev",
-        "region": "ap-northeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T00:45:44.525370"
-      },
-      {
-        "url": "https://bingo-screenshots.s3.ap-southeast-1.amazonaws.com",
-        "bucket": "bingo-screenshots",
-        "region": "ap-southeast-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-01-28T01:02:48.880476"
-      },
-      {
-        "url": "https://bingo-drive.s3.us-east-1.amazonaws.com",
-        "bucket": "bingo-drive",
+        "url": "https://bingo-online.s3.us-east-1.amazonaws.com",
+        "bucket": "bingo-online",
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-28T01:05:39.999639"
+        "timestamp": "2026-01-27T23:34:21.163693"
       },
       {
         "url": "https://s3.us-west-2.amazonaws.com/robot.bingo",
@@ -213,7 +173,15 @@
         "region": "us-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-28T01:21:28.953222"
+        "timestamp": "2026-01-27T23:36:56.500169"
+      },
+      {
+        "url": "https://bingo-screenshots.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "bingo-screenshots",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-27T23:40:47.174737"
       },
       {
         "url": "https://bingoapp.s3.us-east-2.amazonaws.com",
@@ -221,7 +189,31 @@
         "region": "us-east-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-28T01:22:04.886051"
+        "timestamp": "2026-01-27T23:43:45.236001"
+      },
+      {
+        "url": "https://s3.eu-west-2.amazonaws.com/bingo.sites",
+        "bucket": "bingo.sites",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T00:27:57.802553"
+      },
+      {
+        "url": "https://bingo-drive.s3.us-east-1.amazonaws.com",
+        "bucket": "bingo-drive",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:01:34.677078"
+      },
+      {
+        "url": "https://bingodev.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "bingodev",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T01:39:50.094803"
       },
       {
         "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
@@ -6878,22 +6870,48 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-01-28T01:41:12.196749+00:00"
+      },
+      {
+        "url": "https://ebingo.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "ebingo",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T02:23:08.240418"
+      },
+      {
+        "url": "https://zapier-icons.nyc3.digitaloceanspaces.com",
+        "bucket": "zapier-icons",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T03:27:52.497827"
+      },
+      {
+        "url": "https://gc-zoom.sfo3.digitaloceanspaces.com",
+        "bucket": "gc-zoom",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-28T12:04:09.158795"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-01-28T02:05:09.026144+00:00",
-  "source_files": 16,
-  "domains_scanned": 15,
-  "total_chunks": 16,
+  "generated_at": "2026-01-28T12:59:37.408951+00:00",
+  "source_files": 13,
+  "domains_scanned": 13,
+  "total_chunks": 13,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 859,
+    "public_buckets_in_file": 861,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 859,
-    "total_public_buckets": 859,
+    "total_buckets_in_file": 861,
+    "total_public_buckets": 861,
     "total_private_buckets": 0,
-    "total_buckets": 859
+    "total_buckets": 861
   }
 }
