@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Xiaomi",
-  "date": "2026-01-27",
-  "timestamp": "2026-01-27T17:02:42.574632",
+  "domain": "Zapier",
+  "date": "2026-01-28",
+  "timestamp": "2026-01-28T03:56:06.794900",
   "providers": [
     "azure",
     "linode",
@@ -12,13 +12,13 @@
   "results": {
     "public": [
       {
-        "url": "https://xiaomi.fra1.digitaloceanspaces.com",
-        "bucket": "xiaomi",
+        "url": "https://zapier-icons.nyc3.digitaloceanspaces.com",
+        "bucket": "zapier-icons",
         "provider": "digitalocean",
-        "region": "fra1",
+        "region": "nyc3",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-01-27T16:37:19.619469"
+        "timestamp": "2026-01-28T03:27:52.497827"
       }
     ],
     "private": []
