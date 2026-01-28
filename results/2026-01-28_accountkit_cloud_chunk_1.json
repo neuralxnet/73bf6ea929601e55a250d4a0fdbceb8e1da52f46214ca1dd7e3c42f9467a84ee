@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "ZetaChain",
+  "domain": "accountkit",
   "date": "2026-01-28",
-  "timestamp": "2026-01-28T08:07:23.526205",
+  "timestamp": "2026-01-28T13:11:52.804386",
   "providers": [
     "azure",
     "linode",

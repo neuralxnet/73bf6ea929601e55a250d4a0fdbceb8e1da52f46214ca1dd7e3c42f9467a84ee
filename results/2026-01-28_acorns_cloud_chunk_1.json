@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "Zenly",
+  "domain": "acorns",
   "date": "2026-01-28",
-  "timestamp": "2026-01-28T06:05:28.505617",
+  "timestamp": "2026-01-28T16:09:11.243317",
   "providers": [
     "azure",
     "linode",
