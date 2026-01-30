@@ -6828,8 +6828,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-30T01:53:54.301217+00:00",
-  "validated_at": "2026-01-30T01:53:54.301237+00:00",
+  "generated_at": "2026-01-30T02:26:44.319760+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
