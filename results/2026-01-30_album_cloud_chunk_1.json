@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "album",
+  "date": "2026-01-30",
+  "timestamp": "2026-01-30T09:15:21.058076",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://travel-album.nyc3.digitaloceanspaces.com",
+        "bucket": "travel-album",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-30T08:27:54.965355"
+      },
+      {
+        "url": "https://albums.fra1.digitaloceanspaces.com",
+        "bucket": "albums",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-30T08:29:41.427017"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
