@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "algolia.com",
+  "date": "2026-01-30",
+  "timestamp": "2026-01-30T19:14:43.920627",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
