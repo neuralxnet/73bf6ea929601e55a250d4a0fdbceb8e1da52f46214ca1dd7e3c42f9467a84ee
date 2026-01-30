@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bitdiscovery.com",
+  "date": "2026-01-30",
+  "timestamp": "2026-01-30T20:40:54.937267",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
