@@ -2,6 +2,15 @@
   "buckets": {
     "public": [
       {
+        "url": "https://alibaba.s3.eu-de.cloud-object-storage.appdomain.cloud",
+        "bucket": "alibaba.s3",
+        "provider": "ibm",
+        "region": "eu-de",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-01-30T22:39:43.253501"
+      },
+      {
         "url": "https://bigboard.s3.us-east-1.amazonaws.com",
         "bucket": "bigboard",
         "region": "us-east-1",
@@ -6828,16 +6837,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-01-31T01:49:26.183969+00:00",
-  "validated_at": "2026-01-31T01:49:26.183991+00:00",
+  "generated_at": "2026-01-31T02:22:28.699263+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 853,
+    "public_buckets_in_file": 854,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 853,
-    "total_public_buckets": 853,
+    "total_buckets_in_file": 854,
+    "total_public_buckets": 854,
     "total_private_buckets": 0,
-    "total_buckets": 853
+    "total_buckets": 854
   }
 }
