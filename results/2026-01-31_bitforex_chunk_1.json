@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bitforex",
+  "date": "2026-01-31",
+  "timestamp": "2026-01-31T20:10:56.339278",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
