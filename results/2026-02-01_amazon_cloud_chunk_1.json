@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-01T11:02:22.762293",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://amazons3.ams3.digitaloceanspaces.com",
+        "bucket": "amazons3",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-01T10:15:25.370549"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
