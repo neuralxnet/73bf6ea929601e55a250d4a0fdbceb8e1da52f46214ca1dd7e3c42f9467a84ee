@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "amazon.de",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-01T23:03:59.515487",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
