@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "alphax.com",
+  "domain": "amazon.ca",
   "date": "2026-02-01",
-  "timestamp": "2026-02-01T08:19:11.421843",
+  "timestamp": "2026-02-01T13:15:08.471576",
   "providers": [
     "azure",
     "linode",
