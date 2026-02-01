@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bitkub",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-01T11:36:43.950916",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
