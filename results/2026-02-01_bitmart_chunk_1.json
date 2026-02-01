@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bitmart",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-01T15:56:52.829423",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
