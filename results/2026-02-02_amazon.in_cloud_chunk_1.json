@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "amazon.com.tr",
-  "date": "2026-02-01",
-  "timestamp": "2026-02-01T22:03:16.975761",
+  "domain": "amazon.in",
+  "date": "2026-02-02",
+  "timestamp": "2026-02-02T04:56:51.079029",
   "providers": [
     "azure",
     "linode",
