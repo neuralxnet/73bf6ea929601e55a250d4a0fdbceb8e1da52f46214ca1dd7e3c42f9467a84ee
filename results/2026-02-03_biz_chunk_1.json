@@ -1,0 +1,224 @@
+{
+  "chunk_id": 1,
+  "domain": "biz",
+  "date": "2026-02-03",
+  "timestamp": "2026-02-03T22:05:01.922700",
+  "results": {
+    "public": [
+      {
+        "url": "https://biz-images.s3.us-east-1.amazonaws.com",
+        "bucket": "biz-images",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:06:31.076068"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/biz.training",
+        "bucket": "biz.training",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:38:47.968878"
+      },
+      {
+        "url": "https://bizblocks.s3.us-west-2.amazonaws.com",
+        "bucket": "bizblocks",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:38:56.739469"
+      },
+      {
+        "url": "https://bizengine.s3.us-west-1.amazonaws.com",
+        "bucket": "bizengine",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:46:30.108658"
+      },
+      {
+        "url": "https://ecobiz.s3.eu-west-3.amazonaws.com",
+        "bucket": "ecobiz",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:48:52.838122"
+      },
+      {
+        "url": "https://bizcentral.s3.us-east-1.amazonaws.com",
+        "bucket": "bizcentral",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:54:11.295082"
+      },
+      {
+        "url": "https://bizweb.s3.us-east-1.amazonaws.com",
+        "bucket": "bizweb",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:55:39.864949"
+      },
+      {
+        "url": "https://pro-biz.s3.ap-south-1.amazonaws.com",
+        "bucket": "pro-biz",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:03:11.962080"
+      },
+      {
+        "url": "https://digitalbiz.s3.us-west-2.amazonaws.com",
+        "bucket": "digitalbiz",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:13:19.306037"
+      },
+      {
+        "url": "https://bizblueprint.s3.us-east-1.amazonaws.com",
+        "bucket": "bizblueprint",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:16:51.678168"
+      },
+      {
+        "url": "https://biz-awards.s3.eu-west-1.amazonaws.com",
+        "bucket": "biz-awards",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:17:02.022847"
+      },
+      {
+        "url": "https://biz-support.s3.ap-south-1.amazonaws.com",
+        "bucket": "biz-support",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:32:53.343314"
+      },
+      {
+        "url": "https://bizwest.s3.us-west-2.amazonaws.com",
+        "bucket": "bizwest",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:33:23.924164"
+      },
+      {
+        "url": "https://biz-net.s3.eu-north-1.amazonaws.com",
+        "bucket": "biz-net",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:39:47.275277"
+      },
+      {
+        "url": "https://biznews.s3.us-east-1.amazonaws.com",
+        "bucket": "biznews",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:44:21.161543"
+      },
+      {
+        "url": "https://bizgov.s3.us-east-1.amazonaws.com",
+        "bucket": "bizgov",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:48:35.314347"
+      },
+      {
+        "url": "https://ignite-biz.s3.eu-west-1.amazonaws.com",
+        "bucket": "ignite-biz",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:00:36.823053"
+      },
+      {
+        "url": "https://bizmarketing.s3.us-east-1.amazonaws.com",
+        "bucket": "bizmarketing",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:04:22.949065"
+      },
+      {
+        "url": "https://drivebiz.s3.us-east-1.amazonaws.com",
+        "bucket": "drivebiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:07:10.728413"
+      },
+      {
+        "url": "https://fbbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "fbbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:14:25.481982"
+      },
+      {
+        "url": "https://bizmktg.s3.us-west-2.amazonaws.com",
+        "bucket": "bizmktg",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:14:26.482102"
+      },
+      {
+        "url": "https://reviewbiz.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "reviewbiz",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:14:51.108391"
+      },
+      {
+        "url": "https://smbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "smbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:18:13.122533"
+      },
+      {
+        "url": "https://greenbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "greenbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:20:39.284346"
+      },
+      {
+        "url": "https://newbiz.s3.us-west-2.amazonaws.com",
+        "bucket": "newbiz",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:47:46.752315"
+      },
+      {
+        "url": "https://biz-analytics.s3.us-east-1.amazonaws.com",
+        "bucket": "biz-analytics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:55:17.783525"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 26,
+    "private_found": 0
+  }
+}
