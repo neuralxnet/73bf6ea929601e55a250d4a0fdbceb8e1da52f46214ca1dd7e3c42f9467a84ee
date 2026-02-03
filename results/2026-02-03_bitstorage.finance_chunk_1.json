@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bitstorage.finance",
+  "date": "2026-02-03",
+  "timestamp": "2026-02-03T07:56:32.497977",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
