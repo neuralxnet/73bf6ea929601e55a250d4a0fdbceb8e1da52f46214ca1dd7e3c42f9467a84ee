@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "asc",
+  "date": "2026-02-04",
+  "timestamp": "2026-02-04T17:23:51.535346",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://asc.s3.au-syd.cloud-object-storage.appdomain.cloud",
+        "bucket": "asc.s3",
+        "provider": "ibm",
+        "region": "au-syd",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-04T16:56:42.288566"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
