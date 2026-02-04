@@ -7227,22 +7227,40 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-04T01:54:10.980939+00:00"
+      },
+      {
+        "url": "https://artistapp.nyc3.digitaloceanspaces.com",
+        "bucket": "artistapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-04T07:59:30.690076"
+      },
+      {
+        "url": "https://artistlink.nyc3.digitaloceanspaces.com",
+        "bucket": "artistlink",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-04T08:02:06.517238"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-04T02:27:40.285000+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-02-04T13:09:10.468125+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 900,
+    "public_buckets_in_file": 902,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 900,
-    "total_public_buckets": 900,
+    "total_buckets_in_file": 902,
+    "total_public_buckets": 902,
     "total_private_buckets": 0,
-    "total_buckets": 900
+    "total_buckets": 902
   }
 }
