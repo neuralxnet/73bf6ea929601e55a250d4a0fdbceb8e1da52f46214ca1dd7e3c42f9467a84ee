@@ -2,6 +2,457 @@
   "buckets": {
     "public": [
       {
+        "url": "https://sms-app.ams3.digitaloceanspaces.com",
+        "bucket": "sms-app",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:43:42.671221"
+      },
+      {
+        "url": "https://qa-app.nyc3.digitaloceanspaces.com",
+        "bucket": "qa-app",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:44:05.495051"
+      },
+      {
+        "url": "https://appcontent.sfo3.digitaloceanspaces.com",
+        "bucket": "appcontent",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:44:46.961047"
+      },
+      {
+        "url": "https://app-data.sgp1.digitaloceanspaces.com",
+        "bucket": "app-data",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:47:41.544502"
+      },
+      {
+        "url": "https://hrapp.nyc3.digitaloceanspaces.com",
+        "bucket": "hrapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:49:09.279190"
+      },
+      {
+        "url": "https://mobile-app.fra1.digitaloceanspaces.com",
+        "bucket": "mobile-app",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:50:57.798954"
+      },
+      {
+        "url": "https://appfiles.fra1.digitaloceanspaces.com",
+        "bucket": "appfiles",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:51:26.126191"
+      },
+      {
+        "url": "https://incapp.nyc3.digitaloceanspaces.com",
+        "bucket": "incapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T18:58:25.660376"
+      },
+      {
+        "url": "https://apply.nyc3.digitaloceanspaces.com",
+        "bucket": "apply",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:00:31.515144"
+      },
+      {
+        "url": "https://c-app.sfo3.digitaloceanspaces.com",
+        "bucket": "c-app",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:02:07.016735"
+      },
+      {
+        "url": "https://webapp.sfo3.digitaloceanspaces.com",
+        "bucket": "webapp",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:03:15.596489"
+      },
+      {
+        "url": "https://testapp.sfo3.digitaloceanspaces.com",
+        "bucket": "testapp",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:03:58.810847"
+      },
+      {
+        "url": "https://app-settings.nyc3.digitaloceanspaces.com",
+        "bucket": "app-settings",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:05:01.207748"
+      },
+      {
+        "url": "https://workout-app.fra1.digitaloceanspaces.com",
+        "bucket": "workout-app",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:06:31.493927"
+      },
+      {
+        "url": "https://trapp.sgp1.digitaloceanspaces.com",
+        "bucket": "trapp",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:07:07.164771"
+      },
+      {
+        "url": "https://portfolio-app.nyc3.digitaloceanspaces.com",
+        "bucket": "portfolio-app",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:10:14.959331"
+      },
+      {
+        "url": "https://appblog.sfo3.digitaloceanspaces.com",
+        "bucket": "appblog",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:11:06.287926"
+      },
+      {
+        "url": "https://serviceapp.sgp1.digitaloceanspaces.com",
+        "bucket": "serviceapp",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:12:00.405772"
+      },
+      {
+        "url": "https://monsterapp.sfo3.digitaloceanspaces.com",
+        "bucket": "monsterapp",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:12:16.831013"
+      },
+      {
+        "url": "https://imgapp.sgp1.digitaloceanspaces.com",
+        "bucket": "imgapp",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:12:42.986388"
+      },
+      {
+        "url": "https://chatapp.nyc3.digitaloceanspaces.com",
+        "bucket": "chatapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:20:07.373237"
+      },
+      {
+        "url": "https://pubapp.nyc3.digitaloceanspaces.com",
+        "bucket": "pubapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:22:09.460271"
+      },
+      {
+        "url": "https://web-app.nyc3.digitaloceanspaces.com",
+        "bucket": "web-app",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:23:50.259644"
+      },
+      {
+        "url": "https://ebooksapp.sfo3.digitaloceanspaces.com",
+        "bucket": "ebooksapp",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:25:20.716651"
+      },
+      {
+        "url": "https://connectapp.fra1.digitaloceanspaces.com",
+        "bucket": "connectapp",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:29:00.760743"
+      },
+      {
+        "url": "https://app-builds.syd1.digitaloceanspaces.com",
+        "bucket": "app-builds",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T19:29:07.249724"
+      },
+      {
+        "url": "https://biz-images.s3.us-east-1.amazonaws.com",
+        "bucket": "biz-images",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:47:58.903434"
+      },
+      {
+        "url": "https://bizweb.s3.us-east-1.amazonaws.com",
+        "bucket": "bizweb",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T20:48:17.644736"
+      },
+      {
+        "url": "https://ignite-biz.s3.eu-west-1.amazonaws.com",
+        "bucket": "ignite-biz",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:02:08.941788"
+      },
+      {
+        "url": "https://reviewbiz.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "reviewbiz",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:05:50.494534"
+      },
+      {
+        "url": "https://applegazette.ams3.digitaloceanspaces.com",
+        "bucket": "applegazette",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:07:20.052130"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/biz.training",
+        "bucket": "biz.training",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:20:46.638398"
+      },
+      {
+        "url": "https://bizblocks.s3.us-west-2.amazonaws.com",
+        "bucket": "bizblocks",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:21:05.102446"
+      },
+      {
+        "url": "https://bizmktg.s3.us-west-2.amazonaws.com",
+        "bucket": "bizmktg",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:35:12.954593"
+      },
+      {
+        "url": "https://fbbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "fbbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:37:49.084028"
+      },
+      {
+        "url": "https://bizgov.s3.us-east-1.amazonaws.com",
+        "bucket": "bizgov",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:40:22.006979"
+      },
+      {
+        "url": "https://pro-biz.s3.ap-south-1.amazonaws.com",
+        "bucket": "pro-biz",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:53:11.770837"
+      },
+      {
+        "url": "https://bizcentral.s3.us-east-1.amazonaws.com",
+        "bucket": "bizcentral",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T21:54:40.277466"
+      },
+      {
+        "url": "https://ecobiz.s3.eu-west-3.amazonaws.com",
+        "bucket": "ecobiz",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:01:39.632984"
+      },
+      {
+        "url": "https://biz-analytics.s3.us-east-1.amazonaws.com",
+        "bucket": "biz-analytics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:05:13.982058"
+      },
+      {
+        "url": "https://smbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "smbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:24:34.304532"
+      },
+      {
+        "url": "https://biz-awards.s3.eu-west-1.amazonaws.com",
+        "bucket": "biz-awards",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:28:35.761748"
+      },
+      {
+        "url": "https://biznews.s3.us-east-1.amazonaws.com",
+        "bucket": "biznews",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:43:00.007223"
+      },
+      {
+        "url": "https://biz-support.s3.ap-south-1.amazonaws.com",
+        "bucket": "biz-support",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T22:50:03.334367"
+      },
+      {
+        "url": "https://bizmarketing.s3.us-east-1.amazonaws.com",
+        "bucket": "bizmarketing",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:02:43.464084"
+      },
+      {
+        "url": "https://biz-net.s3.eu-north-1.amazonaws.com",
+        "bucket": "biz-net",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:07:09.369354"
+      },
+      {
+        "url": "https://digitalbiz.s3.us-west-2.amazonaws.com",
+        "bucket": "digitalbiz",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:19:42.628069"
+      },
+      {
+        "url": "https://bizwest.s3.us-west-2.amazonaws.com",
+        "bucket": "bizwest",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:20:24.860668"
+      },
+      {
+        "url": "https://bizblueprint.s3.us-east-1.amazonaws.com",
+        "bucket": "bizblueprint",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:23:36.421387"
+      },
+      {
+        "url": "https://drivebiz.s3.us-east-1.amazonaws.com",
+        "bucket": "drivebiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:28:56.026701"
+      },
+      {
+        "url": "https://bizengine.s3.us-west-1.amazonaws.com",
+        "bucket": "bizengine",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:32:30.398825"
+      },
+      {
+        "url": "https://greenbiz.s3.us-east-1.amazonaws.com",
+        "bucket": "greenbiz",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:32:31.654405"
+      },
+      {
+        "url": "https://newbiz.s3.us-west-2.amazonaws.com",
+        "bucket": "newbiz",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-03T23:36:29.125459"
+      },
+      {
         "url": "https://binarybusiness.s3.us-east-2.amazonaws.com",
         "bucket": "binarybusiness",
         "region": "us-east-2",
@@ -2112,14 +2563,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-04T01:54:01.152095+00:00"
-      },
-      {
-        "url": "https://biz-images.s3.us-east-1.amazonaws.com",
-        "bucket": "biz-images",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-04T01:54:01.170580+00:00"
       },
       {
         "url": "https://upworkvideos.s3.us-east-2.amazonaws.com",
@@ -5730,14 +6173,6 @@
         "timestamp": "2026-02-04T01:54:07.967696+00:00"
       },
       {
-        "url": "https://biz-net.s3.eu-north-1.amazonaws.com",
-        "bucket": "biz-net",
-        "region": "eu-north-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-04T01:54:08.002383+00:00"
-      },
-      {
         "url": "https://asia-document.s3.ap-southeast-1.amazonaws.com",
         "bucket": "asia-document",
         "region": "ap-southeast-1",
@@ -6796,16 +7231,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-04T01:54:10.986906+00:00",
-  "validated_at": "2026-02-04T01:54:10.986921+00:00",
+  "generated_at": "2026-02-04T02:27:40.285000+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 849,
+    "public_buckets_in_file": 900,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 849,
-    "total_public_buckets": 849,
+    "total_buckets_in_file": 900,
+    "total_public_buckets": 900,
     "total_private_buckets": 0,
-    "total_buckets": 849
+    "total_buckets": 900
   }
 }
