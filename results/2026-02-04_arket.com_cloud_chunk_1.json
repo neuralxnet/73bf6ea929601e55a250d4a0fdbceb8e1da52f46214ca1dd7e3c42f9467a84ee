@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "aol.de",
-  "date": "2026-02-03",
-  "timestamp": "2026-02-03T17:31:50.893814",
+  "domain": "arket.com",
+  "date": "2026-02-04",
+  "timestamp": "2026-02-04T04:55:42.605287",
   "providers": [
     "azure",
     "linode",
