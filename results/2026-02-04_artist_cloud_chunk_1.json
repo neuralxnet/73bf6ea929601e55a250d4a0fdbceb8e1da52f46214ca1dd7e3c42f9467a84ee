@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "artist",
+  "date": "2026-02-04",
+  "timestamp": "2026-02-04T08:22:21.050511",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://artistapp.nyc3.digitaloceanspaces.com",
+        "bucket": "artistapp",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-04T07:59:30.690076"
+      },
+      {
+        "url": "https://artistlink.nyc3.digitaloceanspaces.com",
+        "bucket": "artistlink",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-04T08:02:06.517238"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
