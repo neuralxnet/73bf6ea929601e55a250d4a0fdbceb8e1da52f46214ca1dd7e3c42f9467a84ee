@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "asia",
+  "domain": "astaro.com",
   "date": "2026-02-05",
-  "timestamp": "2026-02-05T06:33:37.721569",
+  "timestamp": "2026-02-05T13:25:08.692379",
   "providers": [
     "azure",
     "linode",
@@ -14,7 +14,7 @@
     "private": []
   },
   "stats": {
-    "total_checked": 570390,
+    "total_checked": 570510,
     "public_found": 0,
     "private_found": 0
   }
