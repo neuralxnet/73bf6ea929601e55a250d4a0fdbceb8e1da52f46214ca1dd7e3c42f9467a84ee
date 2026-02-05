@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "astaro",
+  "domain": "astaro.com",
   "date": "2026-02-05",
-  "timestamp": "2026-02-05T10:23:03.742297",
+  "timestamp": "2026-02-05T13:25:08.692379",
   "providers": [
     "azure",
     "linode",
