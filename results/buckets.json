@@ -6976,22 +6976,58 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-06T01:55:09.991153+00:00"
+      },
+      {
+        "url": "https://cata.fra1.digitaloceanspaces.com",
+        "bucket": "cata",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T04:18:21.083273"
+      },
+      {
+        "url": "https://mata.sgp1.digitaloceanspaces.com",
+        "bucket": "mata",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T04:29:19.119221"
+      },
+      {
+        "url": "https://redata.fra1.digitaloceanspaces.com",
+        "bucket": "redata",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T04:30:39.067419"
+      },
+      {
+        "url": "https://ata.sfo3.digitaloceanspaces.com",
+        "bucket": "ata",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T04:41:55.401126"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-06T02:30:04.142392+00:00",
-  "source_files": 16,
-  "domains_scanned": 15,
-  "total_chunks": 16,
+  "generated_at": "2026-02-06T13:09:10.575887+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 872,
+    "public_buckets_in_file": 876,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 872,
-    "total_public_buckets": 872,
+    "total_buckets_in_file": 876,
+    "total_public_buckets": 876,
     "total_private_buckets": 0,
-    "total_buckets": 872
+    "total_buckets": 876
   }
 }
