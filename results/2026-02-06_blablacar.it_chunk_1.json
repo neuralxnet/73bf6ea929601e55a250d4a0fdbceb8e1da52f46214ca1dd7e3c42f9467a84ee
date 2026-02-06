@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "blablacar.it",
+  "date": "2026-02-06",
+  "timestamp": "2026-02-06T07:50:25.894708",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
