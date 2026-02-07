@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "blablalines.com",
+  "date": "2026-02-07",
+  "timestamp": "2026-02-07T23:08:53.953211",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
