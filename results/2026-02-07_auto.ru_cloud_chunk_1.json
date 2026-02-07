@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "att",
-  "date": "2026-02-06",
-  "timestamp": "2026-02-06T17:20:48.000482",
+  "domain": "auto.ru",
+  "date": "2026-02-07",
+  "timestamp": "2026-02-07T04:44:13.460085",
   "providers": [
     "azure",
     "linode",
@@ -14,7 +14,7 @@
     "private": []
   },
   "stats": {
-    "total_checked": 570390,
+    "total_checked": 570510,
     "public_found": 0,
     "private_found": 0
   }

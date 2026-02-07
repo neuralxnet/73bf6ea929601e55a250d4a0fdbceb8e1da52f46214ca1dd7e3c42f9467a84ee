@@ -2,6 +2,123 @@
   "buckets": {
     "public": [
       {
+        "url": "https://aurora-legal.nyc3.digitaloceanspaces.com",
+        "bucket": "aurora-legal",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T20:48:50.496556"
+      },
+      {
+        "url": "https://invisalign-aurora.nyc3.digitaloceanspaces.com",
+        "bucket": "invisalign-aurora",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-06T20:57:05.424675"
+      },
+      {
+        "url": "https://autoupdate.nyc3.digitaloceanspaces.com",
+        "bucket": "autoupdate",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:07:08.883318"
+      },
+      {
+        "url": "https://autocenter.sfo3.digitaloceanspaces.com",
+        "bucket": "autocenter",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:15:03.362314"
+      },
+      {
+        "url": "https://auto-1.nyc3.digitaloceanspaces.com",
+        "bucket": "auto-1",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:16:37.853065"
+      },
+      {
+        "url": "https://autocommerce.nyc3.digitaloceanspaces.com",
+        "bucket": "autocommerce",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:19:43.454469"
+      },
+      {
+        "url": "https://autosigma.sfo3.digitaloceanspaces.com",
+        "bucket": "autosigma",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:22:15.220942"
+      },
+      {
+        "url": "https://auto-insurance.nyc3.digitaloceanspaces.com",
+        "bucket": "auto-insurance",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:27:33.286992"
+      },
+      {
+        "url": "https://pt-auto.fra1.digitaloceanspaces.com",
+        "bucket": "pt-auto",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:30:32.101241"
+      },
+      {
+        "url": "https://auto-video.sgp1.digitaloceanspaces.com",
+        "bucket": "auto-video",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:36:02.669210"
+      },
+      {
+        "url": "https://mobileauto.nyc3.digitaloceanspaces.com",
+        "bucket": "mobileauto",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:40:55.620240"
+      },
+      {
+        "url": "https://autoservices.nyc3.digitaloceanspaces.com",
+        "bucket": "autoservices",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:42:34.040293"
+      },
+      {
+        "url": "https://autopilot.ams3.digitaloceanspaces.com",
+        "bucket": "autopilot",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:44:45.669963"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/bingo.host",
         "bucket": "bingo.host",
         "region": "us-east-1",
@@ -6972,16 +7089,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-07T01:51:59.845909+00:00",
-  "validated_at": "2026-02-07T01:51:59.845925+00:00",
+  "generated_at": "2026-02-07T02:25:32.379482+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 871,
+    "public_buckets_in_file": 884,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 871,
-    "total_public_buckets": 871,
+    "total_buckets_in_file": 884,
+    "total_public_buckets": 884,
     "total_private_buckets": 0,
-    "total_buckets": 871
+    "total_buckets": 884
   }
 }
