@@ -1,0 +1,121 @@
+{
+  "chunk_id": 1,
+  "domain": "auto",
+  "date": "2026-02-07",
+  "timestamp": "2026-02-07T01:48:10.026440",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://autoupdate.nyc3.digitaloceanspaces.com",
+        "bucket": "autoupdate",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:07:08.883318"
+      },
+      {
+        "url": "https://autocenter.sfo3.digitaloceanspaces.com",
+        "bucket": "autocenter",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:15:03.362314"
+      },
+      {
+        "url": "https://auto-1.nyc3.digitaloceanspaces.com",
+        "bucket": "auto-1",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:16:37.853065"
+      },
+      {
+        "url": "https://autocommerce.nyc3.digitaloceanspaces.com",
+        "bucket": "autocommerce",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:19:43.454469"
+      },
+      {
+        "url": "https://autosigma.sfo3.digitaloceanspaces.com",
+        "bucket": "autosigma",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:22:15.220942"
+      },
+      {
+        "url": "https://auto-insurance.nyc3.digitaloceanspaces.com",
+        "bucket": "auto-insurance",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:27:33.286992"
+      },
+      {
+        "url": "https://pt-auto.fra1.digitaloceanspaces.com",
+        "bucket": "pt-auto",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:30:32.101241"
+      },
+      {
+        "url": "https://auto-video.sgp1.digitaloceanspaces.com",
+        "bucket": "auto-video",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:36:02.669210"
+      },
+      {
+        "url": "https://mobileauto.nyc3.digitaloceanspaces.com",
+        "bucket": "mobileauto",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:40:55.620240"
+      },
+      {
+        "url": "https://autoservices.nyc3.digitaloceanspaces.com",
+        "bucket": "autoservices",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:42:34.040293"
+      },
+      {
+        "url": "https://autopilot.ams3.digitaloceanspaces.com",
+        "bucket": "autopilot",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-07T01:44:45.669963"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 11,
+    "private_found": 0
+  }
+}
