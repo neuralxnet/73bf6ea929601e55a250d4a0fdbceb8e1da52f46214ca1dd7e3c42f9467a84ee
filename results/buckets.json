@@ -4882,14 +4882,6 @@
         "timestamp": "2026-02-08T02:25:04.440608+00:00"
       },
       {
-        "url": "https://blend-content.s3.eu-west-1.amazonaws.com",
-        "bucket": "blend-content",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-08T02:25:04.449535+00:00"
-      },
-      {
         "url": "https://aurora-public.s3.us-west-2.amazonaws.com",
         "bucket": "aurora-public",
         "region": "us-west-2",
@@ -6968,22 +6960,62 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-08T02:25:09.691271+00:00"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/blend_transfer",
+        "bucket": "blend_transfer",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T09:58:56.185385"
+      },
+      {
+        "url": "https://blend-packages.s3.eu-west-1.amazonaws.com",
+        "bucket": "blend-packages",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T10:02:50.215669"
+      },
+      {
+        "url": "https://blend-app.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "blend-app",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T10:36:18.922286"
+      },
+      {
+        "url": "https://linkblend.s3.us-east-1.amazonaws.com",
+        "bucket": "linkblend",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T11:29:02.154085"
+      },
+      {
+        "url": "https://blend-content.s3.eu-west-1.amazonaws.com",
+        "bucket": "blend-content",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T11:48:59.850308"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-08T02:52:24.941102+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-02-08T12:59:17.695594+00:00",
+  "source_files": 8,
+  "domains_scanned": 8,
+  "total_chunks": 8,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 871,
+    "public_buckets_in_file": 875,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 871,
-    "total_public_buckets": 871,
+    "total_buckets_in_file": 875,
+    "total_public_buckets": 875,
     "total_private_buckets": 0,
-    "total_buckets": 871
+    "total_buckets": 875
   }
 }
