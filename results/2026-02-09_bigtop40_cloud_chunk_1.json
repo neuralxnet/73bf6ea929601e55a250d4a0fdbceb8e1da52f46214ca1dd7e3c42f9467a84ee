@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "bigtop40",
+  "date": "2026-02-09",
+  "timestamp": "2026-02-09T20:43:01.086951",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
