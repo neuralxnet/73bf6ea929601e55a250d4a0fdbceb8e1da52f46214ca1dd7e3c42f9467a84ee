@@ -2,6 +2,33 @@
   "buckets": {
     "public": [
       {
+        "url": "https://servicebase.sgp1.digitaloceanspaces.com",
+        "bucket": "servicebase",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T15:24:57.385038"
+      },
+      {
+        "url": "https://xbase.sfo3.digitaloceanspaces.com",
+        "bucket": "xbase",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T15:32:10.532543"
+      },
+      {
+        "url": "https://pimbase.fra1.digitaloceanspaces.com",
+        "bucket": "pimbase",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-08T15:53:53.028753"
+      },
+      {
         "url": "https://bingo-drive.s3.us-east-1.amazonaws.com",
         "bucket": "bingo-drive",
         "region": "us-east-1",
@@ -7004,16 +7031,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-09T02:02:51.760449+00:00",
-  "validated_at": "2026-02-09T02:02:51.760472+00:00",
+  "generated_at": "2026-02-09T02:37:04.339424+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 875,
+    "public_buckets_in_file": 878,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 875,
-    "total_public_buckets": 875,
+    "total_buckets_in_file": 878,
+    "total_public_buckets": 878,
     "total_private_buckets": 0,
-    "total_buckets": 875
+    "total_buckets": 878
   }
 }
