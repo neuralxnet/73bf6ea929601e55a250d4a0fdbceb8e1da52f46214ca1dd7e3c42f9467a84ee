@@ -2,6 +2,33 @@
   "buckets": {
     "public": [
       {
+        "url": "https://test-big.sfo3.digitaloceanspaces.com",
+        "bucket": "test-big",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-09T14:20:06.316228"
+      },
+      {
+        "url": "https://bikeit.fra1.digitaloceanspaces.com",
+        "bucket": "bikeit",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-09T22:38:34.471892"
+      },
+      {
+        "url": "https://bimel.fra1.digitaloceanspaces.com",
+        "bucket": "bimel",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-09T23:47:17.907892"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
         "bucket": "binance.quotes",
         "region": "us-east-1",
@@ -7060,16 +7087,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-10T02:12:32.018437+00:00",
-  "validated_at": "2026-02-10T02:12:32.018454+00:00",
+  "generated_at": "2026-02-10T02:45:57.398850+00:00",
+  "source_files": 14,
+  "domains_scanned": 13,
+  "total_chunks": 14,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 882,
+    "public_buckets_in_file": 885,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 882,
-    "total_public_buckets": 882,
+    "total_buckets_in_file": 885,
+    "total_public_buckets": 885,
     "total_private_buckets": 0,
-    "total_buckets": 882
+    "total_buckets": 885
   }
 }
