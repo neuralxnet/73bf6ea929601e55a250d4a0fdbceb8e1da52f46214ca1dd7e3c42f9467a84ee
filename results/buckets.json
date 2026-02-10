@@ -7083,22 +7083,38 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-10T02:12:32.012899+00:00"
+      },
+      {
+        "url": "https://myblogger.s3.ap-south-1.amazonaws.com",
+        "bucket": "myblogger",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-10T12:00:44.065315"
+      },
+      {
+        "url": "https://bloggeruploads.s3.us-west-1.amazonaws.com",
+        "bucket": "bloggeruploads",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-10T12:37:20.953884"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-10T02:45:57.398850+00:00",
-  "source_files": 14,
-  "domains_scanned": 13,
-  "total_chunks": 14,
+  "generated_at": "2026-02-10T13:23:14.485646+00:00",
+  "source_files": 9,
+  "domains_scanned": 9,
+  "total_chunks": 9,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 885,
+    "public_buckets_in_file": 887,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 885,
-    "total_public_buckets": 885,
+    "total_buckets_in_file": 887,
+    "total_public_buckets": 887,
     "total_private_buckets": 0,
-    "total_buckets": 885
+    "total_buckets": 887
   }
 }
