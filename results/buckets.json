@@ -7072,22 +7072,62 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-11T02:08:43.126181+00:00"
+      },
+      {
+        "url": "https://bmw-pilot.s3.eu-west-1.amazonaws.com",
+        "bucket": "bmw-pilot",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T10:15:58.593309"
+      },
+      {
+        "url": "https://bmw-email.s3.us-east-1.amazonaws.com",
+        "bucket": "bmw-email",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T10:26:20.071936"
+      },
+      {
+        "url": "https://bmw-ecommerce.s3.us-east-1.amazonaws.com",
+        "bucket": "bmw-ecommerce",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T11:22:10.033307"
+      },
+      {
+        "url": "https://bmwcollections.s3.us-east-1.amazonaws.com",
+        "bucket": "bmwcollections",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T12:32:48.193789"
+      },
+      {
+        "url": "https://bmwtraining.s3.us-east-1.amazonaws.com",
+        "bucket": "bmwtraining",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T12:58:29.402830"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-11T02:43:15.174213+00:00",
-  "source_files": 15,
-  "domains_scanned": 14,
-  "total_chunks": 15,
+  "generated_at": "2026-02-11T13:20:00.445707+00:00",
+  "source_files": 10,
+  "domains_scanned": 10,
+  "total_chunks": 10,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 884,
+    "public_buckets_in_file": 889,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 884,
-    "total_public_buckets": 884,
+    "total_buckets_in_file": 889,
+    "total_public_buckets": 889,
     "total_private_buckets": 0,
-    "total_buckets": 884
+    "total_buckets": 889
   }
 }
