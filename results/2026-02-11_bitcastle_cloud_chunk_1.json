@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "bitcastle",
+  "date": "2026-02-11",
+  "timestamp": "2026-02-11T05:11:11.783895",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
