@@ -2,6 +2,46 @@
   "buckets": {
     "public": [
       {
+        "url": "https://bmw-pilot.s3.eu-west-1.amazonaws.com",
+        "bucket": "bmw-pilot",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T11:56:02.992066"
+      },
+      {
+        "url": "https://bmwcollections.s3.us-east-1.amazonaws.com",
+        "bucket": "bmwcollections",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T12:21:32.094792"
+      },
+      {
+        "url": "https://bmw-ecommerce.s3.us-east-1.amazonaws.com",
+        "bucket": "bmw-ecommerce",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T12:34:37.288741"
+      },
+      {
+        "url": "https://bmwtraining.s3.us-east-1.amazonaws.com",
+        "bucket": "bmwtraining",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T13:51:08.011670"
+      },
+      {
+        "url": "https://bmw-email.s3.us-east-1.amazonaws.com",
+        "bucket": "bmw-email",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-11T14:47:50.882127"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/django_base",
         "bucket": "django_base",
         "region": "us-east-1",
@@ -6874,14 +6914,6 @@
         "timestamp": "2026-02-12T02:02:00.989764+00:00"
       },
       {
-        "url": "https://bmw-ecommerce.s3.us-east-1.amazonaws.com",
-        "bucket": "bmw-ecommerce",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-12T02:02:01.065352+00:00"
-      },
-      {
         "url": "https://tech.s3.ap-south-1.amazonaws.com",
         "bucket": "tech",
         "region": "ap-south-1",
@@ -6912,38 +6944,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-12T02:02:01.175352+00:00"
-      },
-      {
-        "url": "https://bmw-pilot.s3.eu-west-1.amazonaws.com",
-        "bucket": "bmw-pilot",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-12T02:02:01.225103+00:00"
-      },
-      {
-        "url": "https://bmwcollections.s3.us-east-1.amazonaws.com",
-        "bucket": "bmwcollections",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-12T02:02:01.229254+00:00"
-      },
-      {
-        "url": "https://bmwtraining.s3.us-east-1.amazonaws.com",
-        "bucket": "bmwtraining",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-12T02:02:01.230834+00:00"
-      },
-      {
-        "url": "https://bmw-email.s3.us-east-1.amazonaws.com",
-        "bucket": "bmw-email",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-12T02:02:01.247202+00:00"
       },
       {
         "url": "https://appusers.s3.ap-south-1.amazonaws.com",
@@ -7116,8 +7116,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-12T02:02:01.674131+00:00",
-  "validated_at": "2026-02-12T02:02:01.674146+00:00",
+  "generated_at": "2026-02-12T02:38:19.755434+00:00",
+  "source_files": 15,
+  "domains_scanned": 15,
+  "total_chunks": 15,
   "file_index": 0,
   "total_files": 1,
   "stats": {
