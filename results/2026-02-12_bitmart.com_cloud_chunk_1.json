@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "bitmart",
+  "domain": "bitmart.com",
   "date": "2026-02-12",
-  "timestamp": "2026-02-12T09:21:27.886698",
+  "timestamp": "2026-02-12T10:26:59.402800",
   "providers": [
     "azure",
     "linode",
