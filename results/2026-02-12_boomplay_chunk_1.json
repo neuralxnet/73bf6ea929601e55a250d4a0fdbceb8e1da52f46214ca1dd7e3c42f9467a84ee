@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "boomplay",
+  "date": "2026-02-12",
+  "timestamp": "2026-02-12T14:30:37.457504",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
