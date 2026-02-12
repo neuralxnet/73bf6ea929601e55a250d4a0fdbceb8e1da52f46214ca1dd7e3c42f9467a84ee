@@ -1,0 +1,72 @@
+{
+  "chunk_id": 1,
+  "domain": "booth",
+  "date": "2026-02-12",
+  "timestamp": "2026-02-12T20:02:22.376136",
+  "results": {
+    "public": [
+      {
+        "url": "https://pbooth.s3.us-east-1.amazonaws.com",
+        "bucket": "pbooth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T17:30:30.478257"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/blog.booth",
+        "bucket": "blog.booth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T18:28:00.385235"
+      },
+      {
+        "url": "https://booth-2018.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-2018",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T18:42:01.391884"
+      },
+      {
+        "url": "https://zenbooth.s3.us-east-1.amazonaws.com",
+        "bucket": "zenbooth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T18:42:29.359661"
+      },
+      {
+        "url": "https://bootheasy.s3.us-east-1.amazonaws.com",
+        "bucket": "bootheasy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T18:59:04.939812"
+      },
+      {
+        "url": "https://booth-2019.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-2019",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T19:36:51.238829"
+      },
+      {
+        "url": "https://booth-al.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-al",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T19:43:43.298840"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 7,
+    "private_found": 0
+  }
+}
