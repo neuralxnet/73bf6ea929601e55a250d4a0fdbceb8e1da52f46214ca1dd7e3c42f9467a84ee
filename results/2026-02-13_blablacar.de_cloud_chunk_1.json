@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "blablacar.com.tr",
+  "domain": "blablacar.de",
   "date": "2026-02-13",
-  "timestamp": "2026-02-13T09:17:01.374732",
+  "timestamp": "2026-02-13T11:16:48.826804",
   "providers": [
     "azure",
     "linode",
