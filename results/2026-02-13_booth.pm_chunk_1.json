@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "booth.pm",
+  "date": "2026-02-13",
+  "timestamp": "2026-02-13T01:40:45.205054",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
