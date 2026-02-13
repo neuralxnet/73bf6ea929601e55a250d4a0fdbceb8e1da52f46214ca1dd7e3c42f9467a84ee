@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "booztlet.com",
+  "date": "2026-02-13",
+  "timestamp": "2026-02-13T16:10:33.239303",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
