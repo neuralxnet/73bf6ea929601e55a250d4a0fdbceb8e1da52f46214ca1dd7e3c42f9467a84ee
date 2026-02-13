@@ -2,6 +2,71 @@
   "buckets": {
     "public": [
       {
+        "url": "https://cabitstorage.sfo2.digitaloceanspaces.com",
+        "bucket": "cabitstorage",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T18:25:53.371230"
+      },
+      {
+        "url": "https://booth-al.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-al",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T19:20:19.232853"
+      },
+      {
+        "url": "https://booth-2019.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-2019",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T20:02:46.591989"
+      },
+      {
+        "url": "https://bootheasy.s3.us-east-1.amazonaws.com",
+        "bucket": "bootheasy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T20:11:06.896507"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/blog.booth",
+        "bucket": "blog.booth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T20:24:35.557564"
+      },
+      {
+        "url": "https://zenbooth.s3.us-east-1.amazonaws.com",
+        "bucket": "zenbooth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T21:32:21.322440"
+      },
+      {
+        "url": "https://pbooth.s3.us-east-1.amazonaws.com",
+        "bucket": "pbooth",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T21:34:09.108891"
+      },
+      {
+        "url": "https://booth-2018.s3.us-east-1.amazonaws.com",
+        "bucket": "booth-2018",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-12T22:00:21.271014"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/binance.quotes",
         "bucket": "binance.quotes",
         "region": "us-east-1",
@@ -7108,16 +7173,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-13T02:05:14.526803+00:00",
-  "validated_at": "2026-02-13T02:05:14.526823+00:00",
+  "generated_at": "2026-02-13T02:39:36.743762+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 888,
+    "public_buckets_in_file": 896,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 888,
-    "total_public_buckets": 888,
+    "total_buckets_in_file": 896,
+    "total_public_buckets": 896,
     "total_private_buckets": 0,
-    "total_buckets": 888
+    "total_buckets": 896
   }
 }
