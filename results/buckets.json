@@ -7160,22 +7160,30 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-14T01:53:37.438175+00:00"
+      },
+      {
+        "url": "https://braintreehub.s3.eu-west-2.amazonaws.com",
+        "bucket": "braintreehub",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-14T04:25:26.104618"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-14T02:27:15.004150+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-02-14T12:58:11.800831+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 895,
+    "public_buckets_in_file": 896,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 895,
-    "total_public_buckets": 895,
+    "total_buckets_in_file": 896,
+    "total_public_buckets": 896,
     "total_private_buckets": 0,
-    "total_buckets": 895
+    "total_buckets": 896
   }
 }
