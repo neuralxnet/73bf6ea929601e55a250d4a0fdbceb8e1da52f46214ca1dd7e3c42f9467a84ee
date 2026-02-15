@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "bookingholdings.com",
+  "date": "2026-02-15",
+  "timestamp": "2026-02-15T13:12:03.750333",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
