@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "booth",
+  "date": "2026-02-15",
+  "timestamp": "2026-02-15T17:04:11.008903",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://easy-booth.nyc3.digitaloceanspaces.com",
+        "bucket": "easy-booth",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-15T16:36:37.600125"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
