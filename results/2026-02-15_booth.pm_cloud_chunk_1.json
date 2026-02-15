@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "boomplay",
+  "domain": "booth.pm",
   "date": "2026-02-15",
-  "timestamp": "2026-02-15T15:07:55.858049",
+  "timestamp": "2026-02-15T18:04:58.990765",
   "providers": [
     "azure",
     "linode",
