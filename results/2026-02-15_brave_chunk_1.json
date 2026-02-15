@@ -1,0 +1,32 @@
+{
+  "chunk_id": 1,
+  "domain": "brave",
+  "date": "2026-02-15",
+  "timestamp": "2026-02-15T13:33:29.401929",
+  "results": {
+    "public": [
+      {
+        "url": "https://bbrave.s3.us-east-1.amazonaws.com",
+        "bucket": "bbrave",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-15T10:58:28.267676"
+      },
+      {
+        "url": "https://brave-img.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "brave-img",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-15T13:01:05.920647"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
