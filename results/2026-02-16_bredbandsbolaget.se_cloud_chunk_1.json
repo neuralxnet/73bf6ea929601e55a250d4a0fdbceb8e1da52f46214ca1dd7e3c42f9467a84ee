@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "bredbandsbolaget.se",
+  "date": "2026-02-16",
+  "timestamp": "2026-02-16T19:19:53.088631",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
