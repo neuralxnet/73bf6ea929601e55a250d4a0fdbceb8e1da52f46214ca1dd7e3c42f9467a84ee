@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "braintreepayments.com",
+  "date": "2026-02-16",
+  "timestamp": "2026-02-16T12:27:07.432623",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
