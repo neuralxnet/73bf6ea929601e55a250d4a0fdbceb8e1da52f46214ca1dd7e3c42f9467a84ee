@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bredbandsbolaget",
+  "date": "2026-02-16",
+  "timestamp": "2026-02-16T08:08:09.163851",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
