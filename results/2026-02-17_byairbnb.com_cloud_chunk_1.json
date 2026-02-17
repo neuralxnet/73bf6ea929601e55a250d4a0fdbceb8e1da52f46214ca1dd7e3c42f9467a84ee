@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "byairbnb",
+  "domain": "byairbnb.com",
   "date": "2026-02-17",
-  "timestamp": "2026-02-17T21:20:27.508931",
+  "timestamp": "2026-02-17T22:10:48.544987",
   "providers": [
     "azure",
     "linode",
