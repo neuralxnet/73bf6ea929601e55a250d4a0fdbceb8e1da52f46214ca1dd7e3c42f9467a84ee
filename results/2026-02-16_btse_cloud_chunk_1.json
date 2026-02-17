@@ -2,13 +2,19 @@
   "chunk_id": 1,
   "domain": "btse",
   "date": "2026-02-16",
-  "timestamp": "2026-02-16T23:12:44.179090",
+  "timestamp": "2026-02-16T22:06:13.686527",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
   "results": {
     "public": [],
     "private": []
   },
   "stats": {
-    "total_checked": 361323,
+    "total_checked": 570510,
     "public_found": 0,
     "private_found": 0
   }
