@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bugbase.in",
+  "date": "2026-02-17",
+  "timestamp": "2026-02-17T19:02:16.957580",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
