@@ -7176,22 +7176,38 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-17T01:57:54.846012+00:00"
+      },
+      {
+        "url": "https://bufferzone.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "bufferzone",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T05:01:30.000987"
+      },
+      {
+        "url": "https://streaming-buffer.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "streaming-buffer",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T06:04:00.833939"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-17T02:32:56.787196+00:00",
-  "source_files": 17,
-  "domains_scanned": 12,
-  "total_chunks": 17,
+  "generated_at": "2026-02-17T13:12:54.053685+00:00",
+  "source_files": 12,
+  "domains_scanned": 11,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 897,
+    "public_buckets_in_file": 899,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 897,
-    "total_public_buckets": 897,
+    "total_buckets_in_file": 899,
+    "total_public_buckets": 899,
     "total_private_buckets": 0,
-    "total_buckets": 897
+    "total_buckets": 899
   }
 }
