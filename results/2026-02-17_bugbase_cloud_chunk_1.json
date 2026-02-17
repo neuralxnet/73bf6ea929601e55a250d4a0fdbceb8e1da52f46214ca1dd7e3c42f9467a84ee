@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "bredbandsbolaget.se",
-  "date": "2026-02-16",
-  "timestamp": "2026-02-16T19:19:53.088631",
+  "domain": "bugbase",
+  "date": "2026-02-17",
+  "timestamp": "2026-02-17T04:57:39.485781",
   "providers": [
     "azure",
     "linode",
