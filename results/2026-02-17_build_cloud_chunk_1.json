@@ -1,0 +1,58 @@
+{
+  "chunk_id": 1,
+  "domain": "build",
+  "date": "2026-02-17",
+  "timestamp": "2026-02-17T14:57:37.972580",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://buildworks.nyc3.digitaloceanspaces.com",
+        "bucket": "buildworks",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T14:11:02.066496"
+      },
+      {
+        "url": "https://build.nyc3.digitaloceanspaces.com",
+        "bucket": "build",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T14:18:07.747643"
+      },
+      {
+        "url": "https://build-api.sfo3.digitaloceanspaces.com",
+        "bucket": "build-api",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T14:36:40.206192"
+      },
+      {
+        "url": "https://buildblog.nyc3.digitaloceanspaces.com",
+        "bucket": "buildblog",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T14:37:51.568341"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 4,
+    "private_found": 0
+  }
+}
