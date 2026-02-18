@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "capitalfm.com",
+  "date": "2026-02-18",
+  "timestamp": "2026-02-18T22:21:59.490147",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
