@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "caffeine",
+  "domain": "canva",
   "date": "2026-02-18",
-  "timestamp": "2026-02-18T07:38:47.214147",
+  "timestamp": "2026-02-18T14:54:01.109099",
   "providers": [
     "azure",
     "linode",
@@ -12,13 +12,13 @@
   "results": {
     "public": [
       {
-        "url": "https://devcaffeine.sfo2.digitaloceanspaces.com",
-        "bucket": "devcaffeine",
+        "url": "https://canvas.nyc3.digitaloceanspaces.com",
+        "bucket": "canvas",
         "provider": "digitalocean",
-        "region": "sfo2",
+        "region": "nyc3",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-18T07:25:05.159680"
+        "timestamp": "2026-02-18T14:08:39.328896"
       }
     ],
     "private": []

@@ -7228,22 +7228,31 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-18T02:01:41.420809+00:00"
+      },
+      {
+        "url": "https://devcaffeine.sfo2.digitaloceanspaces.com",
+        "bucket": "devcaffeine",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T07:25:05.159680"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-18T02:35:15.668172+00:00",
-  "source_files": 16,
-  "domains_scanned": 15,
-  "total_chunks": 16,
+  "generated_at": "2026-02-18T13:14:20.267825+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 903,
+    "public_buckets_in_file": 904,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 903,
-    "total_public_buckets": 903,
+    "total_buckets_in_file": 904,
+    "total_public_buckets": 904,
     "total_private_buckets": 0,
-    "total_buckets": 903
+    "total_buckets": 904
   }
 }
