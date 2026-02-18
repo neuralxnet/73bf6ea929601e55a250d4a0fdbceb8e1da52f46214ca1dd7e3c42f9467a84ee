@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "bugv",
+  "date": "2026-02-18",
+  "timestamp": "2026-02-18T19:33:57.128677",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
