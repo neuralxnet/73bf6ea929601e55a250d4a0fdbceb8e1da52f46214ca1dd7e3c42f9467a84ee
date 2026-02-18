@@ -2,6 +2,42 @@
   "buckets": {
     "public": [
       {
+        "url": "https://buildblog.nyc3.digitaloceanspaces.com",
+        "bucket": "buildblog",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T15:20:48.094129"
+      },
+      {
+        "url": "https://build-api.sfo3.digitaloceanspaces.com",
+        "bucket": "build-api",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T15:23:26.629309"
+      },
+      {
+        "url": "https://build.nyc3.digitaloceanspaces.com",
+        "bucket": "build",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T15:27:58.364292"
+      },
+      {
+        "url": "https://buildworks.nyc3.digitaloceanspaces.com",
+        "bucket": "buildworks",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-17T15:28:54.367604"
+      },
+      {
         "url": "https://smbiz.s3.us-east-1.amazonaws.com",
         "bucket": "smbiz",
         "region": "us-east-1",
@@ -7196,16 +7232,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-18T02:01:41.427588+00:00",
-  "validated_at": "2026-02-18T02:01:41.427603+00:00",
+  "generated_at": "2026-02-18T02:35:15.668172+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 899,
+    "public_buckets_in_file": 903,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 899,
-    "total_public_buckets": 899,
+    "total_buckets_in_file": 903,
+    "total_public_buckets": 903,
     "total_private_buckets": 0,
-    "total_buckets": 899
+    "total_buckets": 903
   }
 }
