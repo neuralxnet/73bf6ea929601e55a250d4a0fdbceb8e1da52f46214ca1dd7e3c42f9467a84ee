@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "casino",
+  "date": "2026-02-19",
+  "timestamp": "2026-02-19T10:22:45.869583",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://hotelcasino.ams3.digitaloceanspaces.com",
+        "bucket": "hotelcasino",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T09:52:25.017782"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
