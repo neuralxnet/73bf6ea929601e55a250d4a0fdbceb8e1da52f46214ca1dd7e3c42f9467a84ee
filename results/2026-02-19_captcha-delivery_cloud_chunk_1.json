@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "capitaldance.com",
-  "date": "2026-02-18",
-  "timestamp": "2026-02-18T19:28:11.364753",
+  "domain": "captcha-delivery",
+  "date": "2026-02-19",
+  "timestamp": "2026-02-19T04:55:45.487004",
   "providers": [
     "azure",
     "linode",
