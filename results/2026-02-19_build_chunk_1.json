@@ -1,0 +1,248 @@
+{
+  "chunk_id": 1,
+  "domain": "build",
+  "date": "2026-02-19",
+  "timestamp": "2026-02-19T00:46:00.440869",
+  "results": {
+    "public": [
+      {
+        "url": "https://playerbuild.s3.us-east-2.amazonaws.com",
+        "bucket": "playerbuild",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T21:36:53.660527"
+      },
+      {
+        "url": "https://build-export.s3.eu-north-1.amazonaws.com",
+        "bucket": "build-export",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T21:38:09.907684"
+      },
+      {
+        "url": "https://heroku-build.s3.us-east-1.amazonaws.com",
+        "bucket": "heroku-build",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T21:43:09.916364"
+      },
+      {
+        "url": "https://design-build.s3.us-east-1.amazonaws.com",
+        "bucket": "design-build",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T21:52:54.576387"
+      },
+      {
+        "url": "https://dash-build.s3.us-east-2.amazonaws.com",
+        "bucket": "dash-build",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T21:58:12.725400"
+      },
+      {
+        "url": "https://buildalpha.s3.us-west-2.amazonaws.com",
+        "bucket": "buildalpha",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:03:39.619199"
+      },
+      {
+        "url": "https://help-build.s3.us-east-1.amazonaws.com",
+        "bucket": "help-build",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:04:57.071618"
+      },
+      {
+        "url": "https://s3.us-west-2.amazonaws.com/build.games",
+        "bucket": "build.games",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:05:49.102236"
+      },
+      {
+        "url": "https://builddesign.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "builddesign",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:10:29.284656"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/build_archives",
+        "bucket": "build_archives",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:11:58.374251"
+      },
+      {
+        "url": "https://build-resources.s3.us-east-1.amazonaws.com",
+        "bucket": "build-resources",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:18:19.014921"
+      },
+      {
+        "url": "https://dbbuild.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "dbbuild",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:19:40.192430"
+      },
+      {
+        "url": "https://nightlybuild.s3.us-east-1.amazonaws.com",
+        "bucket": "nightlybuild",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:31:20.649262"
+      },
+      {
+        "url": "https://buildsociety.s3.us-east-1.amazonaws.com",
+        "bucket": "buildsociety",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T22:46:02.808773"
+      },
+      {
+        "url": "https://buildworks.s3.us-east-1.amazonaws.com",
+        "bucket": "buildworks",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:11:30.016577"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/build_bucket",
+        "bucket": "build_bucket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:18:21.674698"
+      },
+      {
+        "url": "https://build-web.s3.us-west-2.amazonaws.com",
+        "bucket": "build-web",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:22:48.685836"
+      },
+      {
+        "url": "https://build-bin.s3.us-east-2.amazonaws.com",
+        "bucket": "build-bin",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:24:45.959630"
+      },
+      {
+        "url": "https://software-build.s3.us-east-1.amazonaws.com",
+        "bucket": "software-build",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:26:02.741012"
+      },
+      {
+        "url": "https://build-microsite.s3.eu-west-2.amazonaws.com",
+        "bucket": "build-microsite",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:31:49.616253"
+      },
+      {
+        "url": "https://build-vitrines.s3.eu-central-1.amazonaws.com",
+        "bucket": "build-vitrines",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:32:43.192648"
+      },
+      {
+        "url": "https://magento-build.s3.us-east-2.amazonaws.com",
+        "bucket": "magento-build",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:38:32.890520"
+      },
+      {
+        "url": "https://buildjournal.s3.eu-west-1.amazonaws.com",
+        "bucket": "buildjournal",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:50:58.843771"
+      },
+      {
+        "url": "https://easybuild.s3.ap-south-1.amazonaws.com",
+        "bucket": "easybuild",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-18T23:57:31.373326"
+      },
+      {
+        "url": "https://buildxxx.s3.us-east-1.amazonaws.com",
+        "bucket": "buildxxx",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T00:03:03.002024"
+      },
+      {
+        "url": "https://chromabuild.s3.ca-central-1.amazonaws.com",
+        "bucket": "chromabuild",
+        "region": "ca-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T00:04:19.217920"
+      },
+      {
+        "url": "https://buildservice.s3.us-east-1.amazonaws.com",
+        "bucket": "buildservice",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T00:08:16.054740"
+      },
+      {
+        "url": "https://androidbuild.s3.eu-west-2.amazonaws.com",
+        "bucket": "androidbuild",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T00:10:06.752075"
+      },
+      {
+        "url": "https://testing-build.s3.us-west-2.amazonaws.com",
+        "bucket": "testing-build",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T00:19:43.248434"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 29,
+    "private_found": 0
+  }
+}
