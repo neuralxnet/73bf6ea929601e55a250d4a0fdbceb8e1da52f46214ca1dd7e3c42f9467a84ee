@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "bullish",
   "date": "2026-02-19",
-  "timestamp": "2026-02-19T05:15:27.361514",
+  "timestamp": "2026-02-19T08:30:09.263713",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-19T02:07:29.582141"
+        "timestamp": "2026-02-19T07:06:25.254624"
       }
     ],
     "private": []
