@@ -1,0 +1,48 @@
+{
+  "chunk_id": 1,
+  "domain": "cLabs",
+  "date": "2026-02-20",
+  "timestamp": "2026-02-20T21:51:07.636406",
+  "results": {
+    "public": [
+      {
+        "url": "https://ddclabs.s3.us-east-1.amazonaws.com",
+        "bucket": "ddclabs",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T20:14:31.324126"
+      },
+      {
+        "url": "https://aclabs.s3.eu-west-1.amazonaws.com",
+        "bucket": "aclabs",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T20:44:46.498565"
+      },
+      {
+        "url": "https://s3.eu-central-1.amazonaws.com/clabs.cc",
+        "bucket": "clabs.cc",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T21:08:12.526139"
+      },
+      {
+        "url": "https://imclabs.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "imclabs",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T21:23:00.684263"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 4,
+    "private_found": 0
+  }
+}
