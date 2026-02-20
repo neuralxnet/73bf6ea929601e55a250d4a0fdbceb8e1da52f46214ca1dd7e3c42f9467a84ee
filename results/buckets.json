@@ -2,6 +2,42 @@
   "buckets": {
     "public": [
       {
+        "url": "https://sitecenter.nyc3.digitaloceanspaces.com",
+        "bucket": "sitecenter",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T21:36:02.239629"
+      },
+      {
+        "url": "https://hostcenter.nyc3.digitaloceanspaces.com",
+        "bucket": "hostcenter",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T21:44:38.223695"
+      },
+      {
+        "url": "https://mcenter.nyc3.digitaloceanspaces.com",
+        "bucket": "mcenter",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T21:46:13.478946"
+      },
+      {
+        "url": "https://helpcenter.sfo2.digitaloceanspaces.com",
+        "bucket": "helpcenter",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-19T21:47:51.870339"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/django_base",
         "bucket": "django_base",
         "region": "us-east-1",
@@ -7404,16 +7440,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-20T01:56:00.842760+00:00",
-  "validated_at": "2026-02-20T01:56:00.842781+00:00",
+  "generated_at": "2026-02-20T02:29:43.800577+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 925,
+    "public_buckets_in_file": 929,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 925,
-    "total_public_buckets": 925,
+    "total_buckets_in_file": 929,
+    "total_public_buckets": 929,
     "total_private_buckets": 0,
-    "total_buckets": 925
+    "total_buckets": 929
   }
 }
