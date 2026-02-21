@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "cainiao.com",
+  "date": "2026-02-21",
+  "timestamp": "2026-02-21T22:29:48.674586",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
