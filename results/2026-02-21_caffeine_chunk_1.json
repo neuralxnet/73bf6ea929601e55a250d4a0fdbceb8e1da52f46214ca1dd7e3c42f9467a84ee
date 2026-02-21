@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "caffeine",
+  "date": "2026-02-21",
+  "timestamp": "2026-02-21T02:31:43.457084",
+  "results": {
+    "public": [
+      {
+        "url": "https://caffeineproducts.s3.us-east-1.amazonaws.com",
+        "bucket": "caffeineproducts",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T00:36:22.843746"
+      },
+      {
+        "url": "https://caffeine-data.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "caffeine-data",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T02:12:51.546261"
+      },
+      {
+        "url": "https://caffeine-inc.s3.eu-west-1.amazonaws.com",
+        "bucket": "caffeine-inc",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T02:28:43.095657"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 3,
+    "private_found": 0
+  }
+}
