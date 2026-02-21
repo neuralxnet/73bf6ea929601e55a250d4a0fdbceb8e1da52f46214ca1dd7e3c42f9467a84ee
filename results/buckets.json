@@ -2,6 +2,62 @@
   "buckets": {
     "public": [
       {
+        "url": "https://s3.eu-central-1.amazonaws.com/clabs.cc",
+        "bucket": "clabs.cc",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T21:29:58.700708"
+      },
+      {
+        "url": "https://aclabs.s3.eu-west-1.amazonaws.com",
+        "bucket": "aclabs",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T21:39:31.956124"
+      },
+      {
+        "url": "https://ddclabs.s3.us-east-1.amazonaws.com",
+        "bucket": "ddclabs",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T21:42:41.536641"
+      },
+      {
+        "url": "https://imclabs.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "imclabs",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T22:20:09.663439"
+      },
+      {
+        "url": "https://caffeineproducts.s3.us-east-1.amazonaws.com",
+        "bucket": "caffeineproducts",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T22:44:57.790090"
+      },
+      {
+        "url": "https://caffeine-inc.s3.eu-west-1.amazonaws.com",
+        "bucket": "caffeine-inc",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-20T23:32:27.553420"
+      },
+      {
+        "url": "https://caffeine-data.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "caffeine-data",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T00:54:35.145017"
+      },
+      {
         "url": "https://testing-build.s3.us-west-2.amazonaws.com",
         "bucket": "testing-build",
         "region": "us-west-2",
@@ -7010,14 +7066,6 @@
         "timestamp": "2026-02-21T01:51:29.809666+00:00"
       },
       {
-        "url": "https://caffeine-data.s3.ap-northeast-2.amazonaws.com",
-        "bucket": "caffeine-data",
-        "region": "ap-northeast-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-21T01:51:29.817295+00:00"
-      },
-      {
         "url": "https://app-board.s3.ap-northeast-2.amazonaws.com",
         "bucket": "app-board",
         "region": "ap-northeast-2",
@@ -7404,16 +7452,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-21T01:51:31.059321+00:00",
-  "validated_at": "2026-02-21T01:51:31.059342+00:00",
+  "generated_at": "2026-02-21T02:23:56.943352+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 925,
+    "public_buckets_in_file": 931,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 925,
-    "total_public_buckets": 925,
+    "total_buckets_in_file": 931,
+    "total_public_buckets": 931,
     "total_private_buckets": 0,
-    "total_buckets": 925
+    "total_buckets": 931
   }
 }
