@@ -2,6 +2,30 @@
   "buckets": {
     "public": [
       {
+        "url": "https://canvashop.s3.eu-west-1.amazonaws.com",
+        "bucket": "canvashop",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T22:30:45.347341"
+      },
+      {
+        "url": "https://canvatutorial.s3.eu-west-2.amazonaws.com",
+        "bucket": "canvatutorial",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T23:23:59.056977"
+      },
+      {
+        "url": "https://canvas.s3.us-east-2.amazonaws.com",
+        "bucket": "canvas",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T00:45:37.004736"
+      },
+      {
         "url": "https://caffeineproducts.s3.us-east-1.amazonaws.com",
         "bucket": "caffeineproducts",
         "region": "us-east-1",
@@ -7444,16 +7468,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-22T01:59:49.590788+00:00",
-  "validated_at": "2026-02-22T01:59:49.590808+00:00",
+  "generated_at": "2026-02-22T02:35:15.262408+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 930,
+    "public_buckets_in_file": 933,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 930,
-    "total_public_buckets": 930,
+    "total_buckets_in_file": 933,
+    "total_public_buckets": 933,
     "total_private_buckets": 0,
-    "total_buckets": 930
+    "total_buckets": 933
   }
 }
