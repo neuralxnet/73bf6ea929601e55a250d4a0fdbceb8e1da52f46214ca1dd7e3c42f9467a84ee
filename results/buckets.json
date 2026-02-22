@@ -2,28 +2,20 @@
   "buckets": {
     "public": [
       {
-        "url": "https://canvashop.s3.eu-west-1.amazonaws.com",
-        "bucket": "canvashop",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-21T22:30:45.347341"
-      },
-      {
         "url": "https://canvatutorial.s3.eu-west-2.amazonaws.com",
         "bucket": "canvatutorial",
         "region": "eu-west-2",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-21T23:23:59.056977"
+        "timestamp": "2026-02-21T23:46:34.581135"
       },
       {
-        "url": "https://canvas.s3.us-east-2.amazonaws.com",
-        "bucket": "canvas",
-        "region": "us-east-2",
+        "url": "https://canvashop.s3.eu-west-1.amazonaws.com",
+        "bucket": "canvashop",
+        "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-22T00:45:37.004736"
+        "timestamp": "2026-02-22T00:16:02.749188"
       },
       {
         "url": "https://caffeineproducts.s3.us-east-1.amazonaws.com",
@@ -7464,14 +7456,22 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-22T01:59:49.583580+00:00"
+      },
+      {
+        "url": "https://canvas.s3.us-east-2.amazonaws.com",
+        "bucket": "canvas",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T02:14:01.031261"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-22T02:35:15.262408+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-02-22T12:58:38.279197+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
