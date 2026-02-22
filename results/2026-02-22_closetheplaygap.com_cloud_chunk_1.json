@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "closetheplaygap.com",
+  "date": "2026-02-22",
+  "timestamp": "2026-02-22T18:04:46.920898",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
