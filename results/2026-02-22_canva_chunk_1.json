@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "canva",
+  "date": "2026-02-22",
+  "timestamp": "2026-02-22T00:29:00.944505",
+  "results": {
+    "public": [
+      {
+        "url": "https://canvatutorial.s3.eu-west-2.amazonaws.com",
+        "bucket": "canvatutorial",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T22:25:30.041014"
+      },
+      {
+        "url": "https://canvas.s3.us-east-2.amazonaws.com",
+        "bucket": "canvas",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-21T23:53:00.612878"
+      },
+      {
+        "url": "https://canvashop.s3.eu-west-1.amazonaws.com",
+        "bucket": "canvashop",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T00:14:10.538317"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 3,
+    "private_found": 0
+  }
+}
