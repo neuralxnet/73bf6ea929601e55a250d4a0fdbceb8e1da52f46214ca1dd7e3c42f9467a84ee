@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "cloudways",
+  "date": "2026-02-23",
+  "timestamp": "2026-02-23T22:28:54.268668",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://cloudways-review.sgp1.digitaloceanspaces.com",
+        "bucket": "cloudways-review",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-23T21:50:45.962004"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
