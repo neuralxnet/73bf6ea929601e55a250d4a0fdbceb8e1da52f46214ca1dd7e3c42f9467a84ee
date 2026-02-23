@@ -2,6 +2,132 @@
   "buckets": {
     "public": [
       {
+        "url": "https://img-cloud.nyc3.digitaloceanspaces.com",
+        "bucket": "img-cloud",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:20:15.332932"
+      },
+      {
+        "url": "https://cloudmonster.ams3.digitaloceanspaces.com",
+        "bucket": "cloudmonster",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:24:34.093717"
+      },
+      {
+        "url": "https://servercloud.nyc3.digitaloceanspaces.com",
+        "bucket": "servercloud",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:26:31.843110"
+      },
+      {
+        "url": "https://cloud-s3.fra1.digitaloceanspaces.com",
+        "bucket": "cloud-s3",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:35:59.055485"
+      },
+      {
+        "url": "https://cloud-videos.fra1.digitaloceanspaces.com",
+        "bucket": "cloud-videos",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:36:16.134551"
+      },
+      {
+        "url": "https://cloud-images.nyc3.digitaloceanspaces.com",
+        "bucket": "cloud-images",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:42:30.341867"
+      },
+      {
+        "url": "https://cloudlinks.nyc3.digitaloceanspaces.com",
+        "bucket": "cloudlinks",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:45:49.490645"
+      },
+      {
+        "url": "https://cloudstorage.nyc3.digitaloceanspaces.com",
+        "bucket": "cloudstorage",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:49:15.945228"
+      },
+      {
+        "url": "https://cloud-files.sfo2.digitaloceanspaces.com",
+        "bucket": "cloud-files",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:52:11.817745"
+      },
+      {
+        "url": "https://cloudf.fra1.digitaloceanspaces.com",
+        "bucket": "cloudf",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:52:20.699239"
+      },
+      {
+        "url": "https://cloud9.ams3.digitaloceanspaces.com",
+        "bucket": "cloud9",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T18:58:49.480901"
+      },
+      {
+        "url": "https://gridcloud.nyc3.digitaloceanspaces.com",
+        "bucket": "gridcloud",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T19:00:49.887325"
+      },
+      {
+        "url": "https://cloud-blog.nyc3.digitaloceanspaces.com",
+        "bucket": "cloud-blog",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T19:05:18.206603"
+      },
+      {
+        "url": "https://imagecloud.nyc3.digitaloceanspaces.com",
+        "bucket": "imagecloud",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-22T19:08:26.791278"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/moto.bike",
         "bucket": "moto.bike",
         "region": "us-east-1",
@@ -7468,16 +7594,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-23T02:00:44.179152+00:00",
-  "validated_at": "2026-02-23T02:00:44.179165+00:00",
+  "generated_at": "2026-02-23T02:35:43.962573+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 933,
+    "public_buckets_in_file": 947,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 933,
-    "total_public_buckets": 933,
+    "total_buckets_in_file": 947,
+    "total_public_buckets": 947,
     "total_private_buckets": 0,
-    "total_buckets": 933
+    "total_buckets": 947
   }
 }
