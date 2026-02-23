@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "cloudinary",
+  "date": "2026-02-23",
+  "timestamp": "2026-02-23T10:27:49.128672",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
