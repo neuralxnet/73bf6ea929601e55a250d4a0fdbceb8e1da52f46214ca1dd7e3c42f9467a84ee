@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "capitalfm.com",
+  "date": "2026-02-22",
+  "timestamp": "2026-02-22T23:35:29.215865",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
