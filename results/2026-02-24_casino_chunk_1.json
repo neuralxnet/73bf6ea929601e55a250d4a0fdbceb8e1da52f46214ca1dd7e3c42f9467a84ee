@@ -1,0 +1,144 @@
+{
+  "chunk_id": 1,
+  "domain": "casino",
+  "date": "2026-02-24",
+  "timestamp": "2026-02-24T09:05:38.013876",
+  "results": {
+    "public": [
+      {
+        "url": "https://images-casino.s3.us-east-2.amazonaws.com",
+        "bucket": "images-casino",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:04:32.760807"
+      },
+      {
+        "url": "https://hub-casino.s3.eu-west-3.amazonaws.com",
+        "bucket": "hub-casino",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:06:12.200962"
+      },
+      {
+        "url": "https://s3.us-east-2.amazonaws.com/online.casino",
+        "bucket": "online.casino",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:09:49.481193"
+      },
+      {
+        "url": "https://casino-public.s3.eu-west-1.amazonaws.com",
+        "bucket": "casino-public",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:13:06.648568"
+      },
+      {
+        "url": "https://casino-images.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-images",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:15:12.468850"
+      },
+      {
+        "url": "https://casinobanners.s3.us-east-1.amazonaws.com",
+        "bucket": "casinobanners",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:24:14.312823"
+      },
+      {
+        "url": "https://okcasino.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "okcasino",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:42:14.612969"
+      },
+      {
+        "url": "https://casino-online.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-online",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:50:17.359059"
+      },
+      {
+        "url": "https://casino-test.s3.us-west-2.amazonaws.com",
+        "bucket": "casino-test",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T06:53:53.459081"
+      },
+      {
+        "url": "https://casino-crm.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-crm",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:01:25.751639"
+      },
+      {
+        "url": "https://casinotest.s3.us-east-1.amazonaws.com",
+        "bucket": "casinotest",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:01:42.622258"
+      },
+      {
+        "url": "https://ukcasino.s3.us-east-1.amazonaws.com",
+        "bucket": "ukcasino",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:07:14.350092"
+      },
+      {
+        "url": "https://casinoimg.s3.eu-west-1.amazonaws.com",
+        "bucket": "casinoimg",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:24:46.767422"
+      },
+      {
+        "url": "https://casinoonline.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "casinoonline",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:28:44.084882"
+      },
+      {
+        "url": "https://casinogames.s3.us-east-1.amazonaws.com",
+        "bucket": "casinogames",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:52:02.429952"
+      },
+      {
+        "url": "https://casinouk.s3.us-east-1.amazonaws.com",
+        "bucket": "casinouk",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:56:56.177362"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 16,
+    "private_found": 0
+  }
+}
