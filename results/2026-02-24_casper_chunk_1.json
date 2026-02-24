@@ -2,32 +2,24 @@
   "chunk_id": 1,
   "domain": "casper",
   "date": "2026-02-24",
-  "timestamp": "2026-02-24T20:16:34.256364",
+  "timestamp": "2026-02-24T22:05:49.810392",
   "results": {
     "public": [
-      {
-        "url": "https://casper-plus.s3.us-west-2.amazonaws.com",
-        "bucket": "casper-plus",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T17:36:43.372790"
-      },
-      {
-        "url": "https://casperar.s3.us-west-1.amazonaws.com",
-        "bucket": "casperar",
-        "region": "us-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T17:49:37.825033"
-      },
       {
         "url": "https://casper-ci.s3.ap-southeast-1.amazonaws.com",
         "bucket": "casper-ci",
         "region": "ap-southeast-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-24T18:17:07.622722"
+        "timestamp": "2026-02-24T19:04:15.174879"
+      },
+      {
+        "url": "https://casper-plus.s3.us-west-2.amazonaws.com",
+        "bucket": "casper-plus",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T19:14:12.660856"
       },
       {
         "url": "https://casper-bank.s3.eu-west-1.amazonaws.com",
@@ -35,7 +27,15 @@
         "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-24T18:39:54.852247"
+        "timestamp": "2026-02-24T19:26:10.795626"
+      },
+      {
+        "url": "https://casperar.s3.us-west-1.amazonaws.com",
+        "bucket": "casperar",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T20:10:40.133571"
       }
     ],
     "private": []
