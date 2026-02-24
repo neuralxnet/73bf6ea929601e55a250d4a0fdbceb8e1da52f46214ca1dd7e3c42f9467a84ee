@@ -1683,14 +1683,6 @@
         "timestamp": "2026-02-24T01:57:26.246735+00:00"
       },
       {
-        "url": "https://casino-images.s3.us-east-1.amazonaws.com",
-        "bucket": "casino-images",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T01:57:26.250071+00:00"
-      },
-      {
         "url": "https://bizengine.s3.us-west-1.amazonaws.com",
         "bucket": "bizengine",
         "region": "us-west-1",
@@ -3195,14 +3187,6 @@
         "timestamp": "2026-02-24T01:57:28.988643+00:00"
       },
       {
-        "url": "https://images-casino.s3.us-east-2.amazonaws.com",
-        "bucket": "images-casino",
-        "region": "us-east-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T01:57:29.009906+00:00"
-      },
-      {
         "url": "https://appgraphics.s3.us-east-1.amazonaws.com",
         "bucket": "appgraphics",
         "region": "us-east-1",
@@ -4081,14 +4065,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-24T01:57:30.527109+00:00"
-      },
-      {
-        "url": "https://casino-test.s3.us-west-2.amazonaws.com",
-        "bucket": "casino-test",
-        "region": "us-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T01:57:30.528841+00:00"
       },
       {
         "url": "https://cloud-live.s3.us-west-2.amazonaws.com",
@@ -5065,14 +5041,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-24T01:57:32.286405+00:00"
-      },
-      {
-        "url": "https://casino-public.s3.eu-west-1.amazonaws.com",
-        "bucket": "casino-public",
-        "region": "eu-west-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-24T01:57:32.302692+00:00"
       },
       {
         "url": "https://zoho-app.s3.eu-west-1.amazonaws.com",
@@ -7513,22 +7481,213 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-24T01:57:38.576468+00:00"
+      },
+      {
+        "url": "https://lifecode.sfo2.digitaloceanspaces.com",
+        "bucket": "lifecode",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:43:12.964630"
+      },
+      {
+        "url": "https://code-studio.nyc3.digitaloceanspaces.com",
+        "bucket": "code-studio",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:46:32.260494"
+      },
+      {
+        "url": "https://decode.sfo3.digitaloceanspaces.com",
+        "bucket": "decode",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:47:12.211065"
+      },
+      {
+        "url": "https://codetech.sfo3.digitaloceanspaces.com",
+        "bucket": "codetech",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T07:58:31.347740"
+      },
+      {
+        "url": "https://codegen.fra1.digitaloceanspaces.com",
+        "bucket": "codegen",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:13:31.098300"
+      },
+      {
+        "url": "https://nocode.sfo2.digitaloceanspaces.com",
+        "bucket": "nocode",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:14:14.029049"
+      },
+      {
+        "url": "https://codespace.ams3.digitaloceanspaces.com",
+        "bucket": "codespace",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:16:51.940756"
+      },
+      {
+        "url": "https://casino-images.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-images",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T08:49:19.910437"
+      },
+      {
+        "url": "https://casino-test.s3.us-west-2.amazonaws.com",
+        "bucket": "casino-test",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T09:01:53.127139"
+      },
+      {
+        "url": "https://casinouk.s3.us-east-1.amazonaws.com",
+        "bucket": "casinouk",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T09:05:50.217540"
+      },
+      {
+        "url": "https://ukcasino.s3.us-east-1.amazonaws.com",
+        "bucket": "ukcasino",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T09:13:59.137117"
+      },
+      {
+        "url": "https://okcasino.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "okcasino",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T10:11:47.348413"
+      },
+      {
+        "url": "https://casinogames.s3.us-east-1.amazonaws.com",
+        "bucket": "casinogames",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T10:18:08.700916"
+      },
+      {
+        "url": "https://casino-crm.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-crm",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T10:46:21.371783"
+      },
+      {
+        "url": "https://casinobanners.s3.us-east-1.amazonaws.com",
+        "bucket": "casinobanners",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T10:54:48.661324"
+      },
+      {
+        "url": "https://casinoonline.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "casinoonline",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T10:58:58.341979"
+      },
+      {
+        "url": "https://casinotest.s3.us-east-1.amazonaws.com",
+        "bucket": "casinotest",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:06:08.134184"
+      },
+      {
+        "url": "https://casino-public.s3.eu-west-1.amazonaws.com",
+        "bucket": "casino-public",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:09:03.072073"
+      },
+      {
+        "url": "https://images-casino.s3.us-east-2.amazonaws.com",
+        "bucket": "images-casino",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:13:29.245759"
+      },
+      {
+        "url": "https://hub-casino.s3.eu-west-3.amazonaws.com",
+        "bucket": "hub-casino",
+        "region": "eu-west-3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:18:32.928562"
+      },
+      {
+        "url": "https://s3.us-east-2.amazonaws.com/online.casino",
+        "bucket": "online.casino",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:31:01.709553"
+      },
+      {
+        "url": "https://casino-online.s3.us-east-1.amazonaws.com",
+        "bucket": "casino-online",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:52:33.500847"
+      },
+      {
+        "url": "https://casinoimg.s3.eu-west-1.amazonaws.com",
+        "bucket": "casinoimg",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T11:53:14.623196"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-24T02:32:22.997125+00:00",
-  "source_files": 16,
-  "domains_scanned": 15,
-  "total_chunks": 16,
+  "generated_at": "2026-02-24T13:15:59.759176+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 939,
+    "public_buckets_in_file": 958,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 939,
-    "total_public_buckets": 939,
+    "total_buckets_in_file": 958,
+    "total_public_buckets": 958,
     "total_private_buckets": 0,
-    "total_buckets": 939
+    "total_buckets": 958
   }
 }
