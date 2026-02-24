@@ -2,6 +2,55 @@
   "buckets": {
     "public": [
       {
+        "url": "https://cloudways-review.sgp1.digitaloceanspaces.com",
+        "bucket": "cloudways-review",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-23T21:50:45.962004"
+      },
+      {
+        "url": "https://careers-images.s3.eu-west-1.amazonaws.com",
+        "bucket": "careers-images",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-23T22:01:24.579826"
+      },
+      {
+        "url": "https://careersvideo.s3.us-east-1.amazonaws.com",
+        "bucket": "careersvideo",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-23T22:03:55.269608"
+      },
+      {
+        "url": "https://careers-applications.s3.us-east-1.amazonaws.com",
+        "bucket": "careers-applications",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-23T22:44:15.470816"
+      },
+      {
+        "url": "https://100careers.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "100careers",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T00:16:48.322467"
+      },
+      {
+        "url": "https://tc-careers.s3.eu-west-2.amazonaws.com",
+        "bucket": "tc-careers",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T00:49:24.442741"
+      },
+      {
         "url": "https://bigbase.s3.us-east-1.amazonaws.com",
         "bucket": "bigbase",
         "region": "us-east-1",
@@ -7468,16 +7517,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-24T01:57:38.582479+00:00",
-  "validated_at": "2026-02-24T01:57:38.582493+00:00",
+  "generated_at": "2026-02-24T02:32:22.997125+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 933,
+    "public_buckets_in_file": 939,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 933,
-    "total_public_buckets": 933,
+    "total_buckets_in_file": 939,
+    "total_public_buckets": 939,
     "total_private_buckets": 0,
-    "total_buckets": 933
+    "total_buckets": 939
   }
 }
