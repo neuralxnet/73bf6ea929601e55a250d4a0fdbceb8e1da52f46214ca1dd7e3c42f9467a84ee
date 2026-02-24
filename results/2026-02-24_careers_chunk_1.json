@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
   "domain": "careers",
-  "date": "2026-02-23",
-  "timestamp": "2026-02-23T23:54:37.664523",
+  "date": "2026-02-24",
+  "timestamp": "2026-02-24T00:54:37.977249",
   "results": {
     "public": [
       {
@@ -11,15 +11,7 @@
         "region": "eu-west-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-23T20:45:42.197434"
-      },
-      {
-        "url": "https://tc-careers.s3.eu-west-2.amazonaws.com",
-        "bucket": "tc-careers",
-        "region": "eu-west-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-23T22:03:35.252246"
+        "timestamp": "2026-02-23T22:01:24.579826"
       },
       {
         "url": "https://careersvideo.s3.us-east-1.amazonaws.com",
@@ -27,7 +19,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-23T22:39:13.605972"
+        "timestamp": "2026-02-23T22:03:55.269608"
       },
       {
         "url": "https://careers-applications.s3.us-east-1.amazonaws.com",
@@ -35,7 +27,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-23T22:55:29.639911"
+        "timestamp": "2026-02-23T22:44:15.470816"
       },
       {
         "url": "https://100careers.s3.ap-northeast-1.amazonaws.com",
@@ -43,7 +35,15 @@
         "region": "ap-northeast-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-02-23T23:34:32.891813"
+        "timestamp": "2026-02-24T00:16:48.322467"
+      },
+      {
+        "url": "https://tc-careers.s3.eu-west-2.amazonaws.com",
+        "bucket": "tc-careers",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T00:49:24.442741"
       }
     ],
     "private": []
