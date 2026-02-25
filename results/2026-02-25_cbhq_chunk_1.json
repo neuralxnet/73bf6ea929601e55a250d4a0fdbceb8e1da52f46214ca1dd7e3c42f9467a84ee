@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "cbhq",
+  "date": "2026-02-25",
+  "timestamp": "2026-02-25T10:18:53.633417",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
