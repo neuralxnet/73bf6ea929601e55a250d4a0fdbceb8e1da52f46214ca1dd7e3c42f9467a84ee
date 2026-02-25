@@ -2,6 +2,38 @@
   "buckets": {
     "public": [
       {
+        "url": "https://casper-ci.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "casper-ci",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T19:04:15.174879"
+      },
+      {
+        "url": "https://casper-plus.s3.us-west-2.amazonaws.com",
+        "bucket": "casper-plus",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T19:14:12.660856"
+      },
+      {
+        "url": "https://casper-bank.s3.eu-west-1.amazonaws.com",
+        "bucket": "casper-bank",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T19:26:10.795626"
+      },
+      {
+        "url": "https://casperar.s3.us-west-1.amazonaws.com",
+        "bucket": "casperar",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-24T20:10:40.133571"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/moto.bike",
         "bucket": "moto.bike",
         "region": "us-east-1",
@@ -7604,16 +7636,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-25T01:59:58.699675+00:00",
-  "validated_at": "2026-02-25T01:59:58.699698+00:00",
+  "generated_at": "2026-02-25T02:33:40.904598+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 950,
+    "public_buckets_in_file": 954,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 950,
-    "total_public_buckets": 950,
+    "total_buckets_in_file": 954,
+    "total_public_buckets": 954,
     "total_private_buckets": 0,
-    "total_buckets": 950
+    "total_buckets": 954
   }
 }
