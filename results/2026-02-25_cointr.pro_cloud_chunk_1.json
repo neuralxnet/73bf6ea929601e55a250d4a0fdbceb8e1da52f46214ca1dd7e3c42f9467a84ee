@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "cointr.pro",
+  "date": "2026-02-25",
+  "timestamp": "2026-02-25T17:45:22.844282",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
