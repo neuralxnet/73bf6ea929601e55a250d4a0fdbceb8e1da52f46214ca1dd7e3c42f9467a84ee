@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "cos",
+  "date": "2026-02-26",
+  "timestamp": "2026-02-26T19:22:32.907622",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://cos-releases.sfo3.digitaloceanspaces.com",
+        "bucket": "cos-releases",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T19:00:52.490500"
+      },
+      {
+        "url": "https://cos-dev.nyc3.digitaloceanspaces.com",
+        "bucket": "cos-dev",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T19:02:24.368637"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
