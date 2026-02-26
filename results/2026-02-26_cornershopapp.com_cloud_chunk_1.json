@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "cornershopapp.com",
+  "date": "2026-02-26",
+  "timestamp": "2026-02-26T17:34:23.537033",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
