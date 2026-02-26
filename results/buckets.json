@@ -2,6 +2,233 @@
   "buckets": {
     "public": [
       {
+        "url": "https://carlos-com.fra1.digitaloceanspaces.com",
+        "bucket": "carlos-com",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T22:25:23.316678"
+      },
+      {
+        "url": "https://ecom.nyc3.digitaloceanspaces.com",
+        "bucket": "ecom",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T22:26:02.131243"
+      },
+      {
+        "url": "https://ncom.nyc3.digitaloceanspaces.com",
+        "bucket": "ncom",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T22:27:53.269210"
+      },
+      {
+        "url": "https://career-center.s3.us-east-2.amazonaws.com",
+        "bucket": "career-center",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T22:49:33.802299"
+      },
+      {
+        "url": "https://centerstage.s3.us-east-1.amazonaws.com",
+        "bucket": "centerstage",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T22:52:07.622451"
+      },
+      {
+        "url": "https://pkcenter.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "pkcenter",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:14:25.468556"
+      },
+      {
+        "url": "https://center-mp3.s3.eu-west-1.amazonaws.com",
+        "bucket": "center-mp3",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:17:09.217713"
+      },
+      {
+        "url": "https://educationcenter.s3.us-east-1.amazonaws.com",
+        "bucket": "educationcenter",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:18:13.072839"
+      },
+      {
+        "url": "https://chatcenter.s3.us-east-1.amazonaws.com",
+        "bucket": "chatcenter",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:25:54.545638"
+      },
+      {
+        "url": "https://centerblog.s3.us-east-2.amazonaws.com",
+        "bucket": "centerblog",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:28:55.585015"
+      },
+      {
+        "url": "https://pdcenter.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "pdcenter",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:30:16.328850"
+      },
+      {
+        "url": "https://download-center.s3.us-east-1.amazonaws.com",
+        "bucket": "download-center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:32:25.711672"
+      },
+      {
+        "url": "https://chat-center.s3.us-east-1.amazonaws.com",
+        "bucket": "chat-center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-25T23:39:06.234821"
+      },
+      {
+        "url": "https://canvascenter.s3.us-east-1.amazonaws.com",
+        "bucket": "canvascenter",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:24:37.607744"
+      },
+      {
+        "url": "https://imgcenter.s3.us-west-1.amazonaws.com",
+        "bucket": "imgcenter",
+        "region": "us-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:39:11.062931"
+      },
+      {
+        "url": "https://company-center.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "company-center",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:43:04.479479"
+      },
+      {
+        "url": "https://productscenter.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "productscenter",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:45:03.933982"
+      },
+      {
+        "url": "https://healthcenter.s3.us-west-2.amazonaws.com",
+        "bucket": "healthcenter",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:46:38.779249"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/career.center",
+        "bucket": "career.center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:47:20.413253"
+      },
+      {
+        "url": "https://document-center.s3.eu-west-2.amazonaws.com",
+        "bucket": "document-center",
+        "region": "eu-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T00:47:29.066954"
+      },
+      {
+        "url": "https://digitalcenter.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "digitalcenter",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:00:29.930885"
+      },
+      {
+        "url": "https://pop-center.s3.us-east-1.amazonaws.com",
+        "bucket": "pop-center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:03:48.291010"
+      },
+      {
+        "url": "https://becenter.s3.us-east-1.amazonaws.com",
+        "bucket": "becenter",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:09:24.438960"
+      },
+      {
+        "url": "https://center12.s3.us-east-1.amazonaws.com",
+        "bucket": "center12",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:11:00.394787"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/media.center",
+        "bucket": "media.center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:11:39.990190"
+      },
+      {
+        "url": "https://update-center.s3.us-east-1.amazonaws.com",
+        "bucket": "update-center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:21:55.010645"
+      },
+      {
+        "url": "https://msgcenter.s3.us-west-2.amazonaws.com",
+        "bucket": "msgcenter",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:37:02.478908"
+      },
+      {
+        "url": "https://education-center.s3.us-east-1.amazonaws.com",
+        "bucket": "education-center",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T01:43:39.874882"
+      },
+      {
         "url": "https://buildworks.s3.us-east-1.amazonaws.com",
         "bucket": "buildworks",
         "region": "us-east-1",
@@ -7636,16 +7863,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-26T01:55:23.114536+00:00",
-  "validated_at": "2026-02-26T01:55:23.114550+00:00",
+  "generated_at": "2026-02-26T02:29:09.408034+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 954,
+    "public_buckets_in_file": 982,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 954,
-    "total_public_buckets": 954,
+    "total_buckets_in_file": 982,
+    "total_public_buckets": 982,
     "total_private_buckets": 0,
-    "total_buckets": 954
+    "total_buckets": 982
   }
 }
