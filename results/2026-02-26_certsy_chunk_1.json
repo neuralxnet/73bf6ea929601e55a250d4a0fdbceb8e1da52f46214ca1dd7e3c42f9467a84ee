@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "certsy",
+  "date": "2026-02-26",
+  "timestamp": "2026-02-26T13:55:13.643250",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
