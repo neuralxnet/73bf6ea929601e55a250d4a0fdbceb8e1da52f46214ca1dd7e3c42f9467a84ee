@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "cryptology",
+  "domain": "cryptology.com",
   "date": "2026-02-27",
-  "timestamp": "2026-02-27T12:13:36.050271",
+  "timestamp": "2026-02-27T13:20:52.620029",
   "providers": [
     "azure",
     "linode",
