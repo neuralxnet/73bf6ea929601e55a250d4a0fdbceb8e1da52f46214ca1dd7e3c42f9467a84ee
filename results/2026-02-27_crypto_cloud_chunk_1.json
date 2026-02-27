@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "crypto",
+  "date": "2026-02-27",
+  "timestamp": "2026-02-27T08:26:17.793325",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://cryptos.sgp1.digitaloceanspaces.com",
+        "bucket": "cryptos",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-27T08:01:24.638915"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
