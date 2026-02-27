@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "cryptofacilities",
+  "date": "2026-02-27",
+  "timestamp": "2026-02-27T10:16:56.560268",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
