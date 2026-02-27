@@ -2,6 +2,24 @@
   "buckets": {
     "public": [
       {
+        "url": "https://cos-releases.sfo3.digitaloceanspaces.com",
+        "bucket": "cos-releases",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T19:00:52.490500"
+      },
+      {
+        "url": "https://cos-dev.nyc3.digitaloceanspaces.com",
+        "bucket": "cos-dev",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-26T19:02:24.368637"
+      },
+      {
         "url": "https://canvascenter.s3.us-east-1.amazonaws.com",
         "bucket": "canvascenter",
         "region": "us-east-1",
@@ -7836,16 +7854,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-02-27T01:54:00.266369+00:00",
-  "validated_at": "2026-02-27T01:54:00.266386+00:00",
+  "generated_at": "2026-02-27T02:28:14.092940+00:00",
+  "source_files": 16,
+  "domains_scanned": 15,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 979,
+    "public_buckets_in_file": 981,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 979,
-    "total_public_buckets": 979,
+    "total_buckets_in_file": 981,
+    "total_public_buckets": 981,
     "total_private_buckets": 0,
-    "total_buckets": 979
+    "total_buckets": 981
   }
 }
