@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "certsynonprod.com",
+  "date": "2026-02-27",
+  "timestamp": "2026-02-27T03:14:03.129233",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
