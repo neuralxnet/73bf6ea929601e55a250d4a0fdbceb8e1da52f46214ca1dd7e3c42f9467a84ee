@@ -1,0 +1,24 @@
+{
+  "chunk_id": 1,
+  "domain": "challonge",
+  "date": "2026-02-28",
+  "timestamp": "2026-02-28T13:28:02.464646",
+  "results": {
+    "public": [
+      {
+        "url": "https://challonge-test.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "challonge-test",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-28T11:28:43.096270"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
