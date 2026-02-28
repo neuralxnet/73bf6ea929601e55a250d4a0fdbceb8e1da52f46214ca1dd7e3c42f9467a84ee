@@ -6842,14 +6842,6 @@
         "timestamp": "2026-02-28T01:45:04.800251+00:00"
       },
       {
-        "url": "https://challonge-test.s3.ap-southeast-2.amazonaws.com",
-        "bucket": "challonge-test",
-        "region": "ap-southeast-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-02-28T01:45:04.808414+00:00"
-      },
-      {
         "url": "https://zapier-docs.s3.ap-southeast-2.amazonaws.com",
         "bucket": "zapier-docs",
         "region": "ap-southeast-2",
@@ -7904,14 +7896,22 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-02-28T01:45:07.398969+00:00"
+      },
+      {
+        "url": "https://challonge-test.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "challonge-test",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-28T12:14:32.269776"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-02-28T02:11:13.306547+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-02-28T12:54:18.152120+00:00",
+  "source_files": 12,
+  "domains_scanned": 12,
+  "total_chunks": 12,
   "file_index": 0,
   "total_files": 1,
   "stats": {
