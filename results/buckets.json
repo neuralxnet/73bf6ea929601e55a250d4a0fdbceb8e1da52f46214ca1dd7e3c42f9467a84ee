@@ -2,6 +2,14 @@
   "buckets": {
     "public": [
       {
+        "url": "https://challonge-test.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "challonge-test",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-02-28T11:58:24.253960"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/django_base",
         "bucket": "django_base",
         "region": "us-east-1",
@@ -7794,14 +7802,6 @@
         "timestamp": "2026-03-01T02:06:42.214912+00:00"
       },
       {
-        "url": "https://challonge-test.s3.ap-southeast-2.amazonaws.com",
-        "bucket": "challonge-test",
-        "region": "ap-southeast-2",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-03-01T02:06:42.272710+00:00"
-      },
-      {
         "url": "https://education-app.s3.ap-south-1.amazonaws.com",
         "bucket": "education-app",
         "region": "ap-south-1",
@@ -7908,8 +7908,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-01T02:06:42.507117+00:00",
-  "validated_at": "2026-03-01T02:06:42.507130+00:00",
+  "generated_at": "2026-03-01T02:42:37.955629+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
