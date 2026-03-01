@@ -7904,22 +7904,189 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-03-01T02:06:42.500784+00:00"
+      },
+      {
+        "url": "https://chime-desktop.s3.us-west-2.amazonaws.com",
+        "bucket": "chime-desktop",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T05:20:13.792126"
+      },
+      {
+        "url": "https://chime-in.s3.us-east-2.amazonaws.com",
+        "bucket": "chime-in",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T05:30:35.863526"
+      },
+      {
+        "url": "https://chime-cat.s3.us-west-2.amazonaws.com",
+        "bucket": "chime-cat",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T07:12:19.408752"
+      },
+      {
+        "url": "https://chimebucket.s3.us-east-1.amazonaws.com",
+        "bucket": "chimebucket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T07:35:00.570362"
+      },
+      {
+        "url": "https://gcdata.ams3.digitaloceanspaces.com",
+        "bucket": "gcdata",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:19:34.471878"
+      },
+      {
+        "url": "https://dd-data.sfo2.digitaloceanspaces.com",
+        "bucket": "dd-data",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:22:57.553397"
+      },
+      {
+        "url": "https://redata.fra1.digitaloceanspaces.com",
+        "bucket": "redata",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:29:04.282219"
+      },
+      {
+        "url": "https://asdata.sgp1.digitaloceanspaces.com",
+        "bucket": "asdata",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:29:09.776019"
+      },
+      {
+        "url": "https://common-data.fra1.digitaloceanspaces.com",
+        "bucket": "common-data",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:30:56.928802"
+      },
+      {
+        "url": "https://playerdata.fra1.digitaloceanspaces.com",
+        "bucket": "playerdata",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:34:06.171443"
+      },
+      {
+        "url": "https://alldata.sgp1.digitaloceanspaces.com",
+        "bucket": "alldata",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:34:19.847200"
+      },
+      {
+        "url": "https://data-0.syd1.digitaloceanspaces.com",
+        "bucket": "data-0",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:36:11.755972"
+      },
+      {
+        "url": "https://rudata.sfo3.digitaloceanspaces.com",
+        "bucket": "rudata",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:39:42.625846"
+      },
+      {
+        "url": "https://data-upload.nyc3.digitaloceanspaces.com",
+        "bucket": "data-upload",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:52:15.113164"
+      },
+      {
+        "url": "https://imgdata.sgp1.digitaloceanspaces.com",
+        "bucket": "imgdata",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:54:33.196882"
+      },
+      {
+        "url": "https://cms-data.nyc3.digitaloceanspaces.com",
+        "bucket": "cms-data",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:54:35.796525"
+      },
+      {
+        "url": "https://vdata.sfo2.digitaloceanspaces.com",
+        "bucket": "vdata",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:56:48.397094"
+      },
+      {
+        "url": "https://contentdata.ams3.digitaloceanspaces.com",
+        "bucket": "contentdata",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T08:58:41.936838"
+      },
+      {
+        "url": "https://app-data.sgp1.digitaloceanspaces.com",
+        "bucket": "app-data",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T09:03:19.101854"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-03-01T02:42:37.955629+00:00",
-  "source_files": 17,
-  "domains_scanned": 16,
-  "total_chunks": 17,
+  "generated_at": "2026-03-01T12:57:05.963134+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 988,
+    "public_buckets_in_file": 1007,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 988,
-    "total_public_buckets": 988,
+    "total_buckets_in_file": 1007,
+    "total_public_buckets": 1007,
     "total_private_buckets": 0,
-    "total_buckets": 988
+    "total_buckets": 1007
   }
 }
