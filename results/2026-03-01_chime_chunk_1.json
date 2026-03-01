@@ -1,0 +1,48 @@
+{
+  "chunk_id": 1,
+  "domain": "chime",
+  "date": "2026-03-01",
+  "timestamp": "2026-03-01T07:57:21.176613",
+  "results": {
+    "public": [
+      {
+        "url": "https://chime-desktop.s3.us-west-2.amazonaws.com",
+        "bucket": "chime-desktop",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T05:20:13.792126"
+      },
+      {
+        "url": "https://chime-in.s3.us-east-2.amazonaws.com",
+        "bucket": "chime-in",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T05:30:35.863526"
+      },
+      {
+        "url": "https://chime-cat.s3.us-west-2.amazonaws.com",
+        "bucket": "chime-cat",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T07:12:19.408752"
+      },
+      {
+        "url": "https://chimebucket.s3.us-east-1.amazonaws.com",
+        "bucket": "chimebucket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-01T07:35:00.570362"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 4,
+    "private_found": 0
+  }
+}
