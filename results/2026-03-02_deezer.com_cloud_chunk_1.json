@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "deezer",
+  "domain": "deezer.com",
   "date": "2026-03-02",
-  "timestamp": "2026-03-02T06:34:36.982149",
+  "timestamp": "2026-03-02T07:30:18.433431",
   "providers": [
     "azure",
     "linode",
