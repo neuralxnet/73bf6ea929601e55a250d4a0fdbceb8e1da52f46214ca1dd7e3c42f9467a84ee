@@ -1,0 +1,211 @@
+{
+  "chunk_id": 1,
+  "domain": "dev",
+  "date": "2026-03-03",
+  "timestamp": "2026-03-03T10:27:56.353184",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://dev-services.nyc3.digitaloceanspaces.com",
+        "bucket": "dev-services",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:32:37.465530"
+      },
+      {
+        "url": "https://devtest2.ams3.digitaloceanspaces.com",
+        "bucket": "devtest2",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:39:27.923008"
+      },
+      {
+        "url": "https://images-dev.sgp1.digitaloceanspaces.com",
+        "bucket": "images-dev",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:39:29.778200"
+      },
+      {
+        "url": "https://hdev.fra1.digitaloceanspaces.com",
+        "bucket": "hdev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:42:26.610051"
+      },
+      {
+        "url": "https://devli.nyc3.digitaloceanspaces.com",
+        "bucket": "devli",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:42:43.954505"
+      },
+      {
+        "url": "https://landing-dev.fra1.digitaloceanspaces.com",
+        "bucket": "landing-dev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:42:47.062130"
+      },
+      {
+        "url": "https://tools-dev.ams3.digitaloceanspaces.com",
+        "bucket": "tools-dev",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:46:32.244843"
+      },
+      {
+        "url": "https://americadev.nyc3.digitaloceanspaces.com",
+        "bucket": "americadev",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:51:26.300541"
+      },
+      {
+        "url": "https://devid.sgp1.digitaloceanspaces.com",
+        "bucket": "devid",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:52:34.695149"
+      },
+      {
+        "url": "https://dev-sandbox.sfo3.digitaloceanspaces.com",
+        "bucket": "dev-sandbox",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:55:25.570348"
+      },
+      {
+        "url": "https://dev-public.nyc3.digitaloceanspaces.com",
+        "bucket": "dev-public",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T09:57:07.613481"
+      },
+      {
+        "url": "https://localdev.fra1.digitaloceanspaces.com",
+        "bucket": "localdev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:00:03.848437"
+      },
+      {
+        "url": "https://properties-dev.ams3.digitaloceanspaces.com",
+        "bucket": "properties-dev",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:01:34.715680"
+      },
+      {
+        "url": "https://lp-dev.fra1.digitaloceanspaces.com",
+        "bucket": "lp-dev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:01:34.952253"
+      },
+      {
+        "url": "https://doc-dev.sfo3.digitaloceanspaces.com",
+        "bucket": "doc-dev",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:02:06.455925"
+      },
+      {
+        "url": "https://dev-eric.sfo2.digitaloceanspaces.com",
+        "bucket": "dev-eric",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:06:23.261053"
+      },
+      {
+        "url": "https://pi-dev.blr1.digitaloceanspaces.com",
+        "bucket": "pi-dev",
+        "provider": "digitalocean",
+        "region": "blr1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:11:00.475186"
+      },
+      {
+        "url": "https://dev-img.sfo3.digitaloceanspaces.com",
+        "bucket": "dev-img",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:11:24.768351"
+      },
+      {
+        "url": "https://stddev.fra1.digitaloceanspaces.com",
+        "bucket": "stddev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:13:41.168065"
+      },
+      {
+        "url": "https://ls-dev.sfo2.digitaloceanspaces.com",
+        "bucket": "ls-dev",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:16:50.977961"
+      },
+      {
+        "url": "https://devtest.sgp1.digitaloceanspaces.com",
+        "bucket": "devtest",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:19:09.083414"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 21,
+    "private_found": 0
+  }
+}
