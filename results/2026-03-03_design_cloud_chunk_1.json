@@ -1,0 +1,112 @@
+{
+  "chunk_id": 1,
+  "domain": "design",
+  "date": "2026-03-03",
+  "timestamp": "2026-03-03T07:26:35.753119",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://spdesign.fra1.digitaloceanspaces.com",
+        "bucket": "spdesign",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:36:54.485002"
+      },
+      {
+        "url": "https://logo-design.nyc3.digitaloceanspaces.com",
+        "bucket": "logo-design",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:43:09.618735"
+      },
+      {
+        "url": "https://webdesign.nyc3.digitaloceanspaces.com",
+        "bucket": "webdesign",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:49:28.375101"
+      },
+      {
+        "url": "https://web-design.nyc3.digitaloceanspaces.com",
+        "bucket": "web-design",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:49:52.309479"
+      },
+      {
+        "url": "https://designcontest.nyc3.digitaloceanspaces.com",
+        "bucket": "designcontest",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:51:56.499963"
+      },
+      {
+        "url": "https://designjobs.fra1.digitaloceanspaces.com",
+        "bucket": "designjobs",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:02:45.985543"
+      },
+      {
+        "url": "https://design.ams3.digitaloceanspaces.com",
+        "bucket": "design",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:21:16.204464"
+      },
+      {
+        "url": "https://filedesign.sgp1.digitaloceanspaces.com",
+        "bucket": "filedesign",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:22:19.584550"
+      },
+      {
+        "url": "https://designblog.syd1.digitaloceanspaces.com",
+        "bucket": "designblog",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:23:21.445708"
+      },
+      {
+        "url": "https://designs.nyc3.digitaloceanspaces.com",
+        "bucket": "designs",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:26:19.134400"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 10,
+    "private_found": 0
+  }
+}
