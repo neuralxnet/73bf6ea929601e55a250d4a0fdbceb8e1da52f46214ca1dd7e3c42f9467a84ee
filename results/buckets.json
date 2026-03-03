@@ -2,6 +2,15 @@
   "buckets": {
     "public": [
       {
+        "url": "https://indelta.ams3.digitaloceanspaces.com",
+        "bucket": "indelta",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-02T22:39:45.902281"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/bike.reviews",
         "bucket": "bike.reviews",
         "region": "us-east-1",
@@ -7932,16 +7941,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-03T01:59:29.728389+00:00",
-  "validated_at": "2026-03-03T01:59:29.728401+00:00",
+  "generated_at": "2026-03-03T02:33:35.494334+00:00",
+  "source_files": 16,
+  "domains_scanned": 16,
+  "total_chunks": 16,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 991,
+    "public_buckets_in_file": 992,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 991,
-    "total_public_buckets": 991,
+    "total_buckets_in_file": 992,
+    "total_public_buckets": 992,
     "total_private_buckets": 0,
-    "total_buckets": 991
+    "total_buckets": 992
   }
 }
