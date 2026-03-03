@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "deribit.com",
+  "domain": "dev-zoom.us",
   "date": "2026-03-03",
-  "timestamp": "2026-03-03T06:29:31.942491",
+  "timestamp": "2026-03-03T13:19:20.842269",
   "providers": [
     "azure",
     "linode",
