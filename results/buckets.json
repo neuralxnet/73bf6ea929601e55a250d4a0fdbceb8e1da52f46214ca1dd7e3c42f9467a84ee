@@ -7937,22 +7937,333 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-03-03T01:59:29.723555+00:00"
+      },
+      {
+        "url": "https://1cisco.s3.us-east-1.amazonaws.com",
+        "bucket": "1cisco",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T04:51:02.736789"
+      },
+      {
+        "url": "https://cisco-publications.s3.us-east-1.amazonaws.com",
+        "bucket": "cisco-publications",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:12:04.177502"
+      },
+      {
+        "url": "https://spdesign.fra1.digitaloceanspaces.com",
+        "bucket": "spdesign",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:36:54.485002"
+      },
+      {
+        "url": "https://logo-design.nyc3.digitaloceanspaces.com",
+        "bucket": "logo-design",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:43:09.618735"
+      },
+      {
+        "url": "https://cisco-emails.s3.us-east-1.amazonaws.com",
+        "bucket": "cisco-emails",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:47:59.129775"
+      },
+      {
+        "url": "https://webdesign.nyc3.digitaloceanspaces.com",
+        "bucket": "webdesign",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:49:28.375101"
+      },
+      {
+        "url": "https://web-design.nyc3.digitaloceanspaces.com",
+        "bucket": "web-design",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:49:52.309479"
+      },
+      {
+        "url": "https://designcontest.nyc3.digitaloceanspaces.com",
+        "bucket": "designcontest",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T06:51:56.499963"
+      },
+      {
+        "url": "https://designjobs.fra1.digitaloceanspaces.com",
+        "bucket": "designjobs",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:02:45.985543"
+      },
+      {
+        "url": "https://design.ams3.digitaloceanspaces.com",
+        "bucket": "design",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:21:16.204464"
+      },
+      {
+        "url": "https://filedesign.sgp1.digitaloceanspaces.com",
+        "bucket": "filedesign",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:22:19.584550"
+      },
+      {
+        "url": "https://designblog.syd1.digitaloceanspaces.com",
+        "bucket": "designblog",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:23:21.445708"
+      },
+      {
+        "url": "https://designs.nyc3.digitaloceanspaces.com",
+        "bucket": "designs",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:26:19.134400"
+      },
+      {
+        "url": "https://cisco-demo.s3.us-east-1.amazonaws.com",
+        "bucket": "cisco-demo",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T07:29:26.410146"
+      },
+      {
+        "url": "https://hdev.fra1.digitaloceanspaces.com",
+        "bucket": "hdev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:28:53.260725"
+      },
+      {
+        "url": "https://devli.nyc3.digitaloceanspaces.com",
+        "bucket": "devli",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:29:45.752876"
+      },
+      {
+        "url": "https://americadev.nyc3.digitaloceanspaces.com",
+        "bucket": "americadev",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:30:00.419002"
+      },
+      {
+        "url": "https://devid.sgp1.digitaloceanspaces.com",
+        "bucket": "devid",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:30:44.338085"
+      },
+      {
+        "url": "https://ls-dev.sfo2.digitaloceanspaces.com",
+        "bucket": "ls-dev",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:32:29.348751"
+      },
+      {
+        "url": "https://images-dev.sgp1.digitaloceanspaces.com",
+        "bucket": "images-dev",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:33:55.548614"
+      },
+      {
+        "url": "https://lp-dev.fra1.digitaloceanspaces.com",
+        "bucket": "lp-dev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:34:24.702185"
+      },
+      {
+        "url": "https://dev-public.nyc3.digitaloceanspaces.com",
+        "bucket": "dev-public",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:47:50.681842"
+      },
+      {
+        "url": "https://properties-dev.ams3.digitaloceanspaces.com",
+        "bucket": "properties-dev",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:50:17.487400"
+      },
+      {
+        "url": "https://dev-img.sfo3.digitaloceanspaces.com",
+        "bucket": "dev-img",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:51:22.147619"
+      },
+      {
+        "url": "https://pi-dev.blr1.digitaloceanspaces.com",
+        "bucket": "pi-dev",
+        "provider": "digitalocean",
+        "region": "blr1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:53:06.876485"
+      },
+      {
+        "url": "https://tools-dev.ams3.digitaloceanspaces.com",
+        "bucket": "tools-dev",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:53:43.539471"
+      },
+      {
+        "url": "https://dev-services.nyc3.digitaloceanspaces.com",
+        "bucket": "dev-services",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T10:56:07.345397"
+      },
+      {
+        "url": "https://dev-sandbox.sfo3.digitaloceanspaces.com",
+        "bucket": "dev-sandbox",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:00:13.718559"
+      },
+      {
+        "url": "https://stddev.fra1.digitaloceanspaces.com",
+        "bucket": "stddev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:01:14.838463"
+      },
+      {
+        "url": "https://localdev.fra1.digitaloceanspaces.com",
+        "bucket": "localdev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:02:03.977350"
+      },
+      {
+        "url": "https://landing-dev.fra1.digitaloceanspaces.com",
+        "bucket": "landing-dev",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:03:37.530189"
+      },
+      {
+        "url": "https://devtest2.ams3.digitaloceanspaces.com",
+        "bucket": "devtest2",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:06:04.284328"
+      },
+      {
+        "url": "https://doc-dev.sfo3.digitaloceanspaces.com",
+        "bucket": "doc-dev",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:09:37.713742"
+      },
+      {
+        "url": "https://dev-eric.sfo2.digitaloceanspaces.com",
+        "bucket": "dev-eric",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:13:52.084688"
+      },
+      {
+        "url": "https://devtest.sgp1.digitaloceanspaces.com",
+        "bucket": "devtest",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-03T11:16:55.871035"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-03-03T02:33:35.494334+00:00",
-  "source_files": 16,
-  "domains_scanned": 16,
-  "total_chunks": 16,
+  "generated_at": "2026-03-03T13:07:01.205987+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 992,
+    "public_buckets_in_file": 1027,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 992,
-    "total_public_buckets": 992,
+    "total_buckets_in_file": 1027,
+    "total_public_buckets": 1027,
     "total_private_buckets": 0,
-    "total_buckets": 992
+    "total_buckets": 1027
   }
 }
