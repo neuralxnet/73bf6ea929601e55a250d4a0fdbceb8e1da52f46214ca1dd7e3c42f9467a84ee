@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "dex-trade.com",
-  "date": "2026-03-03",
-  "timestamp": "2026-03-03T23:07:25.293273",
+  "domain": "dexalot",
+  "date": "2026-03-04",
+  "timestamp": "2026-03-04T00:07:45.857582",
   "providers": [
     "azure",
     "linode",
