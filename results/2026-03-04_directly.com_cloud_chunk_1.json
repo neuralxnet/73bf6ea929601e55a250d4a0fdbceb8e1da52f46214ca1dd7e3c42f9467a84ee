@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "directly",
+  "domain": "directly.com",
   "date": "2026-03-04",
-  "timestamp": "2026-03-04T15:19:41.325414",
+  "timestamp": "2026-03-04T16:22:37.174102",
   "providers": [
     "azure",
     "linode",
