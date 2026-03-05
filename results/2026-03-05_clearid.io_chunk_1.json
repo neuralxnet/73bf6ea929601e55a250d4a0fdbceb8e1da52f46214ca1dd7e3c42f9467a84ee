@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "clearid.io",
+  "date": "2026-03-05",
+  "timestamp": "2026-03-05T21:12:32.213713",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
