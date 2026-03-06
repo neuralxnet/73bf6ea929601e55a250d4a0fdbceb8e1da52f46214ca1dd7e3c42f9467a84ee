@@ -7944,22 +7944,70 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-03-06T01:57:31.841218+00:00"
+      },
+      {
+        "url": "https://clio-tools.s3.eu-west-1.amazonaws.com",
+        "bucket": "clio-tools",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T10:58:54.665023"
+      },
+      {
+        "url": "https://cliorepository.s3.us-east-2.amazonaws.com",
+        "bucket": "cliorepository",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T11:33:36.010059"
+      },
+      {
+        "url": "https://clio-al.s3.us-east-1.amazonaws.com",
+        "bucket": "clio-al",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T11:42:56.461494"
+      },
+      {
+        "url": "https://cliodata.s3.us-east-1.amazonaws.com",
+        "bucket": "cliodata",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T11:59:51.865013"
+      },
+      {
+        "url": "https://cliobuilds.s3.us-west-2.amazonaws.com",
+        "bucket": "cliobuilds",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T12:07:01.452160"
+      },
+      {
+        "url": "https://capstoneclio.s3.us-east-1.amazonaws.com",
+        "bucket": "capstoneclio",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-06T12:24:17.778597"
       }
     ],
     "private": []
   },
-  "generated_at": "2026-03-06T02:27:37.336803+00:00",
-  "source_files": 15,
-  "domains_scanned": 14,
-  "total_chunks": 15,
+  "generated_at": "2026-03-06T13:05:08.252990+00:00",
+  "source_files": 11,
+  "domains_scanned": 11,
+  "total_chunks": 11,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 993,
+    "public_buckets_in_file": 999,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 993,
-    "total_public_buckets": 993,
+    "total_buckets_in_file": 999,
+    "total_public_buckets": 999,
     "total_private_buckets": 0,
-    "total_buckets": 993
+    "total_buckets": 999
   }
 }
