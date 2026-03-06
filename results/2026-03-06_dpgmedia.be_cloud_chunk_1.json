@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "dpgmedia",
+  "domain": "dpgmedia.be",
   "date": "2026-03-06",
-  "timestamp": "2026-03-06T15:16:06.087459",
+  "timestamp": "2026-03-06T16:13:00.567736",
   "providers": [
     "azure",
     "linode",
