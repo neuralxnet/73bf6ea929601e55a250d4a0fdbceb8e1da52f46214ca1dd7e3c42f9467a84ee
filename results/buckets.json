@@ -7948,8 +7948,10 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-06T01:57:31.847924+00:00",
-  "validated_at": "2026-03-06T01:57:31.847946+00:00",
+  "generated_at": "2026-03-06T02:27:37.336803+00:00",
+  "source_files": 15,
+  "domains_scanned": 14,
+  "total_chunks": 15,
   "file_index": 0,
   "total_files": 1,
   "stats": {
