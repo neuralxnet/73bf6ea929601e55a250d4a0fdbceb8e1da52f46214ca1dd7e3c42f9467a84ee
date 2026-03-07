@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "dropmix.com",
+  "domain": "dynoquant",
   "date": "2026-03-07",
-  "timestamp": "2026-03-07T10:07:20.396978",
+  "timestamp": "2026-03-07T13:08:48.408281",
   "providers": [
     "azure",
     "linode",
