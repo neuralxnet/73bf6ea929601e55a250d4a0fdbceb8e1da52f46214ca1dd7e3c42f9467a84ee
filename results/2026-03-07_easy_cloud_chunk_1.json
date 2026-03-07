@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "easy",
+  "date": "2026-03-07",
+  "timestamp": "2026-03-07T17:02:10.882459",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://easy-ecom.sgp1.digitaloceanspaces.com",
+        "bucket": "easy-ecom",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T16:43:41.100363"
+      },
+      {
+        "url": "https://easycdn.nyc3.digitaloceanspaces.com",
+        "bucket": "easycdn",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T16:53:12.591634"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570390,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
