@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "dropboxer",
+  "domain": "dynoquant",
   "date": "2026-03-07",
-  "timestamp": "2026-03-07T04:36:23.650444",
+  "timestamp": "2026-03-07T13:08:48.408281",
   "providers": [
     "azure",
     "linode",
