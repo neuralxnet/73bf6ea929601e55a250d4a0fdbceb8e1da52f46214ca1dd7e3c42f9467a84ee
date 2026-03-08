@@ -1,0 +1,248 @@
+{
+  "chunk_id": 1,
+  "domain": "cloudfront",
+  "date": "2026-03-08",
+  "timestamp": "2026-03-08T19:11:01.124707",
+  "results": {
+    "public": [
+      {
+        "url": "https://cloudfront-provider.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfront-provider",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:39:54.712178"
+      },
+      {
+        "url": "https://botr-cloudfront.s3.us-east-1.amazonaws.com",
+        "bucket": "botr-cloudfront",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:40:31.050498"
+      },
+      {
+        "url": "https://appstore-cloudfront.s3.eu-west-1.amazonaws.com",
+        "bucket": "appstore-cloudfront",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:46:59.728184"
+      },
+      {
+        "url": "https://cloudfronttestbucket.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfronttestbucket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:47:32.475624"
+      },
+      {
+        "url": "https://cloudfront-errorpages.s3.us-west-2.amazonaws.com",
+        "bucket": "cloudfront-errorpages",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:48:06.391163"
+      },
+      {
+        "url": "https://cs-cloudfront.s3.us-east-1.amazonaws.com",
+        "bucket": "cs-cloudfront",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:54:05.224421"
+      },
+      {
+        "url": "https://cloudfrontmagento.s3.eu-west-1.amazonaws.com",
+        "bucket": "cloudfrontmagento",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T15:57:03.423829"
+      },
+      {
+        "url": "https://pre-cloudfront.s3.eu-west-1.amazonaws.com",
+        "bucket": "pre-cloudfront",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:06:52.602407"
+      },
+      {
+        "url": "https://cloudfrontwebcontent.s3.eu-west-1.amazonaws.com",
+        "bucket": "cloudfrontwebcontent",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:12:21.754581"
+      },
+      {
+        "url": "https://bucket-cloudfront.s3.sa-east-1.amazonaws.com",
+        "bucket": "bucket-cloudfront",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:22:46.603496"
+      },
+      {
+        "url": "https://s3cloudfront.s3.us-east-1.amazonaws.com",
+        "bucket": "s3cloudfront",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:26:13.664453"
+      },
+      {
+        "url": "https://maccloudfront.s3.eu-west-1.amazonaws.com",
+        "bucket": "maccloudfront",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:29:52.502706"
+      },
+      {
+        "url": "https://cloudfront-bucket1.s3.us-east-2.amazonaws.com",
+        "bucket": "cloudfront-bucket1",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:34:13.229459"
+      },
+      {
+        "url": "https://cloudfront-host.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfront-host",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T16:35:37.863183"
+      },
+      {
+        "url": "https://cloudfrontlp.s3.eu-west-1.amazonaws.com",
+        "bucket": "cloudfrontlp",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:02:48.975912"
+      },
+      {
+        "url": "https://cloudfront-resources.s3.us-west-2.amazonaws.com",
+        "bucket": "cloudfront-resources",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:03:40.422314"
+      },
+      {
+        "url": "https://cloudfrontstatics.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfrontstatics",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:05:02.945780"
+      },
+      {
+        "url": "https://outputcloudfront.s3.ap-south-1.amazonaws.com",
+        "bucket": "outputcloudfront",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:20:24.949310"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/tdg.cloudfront",
+        "bucket": "tdg.cloudfront",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:37:12.779239"
+      },
+      {
+        "url": "https://cloudfronttest.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfronttest",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T17:43:26.621882"
+      },
+      {
+        "url": "https://marketing-cloudfront.s3.us-east-1.amazonaws.com",
+        "bucket": "marketing-cloudfront",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T18:09:54.451440"
+      },
+      {
+        "url": "https://cloudfrontfile.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "cloudfrontfile",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T18:33:46.859312"
+      },
+      {
+        "url": "https://cloudfrontbu.s3.us-west-2.amazonaws.com",
+        "bucket": "cloudfrontbu",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T18:34:26.351834"
+      },
+      {
+        "url": "https://s3.ap-southeast-1.amazonaws.com/public.cloudfront",
+        "bucket": "public.cloudfront",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T18:40:23.844080"
+      },
+      {
+        "url": "https://cloudfront-development.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudfront-development",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T18:59:08.776486"
+      },
+      {
+        "url": "https://ve-cloudfront.s3.us-west-2.amazonaws.com",
+        "bucket": "ve-cloudfront",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T19:01:26.329518"
+      },
+      {
+        "url": "https://lb-cloudfront.s3.ca-central-1.amazonaws.com",
+        "bucket": "lb-cloudfront",
+        "region": "ca-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T19:07:19.636855"
+      },
+      {
+        "url": "https://cloudfront-static2.s3.ap-south-1.amazonaws.com",
+        "bucket": "cloudfront-static2",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T19:07:31.194263"
+      },
+      {
+        "url": "https://libs-cloudfront.s3.ap-northeast-2.amazonaws.com",
+        "bucket": "libs-cloudfront",
+        "region": "ap-northeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T19:07:43.138025"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 29,
+    "private_found": 0
+  }
+}
