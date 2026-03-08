@@ -1,0 +1,40 @@
+{
+  "chunk_id": 1,
+  "domain": "eat",
+  "date": "2026-03-07",
+  "timestamp": "2026-03-07T22:57:18.525317",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://eatme.syd1.digitaloceanspaces.com",
+        "bucket": "eatme",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T22:26:13.709694"
+      },
+      {
+        "url": "https://eat.nyc3.digitaloceanspaces.com",
+        "bucket": "eat",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T22:45:28.059057"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 2,
+    "private_found": 0
+  }
+}
