@@ -2,6 +2,58 @@
   "buckets": {
     "public": [
       {
+        "url": "https://easy-ecom.sgp1.digitaloceanspaces.com",
+        "bucket": "easy-ecom",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T16:43:41.100363"
+      },
+      {
+        "url": "https://easycdn.nyc3.digitaloceanspaces.com",
+        "bucket": "easycdn",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T16:53:12.591634"
+      },
+      {
+        "url": "https://dd-cloudflare.s3.us-east-1.amazonaws.com",
+        "bucket": "dd-cloudflare",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T18:06:27.549348"
+      },
+      {
+        "url": "https://testecloudflare.s3.sa-east-1.amazonaws.com",
+        "bucket": "testecloudflare",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T18:10:09.842947"
+      },
+      {
+        "url": "https://eatme.syd1.digitaloceanspaces.com",
+        "bucket": "eatme",
+        "provider": "digitalocean",
+        "region": "syd1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T22:26:13.709694"
+      },
+      {
+        "url": "https://eat.nyc3.digitaloceanspaces.com",
+        "bucket": "eat",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-07T22:45:28.059057"
+      },
+      {
         "url": "https://s3.us-east-1.amazonaws.com/medias_cloud",
         "bucket": "medias_cloud",
         "region": "us-east-1",
@@ -8652,16 +8704,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-08T01:57:56.731353+00:00",
-  "validated_at": "2026-03-08T01:57:56.731366+00:00",
+  "generated_at": "2026-03-08T02:32:46.987523+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 1081,
+    "public_buckets_in_file": 1087,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 1081,
-    "total_public_buckets": 1081,
+    "total_buckets_in_file": 1087,
+    "total_public_buckets": 1087,
     "total_private_buckets": 0,
-    "total_buckets": 1081
+    "total_buckets": 1087
   }
 }
