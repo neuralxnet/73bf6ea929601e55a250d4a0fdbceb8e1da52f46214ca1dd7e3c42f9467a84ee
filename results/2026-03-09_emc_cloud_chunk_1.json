@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "emc",
+  "date": "2026-03-09",
+  "timestamp": "2026-03-09T00:03:52.264500",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://emc-xyz.ams3.digitaloceanspaces.com",
+        "bucket": "emc-xyz",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-08T23:53:04.801728"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
