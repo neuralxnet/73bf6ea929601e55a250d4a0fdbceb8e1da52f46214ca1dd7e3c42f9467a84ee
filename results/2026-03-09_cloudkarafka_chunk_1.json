@@ -2,7 +2,7 @@
   "chunk_id": 1,
   "domain": "cloudkarafka",
   "date": "2026-03-09",
-  "timestamp": "2026-03-09T16:14:31.376247",
+  "timestamp": "2026-03-09T19:08:11.992032",
   "results": {
     "public": [
       {
@@ -11,7 +11,7 @@
         "region": "us-east-1",
         "status": 200,
         "access": "public",
-        "timestamp": "2026-03-09T16:04:56.369652"
+        "timestamp": "2026-03-09T18:02:35.308425"
       }
     ],
     "private": []
