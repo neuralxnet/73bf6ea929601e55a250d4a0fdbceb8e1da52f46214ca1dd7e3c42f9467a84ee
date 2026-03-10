@@ -2,6 +2,23 @@
   "buckets": {
     "public": [
       {
+        "url": "https://teobot.nyc3.digitaloceanspaces.com",
+        "bucket": "teobot",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-09T16:24:06.646231"
+      },
+      {
+        "url": "https://cloudkarafka.s3.us-east-1.amazonaws.com",
+        "bucket": "cloudkarafka",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-09T18:02:35.308425"
+      },
+      {
         "url": "https://ve-cloudfront.s3.us-west-2.amazonaws.com",
         "bucket": "ve-cloudfront",
         "region": "us-west-2",
@@ -2560,14 +2577,6 @@
         "status": 200,
         "access": "public",
         "timestamp": "2026-03-10T01:51:29.111064+00:00"
-      },
-      {
-        "url": "https://cloudkarafka.s3.us-east-1.amazonaws.com",
-        "bucket": "cloudkarafka",
-        "region": "us-east-1",
-        "status": 200,
-        "access": "public",
-        "timestamp": "2026-03-10T01:51:29.143912+00:00"
       },
       {
         "url": "https://album-mp3.s3.us-east-1.amazonaws.com",
@@ -8916,16 +8925,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-10T01:51:41.998984+00:00",
-  "validated_at": "2026-03-10T01:51:41.999002+00:00",
+  "generated_at": "2026-03-10T02:25:48.996198+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 1114,
+    "public_buckets_in_file": 1115,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 1114,
-    "total_public_buckets": 1114,
+    "total_buckets_in_file": 1115,
+    "total_public_buckets": 1115,
     "total_private_buckets": 0,
-    "total_buckets": 1114
+    "total_buckets": 1115
   }
 }
