@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "cobinhood.exchange",
+  "date": "2026-03-11",
+  "timestamp": "2026-03-11T10:56:54.313245",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
