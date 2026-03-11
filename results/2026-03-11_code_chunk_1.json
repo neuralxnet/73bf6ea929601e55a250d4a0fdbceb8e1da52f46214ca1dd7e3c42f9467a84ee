@@ -1,0 +1,392 @@
+{
+  "chunk_id": 1,
+  "domain": "code",
+  "date": "2026-03-11",
+  "timestamp": "2026-03-11T21:38:52.387740",
+  "results": {
+    "public": [
+      {
+        "url": "https://as-code.s3.us-east-1.amazonaws.com",
+        "bucket": "as-code",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T17:50:56.065911"
+      },
+      {
+        "url": "https://codemy.s3.us-east-1.amazonaws.com",
+        "bucket": "codemy",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T17:52:29.303676"
+      },
+      {
+        "url": "https://codelink.s3.us-east-1.amazonaws.com",
+        "bucket": "codelink",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T17:55:32.866674"
+      },
+      {
+        "url": "https://tutorialcode.s3.us-east-1.amazonaws.com",
+        "bucket": "tutorialcode",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:03:29.621692"
+      },
+      {
+        "url": "https://code-repo.s3.eu-west-1.amazonaws.com",
+        "bucket": "code-repo",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:03:54.319967"
+      },
+      {
+        "url": "https://codekb.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "codekb",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:05:12.109087"
+      },
+      {
+        "url": "https://code-labs.s3.us-east-1.amazonaws.com",
+        "bucket": "code-labs",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:07:06.814398"
+      },
+      {
+        "url": "https://main-code.s3.us-east-1.amazonaws.com",
+        "bucket": "main-code",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:11:24.779079"
+      },
+      {
+        "url": "https://code-mark.s3.us-east-1.amazonaws.com",
+        "bucket": "code-mark",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:12:49.132448"
+      },
+      {
+        "url": "https://r-code.s3.us-west-2.amazonaws.com",
+        "bucket": "r-code",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:18:32.601793"
+      },
+      {
+        "url": "https://codehq.s3.us-east-1.amazonaws.com",
+        "bucket": "codehq",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:24:11.842509"
+      },
+      {
+        "url": "https://codeworks.s3.eu-north-1.amazonaws.com",
+        "bucket": "codeworks",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:26:45.680538"
+      },
+      {
+        "url": "https://backupcode.s3.us-east-1.amazonaws.com",
+        "bucket": "backupcode",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:27:39.309147"
+      },
+      {
+        "url": "https://codenext.s3.ap-southeast-2.amazonaws.com",
+        "bucket": "codenext",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:38:52.567016"
+      },
+      {
+        "url": "https://codewp.s3.us-east-1.amazonaws.com",
+        "bucket": "codewp",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:55:44.587279"
+      },
+      {
+        "url": "https://codev.s3.eu-west-1.amazonaws.com",
+        "bucket": "codev",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T18:59:38.525810"
+      },
+      {
+        "url": "https://codehall.s3.ap-south-1.amazonaws.com",
+        "bucket": "codehall",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:02:40.805571"
+      },
+      {
+        "url": "https://codemax.s3.sa-east-1.amazonaws.com",
+        "bucket": "codemax",
+        "region": "sa-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:08:24.386549"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/code.care",
+        "bucket": "code.care",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:23:36.316900"
+      },
+      {
+        "url": "https://issuecode.s3.ap-southeast-1.amazonaws.com",
+        "bucket": "issuecode",
+        "region": "ap-southeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:23:55.653737"
+      },
+      {
+        "url": "https://codebuket.s3.us-east-1.amazonaws.com",
+        "bucket": "codebuket",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:26:57.766696"
+      },
+      {
+        "url": "https://code12345.s3.us-east-2.amazonaws.com",
+        "bucket": "code12345",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:37:08.512536"
+      },
+      {
+        "url": "https://codecompanion.s3.us-west-2.amazonaws.com",
+        "bucket": "codecompanion",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:38:54.101569"
+      },
+      {
+        "url": "https://submitcode.s3.eu-west-1.amazonaws.com",
+        "bucket": "submitcode",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:39:59.077562"
+      },
+      {
+        "url": "https://codeapp.s3.eu-west-1.amazonaws.com",
+        "bucket": "codeapp",
+        "region": "eu-west-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:42:46.278282"
+      },
+      {
+        "url": "https://monstercode.s3.us-east-1.amazonaws.com",
+        "bucket": "monstercode",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:49:03.670152"
+      },
+      {
+        "url": "https://code-recipes.s3.eu-central-1.amazonaws.com",
+        "bucket": "code-recipes",
+        "region": "eu-central-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:49:25.632286"
+      },
+      {
+        "url": "https://codeli.s3.us-west-2.amazonaws.com",
+        "bucket": "codeli",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T19:53:00.642751"
+      },
+      {
+        "url": "https://s3.ap-southeast-2.amazonaws.com/test.code",
+        "bucket": "test.code",
+        "region": "ap-southeast-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:07:48.012481"
+      },
+      {
+        "url": "https://codeday.s3.us-east-1.amazonaws.com",
+        "bucket": "codeday",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:17:24.958308"
+      },
+      {
+        "url": "https://codetrip.s3.us-east-1.amazonaws.com",
+        "bucket": "codetrip",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:18:27.563259"
+      },
+      {
+        "url": "https://code-previews.s3.us-east-1.amazonaws.com",
+        "bucket": "code-previews",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:30:17.507115"
+      },
+      {
+        "url": "https://bankcode.s3.us-west-2.amazonaws.com",
+        "bucket": "bankcode",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:35:06.708964"
+      },
+      {
+        "url": "https://codebucket2.s3.us-east-2.amazonaws.com",
+        "bucket": "codebucket2",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:35:51.607633"
+      },
+      {
+        "url": "https://uicode.s3.ap-south-1.amazonaws.com",
+        "bucket": "uicode",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:38:29.915087"
+      },
+      {
+        "url": "https://code-users.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "code-users",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:52:25.375283"
+      },
+      {
+        "url": "https://s3.us-east-1.amazonaws.com/code.education",
+        "bucket": "code.education",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T20:59:30.957344"
+      },
+      {
+        "url": "https://codebin.s3.ap-south-1.amazonaws.com",
+        "bucket": "codebin",
+        "region": "ap-south-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:00:09.505860"
+      },
+      {
+        "url": "https://m-code.s3.ap-northeast-1.amazonaws.com",
+        "bucket": "m-code",
+        "region": "ap-northeast-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:04:36.619476"
+      },
+      {
+        "url": "https://codehosting.s3.us-west-2.amazonaws.com",
+        "bucket": "codehosting",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:14:32.668424"
+      },
+      {
+        "url": "https://htmlcode.s3.us-east-2.amazonaws.com",
+        "bucket": "htmlcode",
+        "region": "us-east-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:16:50.342582"
+      },
+      {
+        "url": "https://marscode.s3.eu-north-1.amazonaws.com",
+        "bucket": "marscode",
+        "region": "eu-north-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:21:25.720530"
+      },
+      {
+        "url": "https://phoenix-code.s3.us-east-1.amazonaws.com",
+        "bucket": "phoenix-code",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:28:52.119723"
+      },
+      {
+        "url": "https://coderobot.s3.us-east-1.amazonaws.com",
+        "bucket": "coderobot",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:33:15.322104"
+      },
+      {
+        "url": "https://codeform.s3.us-east-1.amazonaws.com",
+        "bucket": "codeform",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:34:41.754276"
+      },
+      {
+        "url": "https://studiocode.s3.us-east-1.amazonaws.com",
+        "bucket": "studiocode",
+        "region": "us-east-1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:37:03.011592"
+      },
+      {
+        "url": "https://socialcode.s3.us-west-2.amazonaws.com",
+        "bucket": "socialcode",
+        "region": "us-west-2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-11T21:37:13.268595"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361247,
+    "public_found": 47,
+    "private_found": 0
+  }
+}
