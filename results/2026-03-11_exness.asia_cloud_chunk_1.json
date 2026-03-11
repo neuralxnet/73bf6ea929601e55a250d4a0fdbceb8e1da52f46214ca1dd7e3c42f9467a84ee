@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "exchangemarketplace",
+  "domain": "exness.asia",
   "date": "2026-03-11",
-  "timestamp": "2026-03-11T07:29:37.563830",
+  "timestamp": "2026-03-11T13:30:21.298314",
   "providers": [
     "azure",
     "linode",
