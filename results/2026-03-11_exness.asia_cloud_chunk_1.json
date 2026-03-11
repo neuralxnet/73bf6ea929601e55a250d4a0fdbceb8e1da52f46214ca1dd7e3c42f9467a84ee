@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "exmo.me",
+  "domain": "exness.asia",
   "date": "2026-03-11",
-  "timestamp": "2026-03-11T11:17:37.593554",
+  "timestamp": "2026-03-11T13:30:21.298314",
   "providers": [
     "azure",
     "linode",
