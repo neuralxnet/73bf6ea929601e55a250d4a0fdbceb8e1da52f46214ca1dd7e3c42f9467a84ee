@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coda.io",
+  "date": "2026-03-11",
+  "timestamp": "2026-03-11T17:18:46.143164",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
