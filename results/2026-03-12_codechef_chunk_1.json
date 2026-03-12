@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "codechef",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-12T05:12:25.217957",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
