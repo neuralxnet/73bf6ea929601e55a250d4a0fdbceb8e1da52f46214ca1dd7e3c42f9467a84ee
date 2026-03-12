@@ -1,0 +1,21 @@
+{
+  "chunk_id": 1,
+  "domain": "fanduel",
+  "date": "2026-03-12",
+  "timestamp": "2026-03-12T20:24:55.670734",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
