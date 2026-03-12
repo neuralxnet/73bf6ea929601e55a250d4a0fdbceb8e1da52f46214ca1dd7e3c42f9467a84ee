@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "fanduel",
+  "domain": "fanduel.com",
   "date": "2026-03-12",
-  "timestamp": "2026-03-12T21:09:12.931185",
+  "timestamp": "2026-03-12T23:02:52.439262",
   "providers": [
     "azure",
     "linode",
