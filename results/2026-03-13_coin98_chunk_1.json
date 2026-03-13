@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coin98",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-13T08:31:30.032417",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
