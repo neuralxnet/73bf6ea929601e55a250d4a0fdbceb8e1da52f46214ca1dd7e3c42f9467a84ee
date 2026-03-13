@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coinbase.com",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-13T17:14:03.891465",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
