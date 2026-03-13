@@ -1,0 +1,31 @@
+{
+  "chunk_id": 1,
+  "domain": "finance",
+  "date": "2026-03-13",
+  "timestamp": "2026-03-13T23:08:35.804125",
+  "providers": [
+    "azure",
+    "linode",
+    "ibm",
+    "digitalocean"
+  ],
+  "results": {
+    "public": [
+      {
+        "url": "https://finance1.nyc3.digitaloceanspaces.com",
+        "bucket": "finance1",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T22:26:26.147728"
+      }
+    ],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 570510,
+    "public_found": 1,
+    "private_found": 0
+  }
+}
