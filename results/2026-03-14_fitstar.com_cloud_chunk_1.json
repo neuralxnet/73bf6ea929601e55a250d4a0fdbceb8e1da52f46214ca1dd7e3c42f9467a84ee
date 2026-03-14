@@ -1,8 +1,8 @@
 {
   "chunk_id": 1,
-  "domain": "fitstar",
+  "domain": "fitstar.com",
   "date": "2026-03-14",
-  "timestamp": "2026-03-14T15:06:17.451638",
+  "timestamp": "2026-03-14T16:03:53.254962",
   "providers": [
     "azure",
     "linode",
