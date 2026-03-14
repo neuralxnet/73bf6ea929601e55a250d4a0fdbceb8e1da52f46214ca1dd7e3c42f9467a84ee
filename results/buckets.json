@@ -2,6 +2,267 @@
   "buckets": {
     "public": [
       {
+        "url": "https://cdn-files.fra1.digitaloceanspaces.com",
+        "bucket": "cdn-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:28:03.622336"
+      },
+      {
+        "url": "https://appsfiles.ams3.digitaloceanspaces.com",
+        "bucket": "appsfiles",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:28:12.872003"
+      },
+      {
+        "url": "https://knowledge-files.fra1.digitaloceanspaces.com",
+        "bucket": "knowledge-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:28:50.180539"
+      },
+      {
+        "url": "https://uploaded-files.sfo3.digitaloceanspaces.com",
+        "bucket": "uploaded-files",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:28:55.202138"
+      },
+      {
+        "url": "https://sharedfiles.sfo3.digitaloceanspaces.com",
+        "bucket": "sharedfiles",
+        "provider": "digitalocean",
+        "region": "sfo3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:29:48.434909"
+      },
+      {
+        "url": "https://usersfiles.nyc3.digitaloceanspaces.com",
+        "bucket": "usersfiles",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:32:58.518969"
+      },
+      {
+        "url": "https://wfiles.fra1.digitaloceanspaces.com",
+        "bucket": "wfiles",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:33:01.663766"
+      },
+      {
+        "url": "https://marketing-files.fra1.digitaloceanspaces.com",
+        "bucket": "marketing-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:34:56.878125"
+      },
+      {
+        "url": "https://files-hq.sgp1.digitaloceanspaces.com",
+        "bucket": "files-hq",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:35:13.855713"
+      },
+      {
+        "url": "https://misc-files.fra1.digitaloceanspaces.com",
+        "bucket": "misc-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:36:48.858916"
+      },
+      {
+        "url": "https://cmsfiles.ams3.digitaloceanspaces.com",
+        "bucket": "cmsfiles",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:37:30.914622"
+      },
+      {
+        "url": "https://appfiles.fra1.digitaloceanspaces.com",
+        "bucket": "appfiles",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:38:45.682637"
+      },
+      {
+        "url": "https://cloud-files.sfo2.digitaloceanspaces.com",
+        "bucket": "cloud-files",
+        "provider": "digitalocean",
+        "region": "sfo2",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:45:21.382765"
+      },
+      {
+        "url": "https://provider-files.fra1.digitaloceanspaces.com",
+        "bucket": "provider-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:46:17.769325"
+      },
+      {
+        "url": "https://musicfiles.nyc3.digitaloceanspaces.com",
+        "bucket": "musicfiles",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:47:47.545892"
+      },
+      {
+        "url": "https://edgefiles.ams3.digitaloceanspaces.com",
+        "bucket": "edgefiles",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:48:24.151265"
+      },
+      {
+        "url": "https://aws-files.sgp1.digitaloceanspaces.com",
+        "bucket": "aws-files",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:49:57.963791"
+      },
+      {
+        "url": "https://uploadfiles.fra1.digitaloceanspaces.com",
+        "bucket": "uploadfiles",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:52:45.100253"
+      },
+      {
+        "url": "https://audiofiles.nyc3.digitaloceanspaces.com",
+        "bucket": "audiofiles",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:52:59.883090"
+      },
+      {
+        "url": "https://landingfiles.fra1.digitaloceanspaces.com",
+        "bucket": "landingfiles",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:55:58.959786"
+      },
+      {
+        "url": "https://files-share.ams3.digitaloceanspaces.com",
+        "bucket": "files-share",
+        "provider": "digitalocean",
+        "region": "ams3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:56:54.953309"
+      },
+      {
+        "url": "https://files-api.nyc3.digitaloceanspaces.com",
+        "bucket": "files-api",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:57:54.764203"
+      },
+      {
+        "url": "https://dfiles.sgp1.digitaloceanspaces.com",
+        "bucket": "dfiles",
+        "provider": "digitalocean",
+        "region": "sgp1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:58:31.701679"
+      },
+      {
+        "url": "https://files-multimedia.nyc3.digitaloceanspaces.com",
+        "bucket": "files-multimedia",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T16:59:29.121276"
+      },
+      {
+        "url": "https://tmsfiles.nyc3.digitaloceanspaces.com",
+        "bucket": "tmsfiles",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T17:01:06.801627"
+      },
+      {
+        "url": "https://files-gc.nyc3.digitaloceanspaces.com",
+        "bucket": "files-gc",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T17:01:17.751968"
+      },
+      {
+        "url": "https://nova-files.fra1.digitaloceanspaces.com",
+        "bucket": "nova-files",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T17:03:43.430377"
+      },
+      {
+        "url": "https://files-lv.fra1.digitaloceanspaces.com",
+        "bucket": "files-lv",
+        "provider": "digitalocean",
+        "region": "fra1",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T17:10:17.975733"
+      },
+      {
+        "url": "https://finance1.nyc3.digitaloceanspaces.com",
+        "bucket": "finance1",
+        "provider": "digitalocean",
+        "region": "nyc3",
+        "status": 200,
+        "access": "public",
+        "timestamp": "2026-03-13T22:26:26.147728"
+      },
+      {
         "url": "https://socialcode.s3.us-west-2.amazonaws.com",
         "bucket": "socialcode",
         "region": "us-west-2",
@@ -9316,16 +9577,18 @@
     ],
     "private": []
   },
-  "generated_at": "2026-03-14T01:53:15.088727+00:00",
-  "validated_at": "2026-03-14T01:53:15.088745+00:00",
+  "generated_at": "2026-03-14T02:27:03.369359+00:00",
+  "source_files": 17,
+  "domains_scanned": 16,
+  "total_chunks": 17,
   "file_index": 0,
   "total_files": 1,
   "stats": {
-    "public_buckets_in_file": 1164,
+    "public_buckets_in_file": 1193,
     "private_buckets_in_file": 0,
-    "total_buckets_in_file": 1164,
-    "total_public_buckets": 1164,
+    "total_buckets_in_file": 1193,
+    "total_public_buckets": 1193,
     "total_private_buckets": 0,
-    "total_buckets": 1164
+    "total_buckets": 1193
   }
 }
