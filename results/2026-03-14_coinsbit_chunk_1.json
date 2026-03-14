@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coinsbit",
+  "date": "2026-03-14",
+  "timestamp": "2026-03-14T23:32:16.237988",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
