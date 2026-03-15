@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coinstore",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-15T15:10:29.521061",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
