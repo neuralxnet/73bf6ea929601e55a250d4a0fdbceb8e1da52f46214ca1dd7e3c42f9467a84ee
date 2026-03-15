@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "coinspot",
+  "date": "2026-03-15",
+  "timestamp": "2026-03-15T06:07:32.775125",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
