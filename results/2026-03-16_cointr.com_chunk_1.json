@@ -1,0 +1,15 @@
+{
+  "chunk_id": 1,
+  "domain": "cointr.com",
+  "date": "2026-03-16",
+  "timestamp": "2026-03-16T01:40:34.511401",
+  "results": {
+    "public": [],
+    "private": []
+  },
+  "stats": {
+    "total_checked": 361323,
+    "public_found": 0,
+    "private_found": 0
+  }
+}
